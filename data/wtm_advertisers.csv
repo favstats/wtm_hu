@@ -149,15 +149,6 @@ e988024b-fd1e-496e-b06f-527c3333d9ce,LMP Tolna megye,2023-02-17T10:51:22.211Z,49
 32553d20-3d00-41cb-95f8-5776ffc89a4f,LMP Somogy megye,2023-03-25T10:51:12.926Z,24c7d0f0-039d-4263-9ed0-d59e56ccd992,LMP,Hungary,hu,767226053355082,LMP Somogy megye,Facebook
 d8516626-f67d-49be-8158-50950685da2c,MSZP Újpest - Káposztásmegyeri Szervezete,2023-03-12T10:51:27.341Z,d8ed09fe-9f63-4710-af01-df4a2905a26c,MSZP,Hungary,hu,292606340886422,MSZP Újpest - Káposztásmegyeri Szervezete,Facebook
 1ae4cd3f-52a1-46ca-beda-21e69dcf1d18,Demokratikus Koalíció Pásztó,2022-08-16T15:29:06.317Z,9ac80cbf-084f-4637-b5bc-4d83360ce09a,DK,Hungary,hu,1566770296920759,Demokratikus Koalíció Pásztó,Facebook
-9545e8d5-aa9a-49d7-bfc3-b52706861e7a,Demokratikus Koalíció Pásztó,2022-08-16T15:28:56.249Z,6dfcf444-df3e-4caa-b2ee-841fa6f692a5,DK,Hungary,hu,1566770296920750,Demokratikus Koalíció Pásztó,Facebook
-2fea6c60-4eec-42e7-9b56-01dba7782be6,Demokratikus Koalíció,2022-08-16T15:28:54.763Z,d755193f-a9a2-4a11-944a-e860c111fd81,DK,Hungary,hu,169599166463839,Demokratikus Koalíció,Facebook
-2854a5e0-acd7-4e92-94ab-476d1f1f3789,LMP - Magyarország Zöld Pártja,2022-08-16T15:28:46.478Z,59df0911-31c5-42ba-8409-95b7346049dc,LMP,Hungary,hu,47198507012,LMP - Magyarország Zöld Pártja,Facebook
-ef044777-acde-4ecd-b27d-e1bd910fe789,LMP Pestszentlőrinc - Pestszentimre,2022-08-16T15:28:53.731Z,85c304dc-ac9a-43fc-b2de-6404366de426,LMP,Hungary,hu,157678061062231,LMP Pestszentlőrinc - Pestszentimre,Facebook
-9c5d33d2-bf65-4ba4-880b-19b9e6a52651,LMP Kőbánya,2022-08-16T15:28:53.636Z,53880fdc-9c8b-4a19-b60b-1a1a1f0f8b0c,LMP,Hungary,hu,113727325372655,LMP Kőbánya,Facebook
-8274e8dd-2b5e-4b99-879c-8d420dba079f,LMP Miskolc - BAZ megye,2022-08-16T15:28:53.529Z,37c94415-07e7-4385-9f24-f7533a155b57,LMP,Hungary,hu,192197134141523,LMP Miskolc - BAZ megye,Facebook
-49c5e45e-0822-48f6-9bc8-8d61a58cf7a8,LMP Pest megye,2022-08-16T15:28:53.653Z,612d4e43-3fc0-4fba-a3d9-44a5e13c9a2a,LMP,Hungary,hu,232188776990255,LMP Pest megye,Facebook
-f114d949-08d9-4231-a56c-26fa5f590de3,LMP Győr-Mosonmagyaróvár,2022-08-16T15:28:57.896Z,3f0b5729-3b4f-416d-a2cf-308888b039c5,LMP,Hungary,hu,166519190062481,LMP Győr-Mosonmagyaróvár,Facebook
-540d797e-c01e-474c-a9dc-3747876f41b9,Szendefy Mária - LMP,2022-08-16T15:28:54.624Z,2cb7d72c-28ec-462e-8f85-51f2d1158029,LMP,Hungary,hu,2407809316170050,Szendefy Mária - LMP,Facebook
 2d6035c5-1fab-4925-bd58-42aebdc15423,LMP Budapest Kertváros,2023-03-21T10:51:14.508Z,fa919a3f-4d70-4e19-9c2e-29951bf5c135,LMP,Hungary,hu,139078029460562,LMP Budapest Kertváros,Facebook
 4ef81ee4-d968-4fc1-93f5-11a75987b02a,LMP Budapest,2023-03-01T10:51:27.368Z,257d3136-9eec-4bfa-bdd0-fe5db011bfff,LMP,Hungary,hu,179392595425293,LMP Budapest,Facebook
 844886fd-488d-4fed-8218-c3beb3b32a5b,LMP Újpest,2023-02-17T10:51:21.956Z,6358b0ee-a44f-420a-9705-9a388c553f9b,LMP,Hungary,hu,164318023607975,LMP Újpest,Facebook
@@ -184,6 +175,15 @@ b7ebd437-379e-4940-9fbe-11819e498f36,Jakál Adrienn,2023-02-08T05:55:32.766Z,13d
 ae5c6ef9-8161-499f-9b1a-6ddcc3bf8b89,Párbeszéd Magyarországért - Debrecen,2023-02-21T10:51:28.045Z,561d0d3e-7d6e-43f9-aa92-bf2f6f5c031d,Pár,Hungary,hu,363496947104219,Párbeszéd Magyarországért - Debrecen,Facebook
 eece36b6-618c-4bec-abb8-c04c80c3a5b0,Berki Sándor,2023-02-07T15:06:10.151Z,a012dced-5b51-483e-92e0-f317d26a716f,Pár,Hungary,hu,107453054183218,Berki Sándor,Facebook
 3aac6c68-97ac-45a5-9fae-f83df3c9b677,academiayogadharma,2023-02-24T10:51:34.054Z,5cd35438-656e-470d-bd02-810ced17e100,ZZZ,Hungary,hu,101991389495355,academiayogadharma,Facebook
+9545e8d5-aa9a-49d7-bfc3-b52706861e7a,Demokratikus Koalíció Pásztó,2022-08-16T15:28:56.249Z,6dfcf444-df3e-4caa-b2ee-841fa6f692a5,DK,Hungary,hu,1566770296920750,Demokratikus Koalíció Pásztó,Facebook
+2fea6c60-4eec-42e7-9b56-01dba7782be6,Demokratikus Koalíció,2022-08-16T15:28:54.763Z,d755193f-a9a2-4a11-944a-e860c111fd81,DK,Hungary,hu,169599166463839,Demokratikus Koalíció,Facebook
+2854a5e0-acd7-4e92-94ab-476d1f1f3789,LMP - Magyarország Zöld Pártja,2022-08-16T15:28:46.478Z,59df0911-31c5-42ba-8409-95b7346049dc,LMP,Hungary,hu,47198507012,LMP - Magyarország Zöld Pártja,Facebook
+ef044777-acde-4ecd-b27d-e1bd910fe789,LMP Pestszentlőrinc - Pestszentimre,2022-08-16T15:28:53.731Z,85c304dc-ac9a-43fc-b2de-6404366de426,LMP,Hungary,hu,157678061062231,LMP Pestszentlőrinc - Pestszentimre,Facebook
+9c5d33d2-bf65-4ba4-880b-19b9e6a52651,LMP Kőbánya,2022-08-16T15:28:53.636Z,53880fdc-9c8b-4a19-b60b-1a1a1f0f8b0c,LMP,Hungary,hu,113727325372655,LMP Kőbánya,Facebook
+8274e8dd-2b5e-4b99-879c-8d420dba079f,LMP Miskolc - BAZ megye,2022-08-16T15:28:53.529Z,37c94415-07e7-4385-9f24-f7533a155b57,LMP,Hungary,hu,192197134141523,LMP Miskolc - BAZ megye,Facebook
+49c5e45e-0822-48f6-9bc8-8d61a58cf7a8,LMP Pest megye,2022-08-16T15:28:53.653Z,612d4e43-3fc0-4fba-a3d9-44a5e13c9a2a,LMP,Hungary,hu,232188776990255,LMP Pest megye,Facebook
+f114d949-08d9-4231-a56c-26fa5f590de3,LMP Győr-Mosonmagyaróvár,2022-08-16T15:28:57.896Z,3f0b5729-3b4f-416d-a2cf-308888b039c5,LMP,Hungary,hu,166519190062481,LMP Győr-Mosonmagyaróvár,Facebook
+540d797e-c01e-474c-a9dc-3747876f41b9,Szendefy Mária - LMP,2022-08-16T15:28:54.624Z,2cb7d72c-28ec-462e-8f85-51f2d1158029,LMP,Hungary,hu,2407809316170050,Szendefy Mária - LMP,Facebook
 b2362e66-fdff-4c87-a4a3-4c522acbc2a9,BioMio,2023-02-24T10:51:33.988Z,7d0a5b1e-92d4-4166-88ad-ac4c6cd5ed8e,ZZZ,Hungary,hu,104587435564019,BioMio,Facebook
 2c1ca442-be0f-4c14-a92f-0713444a005c,Márki-Zay Péter,2022-08-16T15:28:45.251Z,26c3c9b0-d5dc-49a6-a966-c1d2bad3ee8c,Ellen,Hungary,hu,142116653162328,Márki-Zay Péter,Facebook
 4b705a54-1be4-43f3-b1d4-cd2a4861f501,KonVerzió,2022-08-16T15:28:45.370Z,4354df57-433b-4c0d-b90f-17548369b809,Korm,Hungary,hu,104359131558815,KonVerzió,Facebook
@@ -343,22 +343,6 @@ df621062-2fa9-4f29-b40d-97a25ad8b107,888.hu,2022-08-16T15:28:47.449Z,7c8fb2d8-13
 b85f5d07-6323-4055-852c-e46f8de8a9ec,Papp László,2022-08-16T15:28:47.715Z,737d2822-902f-4c53-9dc5-c595c51ab02d,Korm,Hungary,hu,1493071807593698,Papp László,Facebook
 9cb64c04-32d3-4764-96c8-6bb981932cd1,Nemzetpolitikai Államtitkárság,2022-08-16T15:28:47.835Z,9f8ed2e4-9bbf-418e-b923-d32c1eb91c59,Korm,Hungary,hu,1920158678081160,Nemzetpolitikai Államtitkárság,Facebook
 ddb1ae57-1e50-4230-ad8f-13711e5e6d09,Aranyos Gábor,2022-08-16T15:28:47.959Z,4fd19bd8-3958-4b60-a065-9aaa7fb4af83,Ellen,Hungary,hu,471957966936762,Aranyos Gábor,Facebook
-f923c717-a23f-4780-bd41-758e9ccb4589,Sajómente,2022-08-16T15:28:48.080Z,77fb6f60-a596-4112-b65b-e779e8694398,Korm,Hungary,hu,215551471947529,Sajómente,Facebook
-b8797f2e-28be-4317-a5cd-026cd86542e2,Kaposvári Fricska,2022-08-16T15:28:48.210Z,e3b912c4-52d1-4d6b-829f-dc9f429e36f3,Korm,Hungary,hu,489261341252604,Kaposvári Fricska,Facebook
-acf2e892-0c1b-4623-a596-e3a1abc2c27c,Szombathelyi tények,2022-08-16T15:28:48.353Z,f8d54834-dd95-4f49-a68d-6b289db605d6,Korm,Hungary,hu,103109218306038,Szombathelyi tények,Facebook
-1cf2e6a0-90ba-4a72-9adc-425c38ba423e,EzaLényeg.hu - Kisalföld,2022-08-16T15:28:48.504Z,ff75a798-1492-448a-8b0a-59fca48bb51c,Ellen,Hungary,hu,110876480622504,EzaLényeg.hu - Kisalföld,Facebook
-0d4df311-2202-4945-87d5-88f71243beb2,Szoljon.hu,2022-08-16T15:28:48.642Z,22c786cc-5abd-4703-81b5-da96dbe8d413,Korm,Hungary,hu,134324809941862,Szoljon.hu,Facebook
-7c4f4546-09ff-4851-a632-c61fe59813c6,Zsigó Róbert,2022-08-16T15:28:48.742Z,82fcfd7e-2ea2-492c-a14f-0b1c86a8e1e4,Korm,Hungary,hu,333136826797847,Zsigó Róbert,Facebook
-62a03735-10fb-4b15-9eb2-0fa827d2cec2,Future of Debrecen,2022-08-16T15:28:48.832Z,07dc13bc-7e2a-4eb9-8ac2-3a65aaa9a06f,Korm,Hungary,hu,103141961544400,Future of Debrecen,Facebook
-6b0947c4-6131-42f3-851c-3bcdd1c796f4,Hölvényi György,2022-08-16T15:28:48.958Z,5ee43542-f5a0-4106-99c6-3958bae3f9f5,Korm,Hungary,hu,876772425797119,Hölvényi György,Facebook
-e4d9787e-33a5-4ffe-a17f-415d7e313ede,Nyugtával dicsérd a NAV-ot,2022-08-16T15:28:49.080Z,9354cd2f-b083-484c-82de-cc169877b06b,Méd,Hungary,hu,109403894753122,Nyugtával dicsérd a NAV-ot,Facebook
-fe4e1fee-60f9-4ce2-a6ff-3f8f0757d67a,Dr.Dézsi Csaba András,2022-08-16T15:28:49.464Z,c51f1a98-835d-4ef2-9ecf-811070e215e8,Korm,Hungary,hu,110069120361485,Dr.Dézsi Csaba András,Facebook
-b5cf0d72-0c4d-41a7-9672-285b0dc5b7c1,Migrációkutató Intézet,2022-08-16T15:28:49.617Z,137c59d4-853c-4818-9085-54cc119c6dbf,Korm,Hungary,hu,777343075710072,Migrációkutató Intézet,Facebook
-ab2dc11e-8ee1-4f63-8213-a1f863c5c33b,Hírnyolc,2022-08-16T15:28:49.745Z,ff8bd6f3-56cd-4045-8f31-40a966cc9dff,Korm,Hungary,hu,105140281027554,Hírnyolc,Facebook
-51473ed8-9c78-407c-a4fe-5b116ed7b594,Mindenki Magyarországa Mozgalom - Dél-Buda,2022-08-16T15:28:49.874Z,a2a55571-4eda-4870-8e05-197f9758ea96,Ellen,Hungary,hu,2299046730376282,Mindenki Magyarországa Mozgalom - Dél-Buda,Facebook
-8fb0d96e-d8fd-4e6c-9ef9-7ec2dac8ace7,Kiss Balázs Imre,2022-08-16T15:28:50.000Z,e0223a29-2606-495e-93d7-80b17488c15b,Korm,Hungary,hu,101834121646723,Kiss Balázs Imre,Facebook
-491a40be-0dcb-4461-a7ca-663ee8dbec34,Nézőpont,2022-08-16T15:28:50.202Z,fb04b7a1-8261-4b06-bbfa-e5661917bc8e,Korm,Hungary,hu,200602616651296,Nézőpont,Facebook
-8352dcd7-5f6a-412a-b81e-2466fc167a5c,Sára Botond,2022-08-16T15:28:50.330Z,f4da97af-dfa9-4e9e-b457-7969d64a33e7,Korm,Hungary,hu,1094845533905589,Sára Botond,Facebook
 35a8c223-baa2-4aa4-8592-42d2faca06c4,Győrffy Balázs,2022-08-16T15:28:46.242Z,4df34382-53c4-45b4-9d0a-6d2bf1f5a93e,Korm,Hungary,hu,108346693873484,Győrffy Balázs,Facebook
 52d3a2de-f812-4770-b02c-e9e58383056d,Harrach Péter,2022-08-16T15:28:46.348Z,72a0875c-0476-45ff-a726-2ff6f022cdca,Korm,Hungary,hu,206160682739388,Harrach Péter,Facebook
 dc0e5323-cec9-478b-b3ef-2f0b0cfd7608,EzaLényeg.hu - Fehérvár,2022-08-16T15:28:46.404Z,c234c206-24c8-4e05-aa99-90ba5c7112c0,Ellen,Hungary,hu,107270767561186,EzaLényeg.hu - Fehérvár,Facebook
@@ -528,8 +512,22 @@ a789f6a7-f027-469c-be5a-4dd207109b41,Mezőföld Infó,2022-08-16T15:28:49.464Z,6
 001c86f1-630d-4ecf-aeb4-323cb871c053,Kommentár folyóirat,2022-08-16T15:28:49.611Z,91d9def1-489e-4865-8309-e8c1d682b90e,Korm,Hungary,hu,164978926850719,Kommentár folyóirat,Facebook
 685d1615-e135-4b63-98b7-26c821af42df,EzaLényeg.hu - Szombathely,2022-08-16T15:28:49.738Z,ee634216-d2b3-4352-a88d-4b6e2d17dfaa,Ellen,Hungary,hu,102111214501804,EzaLényeg.hu - Szombathely,Facebook
 5b0050d4-b36a-4b0f-b2b1-4a0ef75e34b1,Czunyiné dr. Bertalan Judit,2022-08-16T15:28:49.873Z,ffed0a7a-fe9a-4b57-ace0-8177bf8478e4,Korm,Hungary,hu,662181743833292,Czunyiné dr. Bertalan Judit,Facebook
-21b515d3-53a4-4b1d-a938-b8f0a12fac4c,Dr Konczer Erik,2022-08-16T15:28:49.999Z,226b79d7-ae2c-4792-998d-8c350c53fa5a,Ellen,Hungary,hu,171137123081881,Dr Konczer Erik,Facebook
-987c7e7c-fa43-4a93-a537-7b6ebb3f6d6d,Dr. Hörcsik Richárd,2022-08-16T15:28:50.324Z,ced57fcc-7622-415a-b6b6-8261e5a64a20,Korm,Hungary,hu,358624704555983,Dr. Hörcsik Richárd,Facebook
+f923c717-a23f-4780-bd41-758e9ccb4589,Sajómente,2022-08-16T15:28:48.080Z,77fb6f60-a596-4112-b65b-e779e8694398,Korm,Hungary,hu,215551471947529,Sajómente,Facebook
+b8797f2e-28be-4317-a5cd-026cd86542e2,Kaposvári Fricska,2022-08-16T15:28:48.210Z,e3b912c4-52d1-4d6b-829f-dc9f429e36f3,Korm,Hungary,hu,489261341252604,Kaposvári Fricska,Facebook
+acf2e892-0c1b-4623-a596-e3a1abc2c27c,Szombathelyi tények,2022-08-16T15:28:48.353Z,f8d54834-dd95-4f49-a68d-6b289db605d6,Korm,Hungary,hu,103109218306038,Szombathelyi tények,Facebook
+1cf2e6a0-90ba-4a72-9adc-425c38ba423e,EzaLényeg.hu - Kisalföld,2022-08-16T15:28:48.504Z,ff75a798-1492-448a-8b0a-59fca48bb51c,Ellen,Hungary,hu,110876480622504,EzaLényeg.hu - Kisalföld,Facebook
+0d4df311-2202-4945-87d5-88f71243beb2,Szoljon.hu,2022-08-16T15:28:48.642Z,22c786cc-5abd-4703-81b5-da96dbe8d413,Korm,Hungary,hu,134324809941862,Szoljon.hu,Facebook
+7c4f4546-09ff-4851-a632-c61fe59813c6,Zsigó Róbert,2022-08-16T15:28:48.742Z,82fcfd7e-2ea2-492c-a14f-0b1c86a8e1e4,Korm,Hungary,hu,333136826797847,Zsigó Róbert,Facebook
+62a03735-10fb-4b15-9eb2-0fa827d2cec2,Future of Debrecen,2022-08-16T15:28:48.832Z,07dc13bc-7e2a-4eb9-8ac2-3a65aaa9a06f,Korm,Hungary,hu,103141961544400,Future of Debrecen,Facebook
+6b0947c4-6131-42f3-851c-3bcdd1c796f4,Hölvényi György,2022-08-16T15:28:48.958Z,5ee43542-f5a0-4106-99c6-3958bae3f9f5,Korm,Hungary,hu,876772425797119,Hölvényi György,Facebook
+e4d9787e-33a5-4ffe-a17f-415d7e313ede,Nyugtával dicsérd a NAV-ot,2022-08-16T15:28:49.080Z,9354cd2f-b083-484c-82de-cc169877b06b,Méd,Hungary,hu,109403894753122,Nyugtával dicsérd a NAV-ot,Facebook
+fe4e1fee-60f9-4ce2-a6ff-3f8f0757d67a,Dr.Dézsi Csaba András,2022-08-16T15:28:49.464Z,c51f1a98-835d-4ef2-9ecf-811070e215e8,Korm,Hungary,hu,110069120361485,Dr.Dézsi Csaba András,Facebook
+b5cf0d72-0c4d-41a7-9672-285b0dc5b7c1,Migrációkutató Intézet,2022-08-16T15:28:49.617Z,137c59d4-853c-4818-9085-54cc119c6dbf,Korm,Hungary,hu,777343075710072,Migrációkutató Intézet,Facebook
+ab2dc11e-8ee1-4f63-8213-a1f863c5c33b,Hírnyolc,2022-08-16T15:28:49.745Z,ff8bd6f3-56cd-4045-8f31-40a966cc9dff,Korm,Hungary,hu,105140281027554,Hírnyolc,Facebook
+51473ed8-9c78-407c-a4fe-5b116ed7b594,Mindenki Magyarországa Mozgalom - Dél-Buda,2022-08-16T15:28:49.874Z,a2a55571-4eda-4870-8e05-197f9758ea96,Ellen,Hungary,hu,2299046730376282,Mindenki Magyarországa Mozgalom - Dél-Buda,Facebook
+8fb0d96e-d8fd-4e6c-9ef9-7ec2dac8ace7,Kiss Balázs Imre,2022-08-16T15:28:50.000Z,e0223a29-2606-495e-93d7-80b17488c15b,Korm,Hungary,hu,101834121646723,Kiss Balázs Imre,Facebook
+491a40be-0dcb-4461-a7ca-663ee8dbec34,Nézőpont,2022-08-16T15:28:50.202Z,fb04b7a1-8261-4b06-bbfa-e5661917bc8e,Korm,Hungary,hu,200602616651296,Nézőpont,Facebook
+8352dcd7-5f6a-412a-b81e-2466fc167a5c,Sára Botond,2022-08-16T15:28:50.330Z,f4da97af-dfa9-4e9e-b457-7969d64a33e7,Korm,Hungary,hu,1094845533905589,Sára Botond,Facebook
 5ce3d053-4dd9-4196-9869-250dd40a1afd,Very Important Planet,2022-08-16T15:28:48.192Z,335b1e7b-faea-49d5-9f5c-4dadb48993ad,Ellen,Hungary,hu,127539005484626,Very Important Planet,Facebook
 6d4eb832-1f9d-450e-a4c4-81b8a69eb300,Varga Gábor,2022-08-16T15:28:48.314Z,b8a0f28c-329d-4018-9fcd-2759615e02b2,Korm,Hungary,hu,158618604765401,Varga Gábor,Facebook
 d6d9faec-dab7-43e3-8c1b-bf8aa3c8f7e6,Hiros.hu,2022-08-16T15:28:48.458Z,5ccbbe78-6e1d-478a-9da6-6f5e707a73b5,Korm,Hungary,hu,954672701251045,Hiros.hu,Facebook
@@ -648,23 +646,8 @@ e37b880c-f736-4b35-b756-3b6cf3c7126d,EzaLényeg.hu - Felcsút,2022-08-16T15:28:5
 7d97b21f-8e80-4007-a1dc-888ac4509946,Balszerencse Mentes Miskolc,2022-08-16T15:28:57.230Z,128eacd7-ba66-40d6-9207-4d1e84fe2a40,Korm,Hungary,hu,1360555497325350,Balszerencse Mentes Miskolc,Facebook
 a24477c5-b618-460d-ae87-27422ede3b7c,Sermer Ádám,2022-08-16T15:28:57.356Z,2773451f-318c-4d89-9444-c3e7782b2685,Ellen,Hungary,hu,1640736922828480,Sermer Ádám,Facebook
 6a1b4409-0824-41df-8b62-1285e87d2e73,RTL Klub,2022-08-16T15:28:57.515Z,faaaf358-0a11-4f6f-843e-8f054fe01b0d,Méd,Hungary,hu,131059950261988,RTL Klub,Facebook
-aef77c82-72df-4fc4-bd58-5366849fc213,Ujhelyi István dr.,2022-08-16T15:28:57.656Z,3493d6d1-3705-4cf0-8074-11efbe8053df,Ellen,Hungary,hu,734217673259088,Ujhelyi István dr.,Facebook
-1df4751b-553f-4b88-8bfe-b1fc612bdf5f,Mi Hazánk Józsefváros,2022-08-16T15:28:57.786Z,f708f63a-4dba-4ab7-a5dc-b266efc5e727,Egyéb,Hungary,hu,1574780202811650,Mi Hazánk Józsefváros,Facebook
-8ce9012a-f6c7-4ba1-95f2-691dfee489ef,Szeretlek Békés,2022-08-16T15:28:57.945Z,a58e05e3-1e1d-4c99-b602-bee60035ef87,NGO,Hungary,hu,107418458541449,Szeretlek Békés,Facebook
-ac573941-d26b-45d6-9b0b-db8d31b2242f,Kovács Gergely,2022-08-16T15:29:04.485Z,4c54bf84-7876-4cd7-a7b0-2fdb76410f44,Egyéb,Hungary,hu,105605771418101,Kovács Gergely,Facebook
-accf4500-795b-438c-b1d5-9d024859e345,Bácshír,2022-08-16T15:29:04.614Z,5af5fccb-bd79-43e2-bf41-430eb0986a75,Méd,Hungary,hu,100204638558717,Bácshír,Facebook
-015a7cd3-0b99-40b4-bda5-ce51077bc379,Magyar Hírlap a gyermekvédelemről,2022-08-16T15:29:04.742Z,e02e4b31-2f78-4c3e-b86a-0a900bff0079,Korm,Hungary,hu,104345488818720,Magyar Hírlap a gyermekvédelemről,Facebook
-d6c53047-cc5f-4f05-ae70-73c86cc5a988,Botka László,2022-08-16T15:29:04.873Z,2d7c7717-f803-43b7-bdf3-e6511ac50cd7,Ellen,Hungary,hu,122148514472963,Botka László,Facebook
-b6f8513d-375d-4a44-8003-0b27f4109191,Bence osztálya,2022-08-16T15:29:05.056Z,5b1191f0-0f54-4879-8462-d11f6aa1c2e4,Ellen,Hungary,hu,108508861068033,Bence osztálya,Facebook
-bef910e8-6e02-4555-bd2c-5f7b3c347d06,Font Sándor,2022-08-16T15:29:05.206Z,8a830901-783d-4dc0-98e3-24616623c653,Korm,Hungary,hu,222720184518334,Font Sándor,Facebook
-1268538e-c784-4913-96ec-79c366ee42c6,Pikó András polgármester,2022-08-16T15:29:05.390Z,f33f78d5-dbe1-4682-99ec-2a73a48157f5,Ellen,Hungary,hu,379369999371763,Pikó András polgármester,Facebook
-f6cd14b7-51b5-4702-a9ca-cdafed231ff4,Mi Hazánk Mátra és környéke,2022-08-16T15:29:05.492Z,a20f8cfa-280d-41b7-98ab-693660b72d44,Egyéb,Hungary,hu,113200656884965,Mi Hazánk Mátra és környéke,Facebook
-873baf7c-207f-46b8-9378-85feda5f0c46,BalonKabát,2022-08-16T15:29:05.772Z,bb8cec76-5461-43f0-aab0-b6f8b2743fdd,Ellen,Hungary,hu,102478871739523,BalonKabát,Facebook
-d3041ceb-c00a-4ca8-92a9-0d2e699d0a64,Bravo,2022-08-16T15:29:06.059Z,a540f466-502f-4145-8408-a88a3514ab60,Korm,Hungary,hu,47208120858,Bravo,Facebook
-e79e9291-1e91-466d-829e-7c73a9b5dcb8,Balszerencse Mentes Miskolc,2022-08-16T15:29:06.189Z,14f10761-2b78-41bd-bb2b-4a5de95ba62a,Korm,Hungary,hu,1360555497325355,Balszerencse Mentes Miskolc,Facebook
-b8a993fb-2ee3-491c-93f1-48562f6736f4,KDNP Kecel,2022-08-16T15:28:58.074Z,9cefb074-c6ba-442f-a8bc-c88b30ecb7b8,KDNP,Hungary,hu,108690807552451,KDNP Kecel,Facebook
-04d9704a-6b08-40dc-8760-ba33314e3277,KDNP Budaörs,2022-08-16T15:29:05.911Z,83991b11-887e-4130-b5cd-363a70a65747,KDNP,Hungary,hu,632165190315151,KDNP Budaörs,Facebook
-e9442a5b-b818-4769-96e6-ad8204598fd2,DK Nyíregyháza,2022-08-16T15:28:54.606Z,a6d36dc0-4c03-473e-8bc3-ec72042c4889,DK,Hungary,hu,1595121247382390,DK Nyíregyháza,Facebook
+21b515d3-53a4-4b1d-a938-b8f0a12fac4c,Dr Konczer Erik,2022-08-16T15:28:49.999Z,226b79d7-ae2c-4792-998d-8c350c53fa5a,Ellen,Hungary,hu,171137123081881,Dr Konczer Erik,Facebook
+987c7e7c-fa43-4a93-a537-7b6ebb3f6d6d,Dr. Hörcsik Richárd,2022-08-16T15:28:50.324Z,ced57fcc-7622-415a-b6b6-8261e5a64a20,Korm,Hungary,hu,358624704555983,Dr. Hörcsik Richárd,Facebook
 e615e73a-2f38-4296-88ee-319c11b8f35f,Nacsa Lőrinc,2022-08-16T15:28:51.537Z,d7df7a01-6ed8-4d0a-a8b2-ae169798f37a,Korm,Hungary,hu,959798297495473,Nacsa Lőrinc,Facebook
 79915169-828a-495a-a139-64ca3f80708f,Gulyás Gergely,2022-08-16T15:28:51.678Z,110c7419-45ec-4dab-93e5-3c3b0c733d62,Korm,Hungary,hu,1443632629226845,Gulyás Gergely,Facebook
 70f6594e-313f-41fb-9664-4d393a69daf3,Mellár Tamás,2022-08-16T15:28:51.799Z,96350f8c-e496-4c95-a0d1-8dc7b36bf5fc,Ellen,Hungary,hu,342785876208317,Mellár Tamás,Facebook
@@ -796,30 +779,23 @@ c9067468-694c-4e8d-9eff-f2056e53bdec,Varga László,2022-08-16T15:28:54.029Z,7c6
 fd74c6a8-ce0d-4f6a-859b-1c1fbd2fa832,MKKP Esztergom,2022-08-16T15:28:55.204Z,b65ac760-9550-4672-9fa9-e7794edc44d9,Egyéb,Hungary,hu,131080114219844,MKKP Esztergom,Facebook
 0ca3f4e1-8d29-4854-ac24-601a7d4a864e,MKKP Újpest BP IV. kerület,2022-08-16T15:28:55.320Z,c32165ab-e170-4e3b-9583-54683fc7f562,Egyéb,Hungary,hu,1604359922977040,MKKP Újpest BP IV. kerület,Facebook
 0b80ab60-324f-4da7-baae-264580b31db8,Hornyák Attila - Megoldás Mozgalom MEMO,2022-08-16T15:28:55.455Z,78060d6f-d14a-4f7a-bbbb-27b095b754af,Egyéb,Hungary,hu,113255714605719,Hornyák Attila - Megoldás Mozgalom MEMO,Facebook
-b9eab1e9-7d26-4b0b-b605-8af226980d9e,MKKP Pest megye,2022-08-16T15:28:55.706Z,f42b11f6-18e5-49f7-88e1-aabadfceec52,Egyéb,Hungary,hu,536738509717610,MKKP Pest megye,Facebook
-433bbdee-228a-4e11-816c-2227ec234442,Tanítanék,2022-08-16T15:28:55.830Z,c966598d-2b1e-4091-ae8b-75e604c467e9,NGO,Hungary,hu,1487569941539650,Tanítanék,Facebook
-9fb351bb-4ea9-401f-abbd-d1396b66ee54,"Ez Kell nálunk, Jász-Nagykun-Szolnok megyében",2022-08-16T15:28:55.962Z,410a47c7-1681-432d-8847-94144f407674,Méd,Hungary,hu,100822415853250,"Ez Kell nálunk, Jász-Nagykun-Szolnok megyében",Facebook
-995613fe-f355-4af3-b15c-dd04c98f4606,Azbej Tristan ن,2022-08-16T15:28:56.082Z,696bb897-05c1-4e1c-85fa-a0a92c2ff62f,Korm,Hungary,hu,562712570560978,Azbej Tristan ن,Facebook
-085d37b3-e423-4979-8e8b-22787438024f,Horváth Diána - Megoldás Mozgalom MEMO,2022-08-16T15:28:56.170Z,05c34cef-4dcb-499e-9d15-5e8cd7a7e320,Egyéb,Hungary,hu,104201785523861,Horváth Diána - Megoldás Mozgalom MEMO,Facebook
-b2024735-1d10-4ac8-9e8e-a6bec4ae759b,"Aki Orbán ellen van, az velünk van",2022-08-16T15:28:56.314Z,185b1c51-8c34-4135-a71f-8bf738bb745f,Ellen,Hungary,hu,1506534279599659,"Aki Orbán ellen van, az velünk van",Facebook
-cf515673-7240-4bbf-91e4-4c0e01678d70,Magyar Anyák,2022-08-16T15:28:56.586Z,4b8db685-4120-4e8b-922e-75bc522cfcf2,Ellen,Hungary,hu,2201713216768410,Magyar Anyák,Facebook
-013b9589-4c11-4aa1-955c-88ae9aa9d2b1,Humor Magazin,2022-08-16T15:28:56.710Z,685c5102-b404-4bd4-8db0-6689f4b27feb,Ellen,Hungary,hu,622846234588910,Humor Magazin,Facebook
-81825c82-ea42-42c3-9d93-41a1cb57545f,Ingyen pofon,2022-08-16T15:28:56.725Z,9a5e9c1a-c244-47cb-8da2-dbd127f1f85a,Korm,Hungary,hu,140006679897931,Ingyen pofon,Facebook
-355c95a1-83f0-45df-a8ad-57e5f8440590,Nyíregyházi Dosszié,2022-08-16T15:28:56.858Z,06d748ce-ed8a-4096-ab08-e7b2c9a2e5b9,Korm,Hungary,hu,696437227034989,Nyíregyházi Dosszié,Facebook
-57c76179-e844-43f8-b62c-5828afd909c7,Köröndi Máté,2022-08-16T15:28:56.967Z,bf0f5124-c458-4a89-bfa1-8dfb55ceb99d,Egyéb,Hungary,hu,103005792215847,Köröndi Máté,Facebook
-7727c335-634a-41e9-8a36-84241fd0a828,EzaLényeg.hu - Pápa,2022-08-16T15:28:57.092Z,7b28f20a-7c8e-42c8-a584-e6f994d2c38b,Ellen,Hungary,hu,100516178339092,EzaLényeg.hu - Pápa,Facebook
-c9b0f92f-f054-4191-9e74-36503343ce1f,Szabó József,2022-08-16T15:28:57.213Z,c708bb49-670a-43e8-931b-9cf48fa70c0b,Korm,Hungary,hu,102433701337631,Szabó József,Facebook
-e57cca83-9a0f-448c-9f7a-4be6e92e036d,"Ez Kell nálunk, Hevesben",2022-08-16T15:28:57.334Z,4badd088-079e-4e77-b284-e0df2b93f851,Ellen,Hungary,hu,109679018288284,"Ez Kell nálunk, Hevesben",Facebook
-6811838b-f4a5-4098-beb4-01bece7f18cb,Az Élet Menete Alapítvány,2022-08-16T15:28:57.462Z,aa9ad385-70fd-4a9b-8544-7b5b67e2c0d1,NGO,Hungary,hu,125356647613851,Az Élet Menete Alapítvány,Facebook
-6b56778b-a914-4b16-bc8d-b1f31cc05658,Pusztai Patrik,2022-08-16T15:28:57.708Z,f1c1ba96-2cba-4b7f-976b-5d6c612590a6,Ellen,Hungary,hu,2488214764737150,Pusztai Patrik,Facebook
-a93335cd-f49a-4c46-b9bd-0e1320c9d6ec,CEU Bibó István Szabadegyetem,2022-08-16T15:28:57.831Z,b0b7cd47-b10d-4fe5-ac4e-6d2c25504943,NGO,Hungary,hu,317028185838691,CEU Bibó István Szabadegyetem,Facebook
-690af03d-2534-4f3f-a7bd-04f53cb68d17,Élet és Irodalom,2022-08-16T15:28:57.975Z,dc24bf78-e373-43d9-99b1-399752c13c99,Méd,Hungary,hu,18562323874,Élet és Irodalom,Facebook
-f1c850b2-af6f-4cf2-a014-8a1f65d2d753,Napi.hu,2022-08-16T15:28:58.089Z,766532df-6aaa-4cf6-a3d2-95350c81d9ad,Méd,Hungary,hu,353820462820,Napi.hu,Facebook
-dcb43b0e-b259-4848-a9fe-578c2fb05fdc,Nyugdíjasok Orbán Viktor és a Fidesz mellett,2022-08-16T15:28:52.326Z,f0558649-a9c9-47c3-afac-ca4abf1fc333,Fid,Hungary,hu,110716241465588,Nyugdíjasok Orbán Viktor és a Fidesz mellett,Facebook
-80279b39-66b0-441d-bb10-08860dcd0636,Fidesz Kaposvár és a Zselic,2022-08-16T15:28:54.492Z,e6132c48-4cd2-4bfe-a5d8-85173a4a17fe,Fid,Hungary,hu,1530273233676420,Fidesz Kaposvár és a Zselic,Facebook
-60f2a7e8-a426-49d0-a308-401df7d3bdae,Momentum TizenX,2022-08-16T15:28:53.520Z,e6a46b12-65f4-44cd-8545-24aded0fe5a1,Mom,Hungary,hu,1992543104404776,Momentum TizenX,Facebook
-ca34783a-d012-43ac-9ed6-c2e91f3ed078,Momentum TizenX,2022-08-16T15:28:54.615Z,0785928b-1240-4d90-8409-976eebd0125d,Mom,Hungary,hu,1992543104404770,Momentum TizenX,Facebook
-d9f02adb-2814-446c-a07e-1abbbbcf5967,Jobbik Ercsi,2022-08-16T15:28:55.580Z,06b20da2-ec9b-4e76-8d5d-63ab5590e2a3,Job,Hungary,hu,572681133253149,Jobbik Ercsi,Facebook
+aef77c82-72df-4fc4-bd58-5366849fc213,Ujhelyi István dr.,2022-08-16T15:28:57.656Z,3493d6d1-3705-4cf0-8074-11efbe8053df,Ellen,Hungary,hu,734217673259088,Ujhelyi István dr.,Facebook
+1df4751b-553f-4b88-8bfe-b1fc612bdf5f,Mi Hazánk Józsefváros,2022-08-16T15:28:57.786Z,f708f63a-4dba-4ab7-a5dc-b266efc5e727,Egyéb,Hungary,hu,1574780202811650,Mi Hazánk Józsefváros,Facebook
+8ce9012a-f6c7-4ba1-95f2-691dfee489ef,Szeretlek Békés,2022-08-16T15:28:57.945Z,a58e05e3-1e1d-4c99-b602-bee60035ef87,NGO,Hungary,hu,107418458541449,Szeretlek Békés,Facebook
+ac573941-d26b-45d6-9b0b-db8d31b2242f,Kovács Gergely,2022-08-16T15:29:04.485Z,4c54bf84-7876-4cd7-a7b0-2fdb76410f44,Egyéb,Hungary,hu,105605771418101,Kovács Gergely,Facebook
+accf4500-795b-438c-b1d5-9d024859e345,Bácshír,2022-08-16T15:29:04.614Z,5af5fccb-bd79-43e2-bf41-430eb0986a75,Méd,Hungary,hu,100204638558717,Bácshír,Facebook
+015a7cd3-0b99-40b4-bda5-ce51077bc379,Magyar Hírlap a gyermekvédelemről,2022-08-16T15:29:04.742Z,e02e4b31-2f78-4c3e-b86a-0a900bff0079,Korm,Hungary,hu,104345488818720,Magyar Hírlap a gyermekvédelemről,Facebook
+d6c53047-cc5f-4f05-ae70-73c86cc5a988,Botka László,2022-08-16T15:29:04.873Z,2d7c7717-f803-43b7-bdf3-e6511ac50cd7,Ellen,Hungary,hu,122148514472963,Botka László,Facebook
+b6f8513d-375d-4a44-8003-0b27f4109191,Bence osztálya,2022-08-16T15:29:05.056Z,5b1191f0-0f54-4879-8462-d11f6aa1c2e4,Ellen,Hungary,hu,108508861068033,Bence osztálya,Facebook
+bef910e8-6e02-4555-bd2c-5f7b3c347d06,Font Sándor,2022-08-16T15:29:05.206Z,8a830901-783d-4dc0-98e3-24616623c653,Korm,Hungary,hu,222720184518334,Font Sándor,Facebook
+1268538e-c784-4913-96ec-79c366ee42c6,Pikó András polgármester,2022-08-16T15:29:05.390Z,f33f78d5-dbe1-4682-99ec-2a73a48157f5,Ellen,Hungary,hu,379369999371763,Pikó András polgármester,Facebook
+f6cd14b7-51b5-4702-a9ca-cdafed231ff4,Mi Hazánk Mátra és környéke,2022-08-16T15:29:05.492Z,a20f8cfa-280d-41b7-98ab-693660b72d44,Egyéb,Hungary,hu,113200656884965,Mi Hazánk Mátra és környéke,Facebook
+873baf7c-207f-46b8-9378-85feda5f0c46,BalonKabát,2022-08-16T15:29:05.772Z,bb8cec76-5461-43f0-aab0-b6f8b2743fdd,Ellen,Hungary,hu,102478871739523,BalonKabát,Facebook
+d3041ceb-c00a-4ca8-92a9-0d2e699d0a64,Bravo,2022-08-16T15:29:06.059Z,a540f466-502f-4145-8408-a88a3514ab60,Korm,Hungary,hu,47208120858,Bravo,Facebook
+e79e9291-1e91-466d-829e-7c73a9b5dcb8,Balszerencse Mentes Miskolc,2022-08-16T15:29:06.189Z,14f10761-2b78-41bd-bb2b-4a5de95ba62a,Korm,Hungary,hu,1360555497325355,Balszerencse Mentes Miskolc,Facebook
+b8a993fb-2ee3-491c-93f1-48562f6736f4,KDNP Kecel,2022-08-16T15:28:58.074Z,9cefb074-c6ba-442f-a8bc-c88b30ecb7b8,KDNP,Hungary,hu,108690807552451,KDNP Kecel,Facebook
+04d9704a-6b08-40dc-8760-ba33314e3277,KDNP Budaörs,2022-08-16T15:29:05.911Z,83991b11-887e-4130-b5cd-363a70a65747,KDNP,Hungary,hu,632165190315151,KDNP Budaörs,Facebook
+e9442a5b-b818-4769-96e6-ad8204598fd2,DK Nyíregyháza,2022-08-16T15:28:54.606Z,a6d36dc0-4c03-473e-8bc3-ec72042c4889,DK,Hungary,hu,1595121247382390,DK Nyíregyháza,Facebook
 f50ae94f-7a05-466e-8b9f-bc4440584c11,Ellenszél,2022-08-16T15:28:51.584Z,8756579e-ca1b-4ddd-b501-1867b20552fd,Korm,Hungary,hu,353908011679618,Ellenszél,Facebook
 996c6a1a-4ce0-41ab-b590-81ddaeacf398,DUE,2022-08-16T15:28:51.718Z,ea8e9e47-e599-472a-a5b0-17bcf265b299,Méd,Hungary,hu,171724489900,DUE,Facebook
 85f02248-9a5a-4fe0-8bfa-da950407e923,BaKKKer,2022-08-16T15:28:51.853Z,997cdee0-24bf-41ef-a20c-7ac164adaa27,Korm,Hungary,hu,1898319043746176,BaKKKer,Facebook
@@ -917,17 +893,30 @@ a3cc88af-7c71-4684-b76a-b2310b118ae1,Matkovich Ilona,2022-08-16T15:28:57.725Z,d4
 fb3530ae-191f-47af-bd80-fc289a3e1445,Komloszaurusz,2022-08-16T15:29:04.628Z,9296d11b-35b0-4dff-a5ff-2820dfe21529,Egyéb,Hungary,hu,905194346322567,Komloszaurusz,Facebook
 9eb7e647-5f99-4c50-9d81-c0d0db0f305d,ISZOMM-Munkáspárt Szombathely,2022-08-16T15:29:04.756Z,0d1d0366-a756-4788-9a56-43ec362af1c4,Egyéb,Hungary,hu,108940235099532,ISZOMM-Munkáspárt Szombathely,Facebook
 f57c65a5-0759-406b-8345-2af511cd33a3,Arató Gergely,2022-08-16T15:29:04.906Z,bd44054f-45ec-4571-8da4-ed4f111be498,Ellen,Hungary,hu,1411080585789960,Arató Gergely,Facebook
-fb586c99-5c29-40b1-a74d-f1ab1da45138,Szeretlek Rákosmente,2022-08-16T15:29:05.128Z,ae1f60bf-f8bc-4613-b9f3-8e29cfd5b2ea,Méd,Hungary,hu,101660171888780,Szeretlek Rákosmente,Facebook
-db8505b3-f29b-48f7-901c-dc5f0f653cfe,Mesterházy Attila,2022-08-16T15:29:05.264Z,ed759494-918e-4a37-9eee-eee0054de5a2,Ellen,Hungary,hu,188002774639,Mesterházy Attila,Facebook
-4e55b096-821c-4e55-a0b5-b0e00dd07ab4,A Kétfarkú Kutyapárt Mikulása,2022-08-16T15:29:05.347Z,30eb87df-0f50-49f6-8cff-027abc82eaca,Egyéb,Hungary,hu,1958715514349150,A Kétfarkú Kutyapárt Mikulása,Facebook
-02bacb7f-45a8-4ddf-8849-bffd6b7c76b2,Patent Egyesület,2022-08-16T15:29:05.571Z,2ca3e64e-cb56-4e63-9bcf-5524f8dc6387,NGO,Hungary,hu,230314307098155,Patent Egyesület,Facebook
-82713f7d-030c-47b0-82a9-eac21383250e,NIOK Alapítvány - Nonprofit.hu,2022-08-16T15:29:05.694Z,33ce0df9-75f3-4294-8145-3574da5c1619,NGO,Hungary,hu,146578128721114,NIOK Alapítvány - Nonprofit.hu,Facebook
-bd47419e-3a56-4dec-90bf-8f91a02b2c9f,Mi Hazánk Hegyvidék,2022-08-16T15:29:05.915Z,01381713-571c-4ab0-8666-d86e8c874414,Egyéb,Hungary,hu,104835801394703,Mi Hazánk Hegyvidék,Facebook
-6c7e9098-6425-4e2c-8c55-a4f75b1fb3ae,MKKP Zala,2022-08-16T15:29:06.188Z,a674849a-7062-48d1-aa0f-f71a2772c329,Egyéb,Hungary,hu,1468667483182218,MKKP Zala,Facebook
-3bcf1633-2a4d-4e3d-b6ea-fc1c5bca2b63,Ultra-info,2022-08-16T15:29:06.323Z,961728bf-1da4-4e8c-ad57-ca4e67704eb9,Korm,Hungary,hu,2138587956418777,Ultra-info,Facebook
-0e1bf71f-959d-4bdc-8b2f-c4020417e85d,Horváth Ferenc - Momentum,2022-08-16T15:28:53.521Z,87cd7aba-a7f6-4d4b-9d43-5b74b68bf3c1,Mom,Hungary,hu,106145428182812,Horváth Ferenc - Momentum,Facebook
-dfe70ce1-10c0-41c6-a099-f3ce35dc4416,Momentum Mozgalom,2022-08-16T15:28:54.782Z,4b29f4c9-ad92-48ef-9958-c61e9807e02d,Mom,Hungary,hu,592204747588011,Momentum Mozgalom,Facebook
-ec868303-2702-4fc1-aac3-e2a73ed526a4,Jobbik Békés megye 4. választókerület,2022-08-16T15:29:06.065Z,2c42a604-f783-4517-8ab3-96ffcadc0481,Job,Hungary,hu,1405799023059832,Jobbik Békés megye 4. választókerület,Facebook
+b9eab1e9-7d26-4b0b-b605-8af226980d9e,MKKP Pest megye,2022-08-16T15:28:55.706Z,f42b11f6-18e5-49f7-88e1-aabadfceec52,Egyéb,Hungary,hu,536738509717610,MKKP Pest megye,Facebook
+433bbdee-228a-4e11-816c-2227ec234442,Tanítanék,2022-08-16T15:28:55.830Z,c966598d-2b1e-4091-ae8b-75e604c467e9,NGO,Hungary,hu,1487569941539650,Tanítanék,Facebook
+9fb351bb-4ea9-401f-abbd-d1396b66ee54,"Ez Kell nálunk, Jász-Nagykun-Szolnok megyében",2022-08-16T15:28:55.962Z,410a47c7-1681-432d-8847-94144f407674,Méd,Hungary,hu,100822415853250,"Ez Kell nálunk, Jász-Nagykun-Szolnok megyében",Facebook
+995613fe-f355-4af3-b15c-dd04c98f4606,Azbej Tristan ن,2022-08-16T15:28:56.082Z,696bb897-05c1-4e1c-85fa-a0a92c2ff62f,Korm,Hungary,hu,562712570560978,Azbej Tristan ن,Facebook
+085d37b3-e423-4979-8e8b-22787438024f,Horváth Diána - Megoldás Mozgalom MEMO,2022-08-16T15:28:56.170Z,05c34cef-4dcb-499e-9d15-5e8cd7a7e320,Egyéb,Hungary,hu,104201785523861,Horváth Diána - Megoldás Mozgalom MEMO,Facebook
+b2024735-1d10-4ac8-9e8e-a6bec4ae759b,"Aki Orbán ellen van, az velünk van",2022-08-16T15:28:56.314Z,185b1c51-8c34-4135-a71f-8bf738bb745f,Ellen,Hungary,hu,1506534279599659,"Aki Orbán ellen van, az velünk van",Facebook
+cf515673-7240-4bbf-91e4-4c0e01678d70,Magyar Anyák,2022-08-16T15:28:56.586Z,4b8db685-4120-4e8b-922e-75bc522cfcf2,Ellen,Hungary,hu,2201713216768410,Magyar Anyák,Facebook
+013b9589-4c11-4aa1-955c-88ae9aa9d2b1,Humor Magazin,2022-08-16T15:28:56.710Z,685c5102-b404-4bd4-8db0-6689f4b27feb,Ellen,Hungary,hu,622846234588910,Humor Magazin,Facebook
+81825c82-ea42-42c3-9d93-41a1cb57545f,Ingyen pofon,2022-08-16T15:28:56.725Z,9a5e9c1a-c244-47cb-8da2-dbd127f1f85a,Korm,Hungary,hu,140006679897931,Ingyen pofon,Facebook
+355c95a1-83f0-45df-a8ad-57e5f8440590,Nyíregyházi Dosszié,2022-08-16T15:28:56.858Z,06d748ce-ed8a-4096-ab08-e7b2c9a2e5b9,Korm,Hungary,hu,696437227034989,Nyíregyházi Dosszié,Facebook
+57c76179-e844-43f8-b62c-5828afd909c7,Köröndi Máté,2022-08-16T15:28:56.967Z,bf0f5124-c458-4a89-bfa1-8dfb55ceb99d,Egyéb,Hungary,hu,103005792215847,Köröndi Máté,Facebook
+7727c335-634a-41e9-8a36-84241fd0a828,EzaLényeg.hu - Pápa,2022-08-16T15:28:57.092Z,7b28f20a-7c8e-42c8-a584-e6f994d2c38b,Ellen,Hungary,hu,100516178339092,EzaLényeg.hu - Pápa,Facebook
+c9b0f92f-f054-4191-9e74-36503343ce1f,Szabó József,2022-08-16T15:28:57.213Z,c708bb49-670a-43e8-931b-9cf48fa70c0b,Korm,Hungary,hu,102433701337631,Szabó József,Facebook
+e57cca83-9a0f-448c-9f7a-4be6e92e036d,"Ez Kell nálunk, Hevesben",2022-08-16T15:28:57.334Z,4badd088-079e-4e77-b284-e0df2b93f851,Ellen,Hungary,hu,109679018288284,"Ez Kell nálunk, Hevesben",Facebook
+6811838b-f4a5-4098-beb4-01bece7f18cb,Az Élet Menete Alapítvány,2022-08-16T15:28:57.462Z,aa9ad385-70fd-4a9b-8544-7b5b67e2c0d1,NGO,Hungary,hu,125356647613851,Az Élet Menete Alapítvány,Facebook
+6b56778b-a914-4b16-bc8d-b1f31cc05658,Pusztai Patrik,2022-08-16T15:28:57.708Z,f1c1ba96-2cba-4b7f-976b-5d6c612590a6,Ellen,Hungary,hu,2488214764737150,Pusztai Patrik,Facebook
+a93335cd-f49a-4c46-b9bd-0e1320c9d6ec,CEU Bibó István Szabadegyetem,2022-08-16T15:28:57.831Z,b0b7cd47-b10d-4fe5-ac4e-6d2c25504943,NGO,Hungary,hu,317028185838691,CEU Bibó István Szabadegyetem,Facebook
+690af03d-2534-4f3f-a7bd-04f53cb68d17,Élet és Irodalom,2022-08-16T15:28:57.975Z,dc24bf78-e373-43d9-99b1-399752c13c99,Méd,Hungary,hu,18562323874,Élet és Irodalom,Facebook
+f1c850b2-af6f-4cf2-a014-8a1f65d2d753,Napi.hu,2022-08-16T15:28:58.089Z,766532df-6aaa-4cf6-a3d2-95350c81d9ad,Méd,Hungary,hu,353820462820,Napi.hu,Facebook
+dcb43b0e-b259-4848-a9fe-578c2fb05fdc,Nyugdíjasok Orbán Viktor és a Fidesz mellett,2022-08-16T15:28:52.326Z,f0558649-a9c9-47c3-afac-ca4abf1fc333,Fid,Hungary,hu,110716241465588,Nyugdíjasok Orbán Viktor és a Fidesz mellett,Facebook
+80279b39-66b0-441d-bb10-08860dcd0636,Fidesz Kaposvár és a Zselic,2022-08-16T15:28:54.492Z,e6132c48-4cd2-4bfe-a5d8-85173a4a17fe,Fid,Hungary,hu,1530273233676420,Fidesz Kaposvár és a Zselic,Facebook
+60f2a7e8-a426-49d0-a308-401df7d3bdae,Momentum TizenX,2022-08-16T15:28:53.520Z,e6a46b12-65f4-44cd-8545-24aded0fe5a1,Mom,Hungary,hu,1992543104404776,Momentum TizenX,Facebook
+ca34783a-d012-43ac-9ed6-c2e91f3ed078,Momentum TizenX,2022-08-16T15:28:54.615Z,0785928b-1240-4d90-8409-976eebd0125d,Mom,Hungary,hu,1992543104404770,Momentum TizenX,Facebook
+d9f02adb-2814-446c-a07e-1abbbbcf5967,Jobbik Ercsi,2022-08-16T15:28:55.580Z,06b20da2-ec9b-4e76-8d5d-63ab5590e2a3,Job,Hungary,hu,572681133253149,Jobbik Ercsi,Facebook
 a59eebfe-4666-4a05-8857-641fcbc390fc,MMM Zala,2022-08-16T15:28:51.630Z,9093b355-4f88-46b8-a5f9-09ac9dcba22b,Ellen,Hungary,hu,101497005710981,MMM Zala,Facebook
 5f456e69-1600-441c-b890-c55b8e5f36a2,Kossuth kör - Hódmezővásárhely,2022-08-16T15:28:51.762Z,b0f5e227-5a14-471e-9b82-cfe6120b069b,Ellen,Hungary,hu,657102094741460,Kossuth kör - Hódmezővásárhely,Facebook
 2bdd4880-b681-4897-9896-84411d8e5cf4,Dr. Czeglédy Csaba,2022-08-16T15:28:51.880Z,b13ddd74-7ae6-4f29-977e-a2940f012fb6,Ellen,Hungary,hu,360876591136521,Dr. Czeglédy Csaba,Facebook
@@ -1134,9 +1123,17 @@ a8f2e26e-526f-4976-b035-5f3bbc9569bc,MSZP Nyíregyháza,2022-08-16T15:28:55.725Z
 04f013a0-88c1-4d28-957c-ddee25962241,Tények.hu,2022-08-16T15:29:04.459Z,ea1dcc6f-4482-4b2d-bb01-bb65a69cca76,Korm,Hungary,hu,228261192288,Tények.hu,Facebook
 592374c9-6c71-4969-a0e1-51f8bad59139,Schaffer Viktor,2022-08-16T15:29:04.579Z,f2b2e092-de6e-459d-aac5-cec0c38d2ab1,Korm,Hungary,hu,802979466576946,Schaffer Viktor,Facebook
 dbf40817-df3c-40f3-a94f-0f5e198e6490,Megújuló Magyarországért Alapítvány - Progressive Hungary Foundation,2022-08-16T15:29:04.667Z,2c2b7240-40a6-4ccb-b082-5aaba70bb05d,Ellen,Hungary,hu,721803117895154,Megújuló Magyarországért Alapítvány - Progressive Hungary Foundation,Facebook
-eb7ecc51-0555-41a5-bc21-5385c0eed9c5,Kovács Péter,2022-08-16T15:29:04.787Z,c5adc85d-61fd-40b4-a0a4-1e49a4c74b47,Korm,Hungary,hu,282587142315,Kovács Péter,Facebook
-f004a260-105c-4503-8443-5817079f5abd,Momentum Miskolc,2022-08-16T15:28:53.525Z,2c7b1ed0-748a-409c-8ad6-51fc91a6fcc3,Mom,Hungary,hu,107885967229027,Momentum Miskolc,Facebook
-eee6687b-1589-4389-bd2d-ca5a127d0539,Jobbik Dunaújváros,2022-08-16T15:28:54.980Z,8cf5a594-3511-4fc4-8b82-28fbca962fe6,Job,Hungary,hu,168521096537602,Jobbik Dunaújváros,Facebook
+fb586c99-5c29-40b1-a74d-f1ab1da45138,Szeretlek Rákosmente,2022-08-16T15:29:05.128Z,ae1f60bf-f8bc-4613-b9f3-8e29cfd5b2ea,Méd,Hungary,hu,101660171888780,Szeretlek Rákosmente,Facebook
+db8505b3-f29b-48f7-901c-dc5f0f653cfe,Mesterházy Attila,2022-08-16T15:29:05.264Z,ed759494-918e-4a37-9eee-eee0054de5a2,Ellen,Hungary,hu,188002774639,Mesterházy Attila,Facebook
+4e55b096-821c-4e55-a0b5-b0e00dd07ab4,A Kétfarkú Kutyapárt Mikulása,2022-08-16T15:29:05.347Z,30eb87df-0f50-49f6-8cff-027abc82eaca,Egyéb,Hungary,hu,1958715514349150,A Kétfarkú Kutyapárt Mikulása,Facebook
+02bacb7f-45a8-4ddf-8849-bffd6b7c76b2,Patent Egyesület,2022-08-16T15:29:05.571Z,2ca3e64e-cb56-4e63-9bcf-5524f8dc6387,NGO,Hungary,hu,230314307098155,Patent Egyesület,Facebook
+82713f7d-030c-47b0-82a9-eac21383250e,NIOK Alapítvány - Nonprofit.hu,2022-08-16T15:29:05.694Z,33ce0df9-75f3-4294-8145-3574da5c1619,NGO,Hungary,hu,146578128721114,NIOK Alapítvány - Nonprofit.hu,Facebook
+bd47419e-3a56-4dec-90bf-8f91a02b2c9f,Mi Hazánk Hegyvidék,2022-08-16T15:29:05.915Z,01381713-571c-4ab0-8666-d86e8c874414,Egyéb,Hungary,hu,104835801394703,Mi Hazánk Hegyvidék,Facebook
+6c7e9098-6425-4e2c-8c55-a4f75b1fb3ae,MKKP Zala,2022-08-16T15:29:06.188Z,a674849a-7062-48d1-aa0f-f71a2772c329,Egyéb,Hungary,hu,1468667483182218,MKKP Zala,Facebook
+3bcf1633-2a4d-4e3d-b6ea-fc1c5bca2b63,Ultra-info,2022-08-16T15:29:06.323Z,961728bf-1da4-4e8c-ad57-ca4e67704eb9,Korm,Hungary,hu,2138587956418777,Ultra-info,Facebook
+0e1bf71f-959d-4bdc-8b2f-c4020417e85d,Horváth Ferenc - Momentum,2022-08-16T15:28:53.521Z,87cd7aba-a7f6-4d4b-9d43-5b74b68bf3c1,Mom,Hungary,hu,106145428182812,Horváth Ferenc - Momentum,Facebook
+dfe70ce1-10c0-41c6-a099-f3ce35dc4416,Momentum Mozgalom,2022-08-16T15:28:54.782Z,4b29f4c9-ad92-48ef-9958-c61e9807e02d,Mom,Hungary,hu,592204747588011,Momentum Mozgalom,Facebook
+ec868303-2702-4fc1-aac3-e2a73ed526a4,Jobbik Békés megye 4. választókerület,2022-08-16T15:29:06.065Z,2c42a604-f783-4517-8ab3-96ffcadc0481,Job,Hungary,hu,1405799023059832,Jobbik Békés megye 4. választókerület,Facebook
 8a53a83b-ffa1-41da-a999-2bfcede73c52,Áttetsző,2022-08-16T15:29:04.514Z,6d7e4191-8eb9-4ea9-8572-09a0c7075155,Korm,Hungary,hu,114063901182858,Áttetsző,Facebook
 6510a246-6ce8-4f0e-9142-294fea494e25,Nemzeti Agrárgazdasági Kamara - NAK,2022-08-16T15:29:04.633Z,913a404e-3758-4e33-9e30-4850272e4124,Korm,Hungary,hu,365977046868250,Nemzeti Agrárgazdasági Kamara - NAK,Facebook
 edd698a7-f42d-433a-b677-0b1c6eef08a6,KÖZ-Érzet,2022-08-16T15:29:04.753Z,8c1f7165-71d0-429f-bb14-cdfd3da5072a,Egyéb,Hungary,hu,286132862014411,KÖZ-Érzet,Facebook
@@ -1240,8 +1237,9 @@ a557f240-8c8d-4d85-9fd5-b0efd5183153,24klíma.hu,2023-02-26T10:51:37.727Z,39774f
 7957fab3-bc10-48c4-9d35-099d275e94d9,Stairway to SDG 3.0,2023-02-27T10:51:31.609Z,195afdae-945a-4003-afc6-d196b7e085f9,ZZZ,Hungary,hu,103245949251874,Stairway to SDG 3.0,Facebook
 036691fc-68e6-4a59-9e47-9a12785c5e9d,GLAMOUR Hungary,2023-02-27T10:51:31.644Z,6af47135-a537-4552-8110-f2a69109480c,ZZZ,Hungary,hu,49700778153,GLAMOUR Hungary,Facebook
 7e361588-2187-483b-90f4-d98d3644a398,AC Milan,2023-02-28T10:51:36.926Z,82bf0676-ddaf-456c-9cfe-2b8cf5adaf90,ZZZ,Hungary,hu,147054831936,AC Milan,Facebook
-8a80c093-c626-4cfb-83cf-e70c8efc8806,Андрей Кураев,2023-02-28T10:51:36.932Z,7f4902e9-e767-45e2-9451-de7a20106005,ZZZ,Hungary,hu,604567176238047,Андрей Кураев,Facebook
-52bd25d8-a4c7-4be8-b4db-1f8c028196fb,akopovteam_,2023-02-28T10:51:36.949Z,096af3cf-7587-42dd-95c2-e4d2bb693633,ZZZ,Hungary,hu,113640768294556,akopovteam_,Facebook
+eb7ecc51-0555-41a5-bc21-5385c0eed9c5,Kovács Péter,2022-08-16T15:29:04.787Z,c5adc85d-61fd-40b4-a0a4-1e49a4c74b47,Korm,Hungary,hu,282587142315,Kovács Péter,Facebook
+f004a260-105c-4503-8443-5817079f5abd,Momentum Miskolc,2022-08-16T15:28:53.525Z,2c7b1ed0-748a-409c-8ad6-51fc91a6fcc3,Mom,Hungary,hu,107885967229027,Momentum Miskolc,Facebook
+eee6687b-1589-4389-bd2d-ca5a127d0539,Jobbik Dunaújváros,2022-08-16T15:28:54.980Z,8cf5a594-3511-4fc4-8b82-28fbca962fe6,Job,Hungary,hu,168521096537602,Jobbik Dunaújváros,Facebook
 ab187f04-ffff-4a17-9067-a9b6c3292ac8,Alumni Association of the University of Michigan,2023-02-28T10:51:36.990Z,c4c8b3df-8587-4a26-b904-9e1c754a0995,ZZZ,Hungary,hu,64982236830,Alumni Association of the University of Michigan,Facebook
 8cf9c58c-e631-47bb-82c2-34f0d6e35125,Szabad Iskolákért Alapítvány,2023-02-28T10:51:36.815Z,c0e94f53-2a4c-4cc9-8854-88ccd63d8d95,ZZZ,Hungary,hu,123379087675365,Szabad Iskolákért Alapítvány,Facebook
 89122037-0412-429b-950a-5243679cfde8,Skanska Hungary,2023-02-28T10:51:36.834Z,5743a77c-22f2-4c1f-8c68-26964f55fa41,ZZZ,Hungary,hu,137262993533328,Skanska Hungary,Facebook
@@ -1275,12 +1273,8 @@ e047a55e-4188-4b90-a012-0e2a7da0233e,Fidesz I. kerület,2023-03-01T10:51:27.867Z
 efb0546e-07a5-4c95-aba8-86862aa6b2e7,Rózsa András - Momentum,2023-04-10T10:50:55.825Z,e3bebed0-e753-4923-9f05-45cb7d81a68d,Mom,Hungary,hu,102941768264905,Rózsa András - Momentum,Facebook
 6d9eabbf-2b1e-4771-ab1d-6659b4299442,Fekete-Győr András,2023-03-18T10:51:20.751Z,85b771e3-f1dc-4452-9f9e-44b51ce70724,Mom,Hungary,hu,128573907819549,Fekete-Győr András,Facebook
 2d091e2d-3cdd-4179-9b92-5e39ab5a50fb,Társadalomelméleti Kollégium,2023-03-03T10:51:32.145Z,2a3d2969-79d1-4368-8791-fb3a90e2a5e5,ZZZ,Hungary,hu,343937699887,Társadalomelméleti Kollégium,Facebook
-75dd7c70-a5e8-4fdc-bf35-09a54aec841a,She Can Code,2023-03-03T10:51:32.175Z,f08932c0-032b-4ce6-b992-cde33db47902,ZZZ,Hungary,hu,922863811084711,She Can Code,Facebook
-9ebd363c-0b06-4d5d-af4c-8d5e8139eb94,Játéktenger,2023-03-04T10:51:37.738Z,ef798806-e6fe-4eeb-ba4e-c4053929bc65,ZZZ,Hungary,hu,109958032400878,Játéktenger,Facebook
-ec1dff1f-b234-4f61-b72a-bb7d3af5a875,Közép-Európa Társaság / Central Europe Association,2023-03-04T10:51:37.914Z,c0296cfc-eb3f-4bfa-8f22-9396a575b683,ZZZ,Hungary,hu,312057772513927,Közép-Európa Társaság / Central Europe Association,Facebook
-dbf9e4ec-488d-442c-8ea8-acd92f596fd4,Fidesz Hódmezővásárhely,2023-02-11T10:51:16.536Z,b785f7f3-56c0-4f35-b27a-54a9423a0480,Fid,Hungary,hu,2169722316616799,Fidesz Hódmezővásárhely,Facebook
-940822a4-a0fa-40ab-b135-d0798b83331e,,2023-03-26T10:51:15.309Z,5b1be5fd-f1a8-4bf6-8ca6-02df2e835a53,Mom,Hungary,hu,105845452399807,,Facebook
-886e073d-ec87-476a-b52e-eb6506233dc7,Momentum Törökbálint,2023-03-14T10:51:13.016Z,efcaf2e1-d52d-4010-9468-31d800c455e7,Mom,Hungary,hu,100437945297266,Momentum Törökbálint,Facebook
+8a80c093-c626-4cfb-83cf-e70c8efc8806,Андрей Кураев,2023-02-28T10:51:36.932Z,7f4902e9-e767-45e2-9451-de7a20106005,ZZZ,Hungary,hu,604567176238047,Андрей Кураев,Facebook
+52bd25d8-a4c7-4be8-b4db-1f8c028196fb,akopovteam_,2023-02-28T10:51:36.949Z,096af3cf-7587-42dd-95c2-e4d2bb693633,ZZZ,Hungary,hu,113640768294556,akopovteam_,Facebook
 1165ad0c-a0bb-42f2-bce9-8f1d1a506bc1,Hankook Tire Global,2023-03-04T10:51:38.076Z,6f4bd8ff-61f5-4f85-b70b-e9a7d72eda22,ZZZ,Hungary,hu,187224327956733,Hankook Tire Global,Facebook
 0e77c7b3-2baf-4415-a137-d2f19b5d57b6,Cseri Tamás,2023-02-24T10:51:33.310Z,b360522c-db11-4fdc-90cf-6be1cf3a4dd8,Fid,Hungary,hu,113336626700054,Cseri Tamás,Facebook
 30cc5a7f-3dba-40c3-b61b-48686464b8d8,Momentum Gyöngyös,2023-03-19T10:51:21.589Z,436e5111-73ed-41b7-87b3-68354924624e,Mom,Hungary,hu,578981892538123,Momentum Gyöngyös,Facebook
@@ -1347,6 +1341,12 @@ f0f8170c-b6ba-4a9f-8732-a12c014a65bb,WnG - Fából Készült Különlegességek,
 1e3cfdeb-d1bb-47ab-a0a5-e5cdcf2ed509,Mania Traver 1,2023-03-07T10:51:29.280Z,b9e877e5-dae6-43e2-a05b-88a400565668,ZZZ,Hungary,hu,104830499126288,Mania Traver 1,Facebook
 428c0329-3221-4f20-af55-507bc47e275c,Federica Spiga,2023-03-07T10:51:29.282Z,054b4e90-5523-4677-af88-0845472c720e,ZZZ,Hungary,hu,102389318072276,Federica Spiga,Facebook
 7c44b951-6a91-410f-844f-46757c5460e9,CATIE (Centro Agronómico Tropical de Investigación y Enseñanza),2023-03-07T10:51:29.283Z,7acb282a-c1f9-4ad6-801a-4d2aa1ff5465,ZZZ,Hungary,hu,116155101806729,CATIE (Centro Agronómico Tropical de Investigación y Enseñanza),Facebook
+75dd7c70-a5e8-4fdc-bf35-09a54aec841a,She Can Code,2023-03-03T10:51:32.175Z,f08932c0-032b-4ce6-b992-cde33db47902,ZZZ,Hungary,hu,922863811084711,She Can Code,Facebook
+9ebd363c-0b06-4d5d-af4c-8d5e8139eb94,Játéktenger,2023-03-04T10:51:37.738Z,ef798806-e6fe-4eeb-ba4e-c4053929bc65,ZZZ,Hungary,hu,109958032400878,Játéktenger,Facebook
+ec1dff1f-b234-4f61-b72a-bb7d3af5a875,Közép-Európa Társaság / Central Europe Association,2023-03-04T10:51:37.914Z,c0296cfc-eb3f-4bfa-8f22-9396a575b683,ZZZ,Hungary,hu,312057772513927,Közép-Európa Társaság / Central Europe Association,Facebook
+dbf9e4ec-488d-442c-8ea8-acd92f596fd4,Fidesz Hódmezővásárhely,2023-02-11T10:51:16.536Z,b785f7f3-56c0-4f35-b27a-54a9423a0480,Fid,Hungary,hu,2169722316616799,Fidesz Hódmezővásárhely,Facebook
+940822a4-a0fa-40ab-b135-d0798b83331e,,2023-03-26T10:51:15.309Z,5b1be5fd-f1a8-4bf6-8ca6-02df2e835a53,Mom,Hungary,hu,105845452399807,,Facebook
+886e073d-ec87-476a-b52e-eb6506233dc7,Momentum Törökbálint,2023-03-14T10:51:13.016Z,efcaf2e1-d52d-4010-9468-31d800c455e7,Mom,Hungary,hu,100437945297266,Momentum Törökbálint,Facebook
 3583f009-d956-47a2-bc23-934676b478d3,Sacramento Kings,2023-03-07T10:51:29.323Z,7e981b83-bce6-4ad4-883d-8e1af1e61872,ZZZ,Hungary,hu,96222644025,Sacramento Kings,Facebook
 eda907f2-206f-4573-ad9b-e6217818e253,Door To Door Travel - CA,2023-03-07T10:51:29.329Z,b2cdb644-24ce-498e-8ebf-fe9d5661f1d6,ZZZ,Hungary,hu,100989286088085,Door To Door Travel - CA,Facebook
 1246366d-f34c-4a3d-9d4a-b637645f6065,ICT Global Magazin,2023-03-08T10:51:35.119Z,7902ecc1-3f27-47d3-ba2f-f56dae232d61,ZZZ,Hungary,hu,112969211678497,ICT Global Magazin,Facebook
@@ -1512,9 +1512,6 @@ ade99810-ac0c-4681-a59d-8116b0c1f3f5,WanderWell.hu,2023-03-17T10:51:39.254Z,7de2
 fd839d54-bf77-4390-ac0e-ba57563af7ce,PowMr,2023-03-18T10:51:21.462Z,240583db-83ec-4ed0-8796-a3b11c8f81f1,ZZZ,Hungary,hu,110386941246941,PowMr,Facebook
 82029863-8979-4565-a3ae-89eafa959d9f,Xiaomi Magyarország,2023-03-18T10:51:20.811Z,3feebfc4-5866-45fa-a4a6-42921ce833da,ZZZ,Hungary,hu,102216681857791,Xiaomi Magyarország,Facebook
 889759ae-7a1a-459c-8456-cbe8ed164433,DHL Express Hungary,2023-03-18T10:51:21.451Z,97531b02-d77e-428b-b12b-9b5d5d612cee,ZZZ,Hungary,hu,106928465483650,DHL Express Hungary,Facebook
-483b6668-86d9-40ab-bb71-f0fe03ea02a0,RSM Hungary,2023-03-18T10:51:21.271Z,262eacf6-00d6-4b9b-b8f2-dd175c07a0aa,ZZZ,Hungary,hu,112399615466812,RSM Hungary,Facebook
-cf39b7a8-4f1f-4dcc-bbdd-25a210283630,Study in Taiwan,2023-03-18T10:51:21.439Z,8d8e52dc-0b78-4c8b-83c7-3bbca4eadd27,ZZZ,Hungary,hu,187580231262973,Study in Taiwan,Facebook
-c8b604b5-421c-4155-b2d2-793d4a00602d,Glossza,2023-03-18T10:51:21.435Z,9d68df3c-4bba-4527-a019-99a2a3632da4,ZZZ,Hungary,hu,104158368317163,Glossza,Facebook
 dd2a1f01-c06a-48d4-a1ce-6b5ccef5dd6a,Kramp Hungary,2023-03-18T10:51:21.459Z,da2cc17a-2a62-4d73-ab4e-4a0442ca2702,ZZZ,Hungary,hu,103481535351120,Kramp Hungary,Facebook
 de4643c2-a65e-4d87-968a-cecdbac8aa2b,Wasteful Virtuous,2023-03-19T10:51:22.374Z,8a8a8999-3903-4736-ac3f-e0cadb429b16,ZZZ,Hungary,hu,112526221789510,Wasteful Virtuous,Facebook
 99e9841f-f79f-4039-a24d-3f62bd01c41f,Disszidens,2023-03-19T10:51:22.386Z,5608ab2a-3cd0-4364-8325-3a70fd476c76,ZZZ,Hungary,hu,297694457107800,Disszidens,Facebook
@@ -1680,59 +1677,9 @@ fd787e80-3fbf-4c01-b8c3-66a53244a582,Dog Rescue Foundation,2023-03-01T10:51:28.2
 57e53739-b979-4f03-8708-e153510dd8cd,Una Terra,2023-02-14T10:51:29.631Z,64f759d7-106a-4897-8ffd-63091f2d1d16,ZZZ,Hungary,hu,1732661247036555,Una Terra,Facebook
 75a77531-ce0b-4e5c-93cf-89c2e5a5b73e,Fashion Globe,2023-02-09T06:25:58.287Z,2ac8dd82-e6f0-4961-aeca-9837c77ad59e,ZZZ,Hungary,hu,106942452264389,Fashion Globe,Facebook
 3a6514d9-04bc-4506-a508-a07b96e8b298,Római-partért,2023-02-09T06:25:57.611Z,8df54019-db28-45f0-bde5-38941dbfa6fe,ZZZ,Hungary,hu,429274933827776,Római-partért,Facebook
-9a7ef2b3-0123-412b-98ef-56bc42d95bc9,Bolognabookplus,2023-02-09T06:25:58.249Z,246f80d5-0ab6-4035-aa1f-d81373e4aeec,ZZZ,Hungary,hu,100540378928657,Bolognabookplus,Facebook
-44e7752a-aec1-41db-8f35-137ff92c5cab,Proofminder,2023-02-09T06:25:58.253Z,8b8592da-c79a-4994-8d88-7cb548e05cee,ZZZ,Hungary,hu,103329398104414,Proofminder,Facebook
-3a879c3a-2b3b-43b4-a057-ad970849cc49,National Geographic Magazin Magyarország,2023-02-09T06:25:58.230Z,c98382e6-3279-42c4-9ee2-a54e292eee28,ZZZ,Hungary,hu,204564332928305,National Geographic Magazin Magyarország,Facebook
-bef336b2-c11b-4ce5-92aa-49940f68751d,Greg Mayor,2023-02-11T10:51:17.008Z,0bbbe79a-8b97-4430-b59f-ea4f8b37956a,ZZZ,Hungary,hu,112738328386129,Greg Mayor,Facebook
-239b0b99-8379-456f-9ee4-154ea86589eb,EU Maritime & Fish,2023-02-11T10:51:17.128Z,48824b23-e0f1-4f16-8ea2-c6df0b054b38,ZZZ,Hungary,hu,387573881345007,EU Maritime & Fish,Facebook
-d1b4fb6a-5793-48ab-8da6-54c12aab7f99,Мария Шапошник,2023-03-25T10:51:13.286Z,fea7f0ba-eecd-420f-bb0c-f0a79e88bb42,ZZZ,Hungary,hu,1010393349168402,Мария Шапошник,Facebook
-14295bf5-372a-44af-8ed2-17e0ab4707fd,Óvó néni Nyugaton,2023-03-25T10:51:13.310Z,57ecb6af-11b2-4d86-ad3c-0b1625ad54a7,ZZZ,Hungary,hu,103624482007671,Óvó néni Nyugaton,Facebook
-4d7f381c-dbbd-44bb-be2f-8af685e5ab4b,Windsor krónikák,2023-03-26T10:51:15.723Z,96ecb657-8304-47cf-be1f-5257ab0d42b0,ZZZ,Hungary,hu,867890780224815,Windsor krónikák,Facebook
-080517f9-8b32-433d-84f2-0a3e40f413d9,Loctite Pillanatragasztók,2023-03-26T10:51:15.763Z,5d4625e1-b419-4f99-b80e-8add7a71f850,ZZZ,Hungary,hu,106044854515836,Loctite Pillanatragasztók,Facebook
-27c10a41-ef84-4e4b-9b76-6400fa31ede4,Marketing Generous,2023-03-26T10:51:15.763Z,e4c3ee38-1e54-4985-a86b-a79e1b4f7f2b,ZZZ,Hungary,hu,113629868312383,Marketing Generous,Facebook
-ed664d2b-4d49-4a9c-84c3-2b9afe6e8c94,A magyar a nyerő,2023-03-26T10:51:15.763Z,4b11c571-e8f8-474e-af6b-89259d08208a,ZZZ,Hungary,hu,173492029430371,A magyar a nyerő,Facebook
-563324f9-0b5f-4325-a912-95286402210c,Phantoms Of Future,2023-03-26T10:51:15.844Z,d093ac76-6514-4a20-b5fe-15e81fdd2130,ZZZ,Hungary,hu,100211565455424,Phantoms Of Future,Facebook
-44a79658-7d17-496f-9d92-07b873da56ee,GameDay News,2023-03-14T10:51:13.225Z,6d2baa7f-5b8a-4528-b91d-ef7cffc0e0b0,ZZZ,Hungary,hu,290980968206977,GameDay News,Facebook
-6701f763-b090-43ef-a2c3-2c5185ae623a,Tanyasi Csirke,2023-03-15T10:51:32.301Z,a593e6a1-d3f5-42a7-91ee-53f69128e557,ZZZ,Hungary,hu,101012008297812,Tanyasi Csirke,Facebook
-e938bb1b-c787-45e7-aea4-f26ac89afa7b,HENGE,2023-03-15T10:51:32.411Z,9a916be8-aa40-4e2e-a9f8-3fb8818e78c3,ZZZ,Hungary,hu,1491506997777940,HENGE,Facebook
-28304c36-826f-40b1-a98a-18b4c7c8730f,Sl,2023-03-15T10:51:32.432Z,ebe03493-dae8-4abd-96e2-abc2a355e3a3,ZZZ,Hungary,hu,114398131525316,Sl,Facebook
-ba10f0cf-67b1-46e1-b1f0-39697672529a,Cannabis Europa: London Event & Expo,2023-03-15T10:51:32.431Z,e523e9de-a3cb-4b1b-98c1-c0067be8745b,ZZZ,Hungary,hu,109433088398513,Cannabis Europa: London Event & Expo,Facebook
-ac9610d4-8b9f-4ad3-930e-0b15055d0fc7,Alikecloth,2023-03-15T10:51:32.449Z,db44b91f-a0a2-4bc4-ab85-18e0cf8a69a4,ZZZ,Hungary,hu,109750215301135,Alikecloth,Facebook
-66299ddd-c0f1-4634-9015-603bdd03386a,Sick Noise,2023-03-15T10:51:32.455Z,4733f1dc-b24f-4e38-937c-3b9d59c0a5ac,ZZZ,Hungary,hu,439440096133537,Sick Noise,Facebook
-5d5f71b7-4dc9-4d7c-af16-c850643b6431,Bunteto.com - Online Sportmagazin,2023-03-08T16:08:06.692Z,ac94700b-825b-43fd-a6d0-a4de35c7a77a,ZZZ,Hungary,hu,287924088574465,Bunteto.com - Online Sportmagazin,Facebook
-3ef2c308-7fad-4cf4-ac0a-ab6218814c5e,Money Sense,2023-02-26T10:51:37.845Z,818692b8-ba3c-4100-8469-82a8c1af7661,ZZZ,Hungary,hu,105646628242035,Money Sense,Facebook
-a5c30140-d6df-480c-86f4-aa6c3f2ecc17,Sotheby's,2023-02-26T10:51:37.863Z,f4b0ef16-eaa3-40d4-913a-234b08f710ae,ZZZ,Hungary,hu,101894826563370,Sotheby's,Facebook
-6daf7f5f-f053-4e15-95bf-5e69d44f01b3,LOUPE Színházi társulás,2023-02-28T10:51:36.814Z,2c9b1bf2-9e68-48ee-9113-88a81eaa82eb,ZZZ,Hungary,hu,106975778772305,LOUPE Színházi társulás,Facebook
-2497a7c5-ceaa-4129-a954-bf3946f7aa9b,A Vidék Minősége :: Alpokalja-Fertő Táj,2023-02-15T10:51:22.815Z,7901acac-89b7-4f6b-8622-4194ccc57a6d,ZZZ,Hungary,hu,108675744181288,A Vidék Minősége :: Alpokalja-Fertő Táj,Facebook
-0946de34-a739-48d9-9642-2c409a310dea,PORT.hu,2023-02-15T10:51:22.885Z,d2423871-2173-43bd-93b8-522de84a27ef,ZZZ,Hungary,hu,70699931601,PORT.hu,Facebook
-c8a9f516-e723-49ba-b3f3-edd8eb1eddf4,Nemzeti Fórum Békéssámson,2023-02-15T10:51:22.893Z,42b887bf-b252-40a6-9d52-4a309a5e2c06,ZZZ,Hungary,hu,109859077545698,Nemzeti Fórum Békéssámson,Facebook
-8d49e1cb-28b6-48b8-b981-b139d5faf9a0,Goethe-Institut,2023-02-15T10:51:23.078Z,dad82fda-90b1-4d41-bce9-d3e272da1214,ZZZ,Hungary,hu,47710652725,Goethe-Institut,Facebook
-3b502d2d-4404-468c-bfa8-a59d2449f89b,begreen.hu,2023-02-19T10:51:46.814Z,de0af069-f629-4d15-bf12-d822aeec7217,ZZZ,Hungary,hu,102304352536605,begreen.hu,Facebook
-3f49b6c2-2388-4e1c-a912-41bfd7d372f4,Totalcar.hu,2023-02-19T10:51:46.838Z,2cd452f3-f2c6-4a76-a198-46e8394b3476,ZZZ,Hungary,hu,117738001600393,Totalcar.hu,Facebook
-1fb31e86-fe40-41db-a456-ce55b77135a4,Hankook Tire Hungary,2023-03-12T10:51:27.104Z,14c0e25c-792e-4949-bebc-4056f0f74983,ZZZ,Hungary,hu,315888562182035,Hankook Tire Hungary,Facebook
-7f37feab-1450-4a98-86f2-10abf8910414,blnce,2023-03-12T10:51:27.210Z,3156fcad-4547-40f4-9226-5c6276fd2451,ZZZ,Hungary,hu,157211771332192,blnce,Facebook
-6a2d3b95-e85a-4d75-acf7-682a870dd965,KAPTÁR,2023-03-12T10:51:27.504Z,6311080e-c489-452a-bf6c-7b0699340d88,ZZZ,Hungary,hu,415511021794234,KAPTÁR,Facebook
-8117c0cc-7bfe-4fe5-b6af-bbd9ef8de764,MFB - Magyar Fejlesztési Bank,2023-03-12T10:51:27.589Z,5cd3b0e4-74b6-4a04-8637-a12f4fda28cb,ZZZ,Hungary,hu,219432394845493,MFB - Magyar Fejlesztési Bank,Facebook
-15cc344b-4173-42f1-96be-f373db63c021,MVM Csoport,2023-03-12T10:51:27.623Z,ed13f187-e907-4e2e-b210-ef7bd1a0b41c,ZZZ,Hungary,hu,127163787335513,MVM Csoport,Facebook
-fb6797b8-f84d-499d-a52b-5d5ec5b77390,La Matriarcha,2023-03-12T10:51:27.705Z,b0fc20d2-fe4b-49a1-a75d-7221951b94d7,ZZZ,Hungary,hu,103207135920750,La Matriarcha,Facebook
-4908d968-70c3-426a-9066-cc14e6084503,Ragaszkodj hozzá,2023-03-12T10:51:27.703Z,66036f8d-c9a8-4763-9ea8-8e2c413d73b0,ZZZ,Hungary,hu,205024359857102,Ragaszkodj hozzá,Facebook
-e4503c2d-1fa8-46bc-9068-703d66bf2949,AccorInvest Hotels Hungary,2023-03-12T10:51:27.767Z,44cdd26e-af07-48f0-bf26-6a4d868b1fc3,ZZZ,Hungary,hu,107091838808265,AccorInvest Hotels Hungary,Facebook
-13ef0e7a-0b73-49a7-a72f-22d7df4b4c1c,Pirin Hill Hungary,2023-03-12T10:51:27.871Z,dce751a7-8b30-4370-ba26-36471ce2c3d2,ZZZ,Hungary,hu,101253392728962,Pirin Hill Hungary,Facebook
-4672d122-9765-434b-be38-e8a16941db88,SHOPMARK,2023-03-12T10:51:27.906Z,cdc18b07-f537-4cf2-9d26-5b87494dfe9d,ZZZ,Hungary,hu,180032499170772,SHOPMARK,Facebook
-ea2fd26f-4722-43cd-8065-c5a163668081,Interfood,2023-03-12T10:51:27.960Z,79cb9e05-0eeb-4a1a-a805-cebfa497e303,ZZZ,Hungary,hu,129492007099193,Interfood,Facebook
-4e8e9a49-1d7a-4bd2-9b1f-a828e52b589f,DreamJo.bs,2023-03-12T10:51:28.007Z,4f257d15-1b50-47bc-a4fe-3ddc4ecfe5da,ZZZ,Hungary,hu,1578425772456135,DreamJo.bs,Facebook
-8395a091-4627-41c4-8a80-a868e4121d33,HRTV,2023-03-12T10:51:28.064Z,cda58d5b-ecd0-4632-bc7d-a568455a9e03,ZZZ,Hungary,hu,107538238058641,HRTV,Facebook
-3283d98f-281b-4d5c-9ff7-ceb887a73ceb,Szaktudás Kiadó Ház,2023-03-12T10:51:28.102Z,4cfedbaa-e7a6-4341-9fff-058085ae7651,ZZZ,Hungary,hu,101882889975936,Szaktudás Kiadó Ház,Facebook
-c355bc1d-d862-403d-98cb-f3a573de04f6,E-városom,2023-03-12T10:51:28.140Z,e8c76879-f859-4504-ad8f-15aa36e279ad,ZZZ,Hungary,hu,104064807632238,E-városom,Facebook
-414fa10b-5f73-4ce4-9a08-a8c8e4c68845,Szimpatika gyógyszertár,2023-03-12T10:51:28.148Z,9467c121-43f6-4b60-a641-b875cff6ce56,ZZZ,Hungary,hu,123824547650194,Szimpatika gyógyszertár,Facebook
-181ad010-bc5d-45c9-8782-0ec942373e21,Bodybox Budaörs,2023-03-12T10:51:28.148Z,bf57282b-b8a9-4475-8aac-d170dcfd099f,ZZZ,Hungary,hu,101135435747820,Bodybox Budaörs,Facebook
-5c714b79-a913-4e43-b83c-e9cbfc79d58d,Kertváros az otthonunk,2023-03-08T18:13:57.074Z,fdc1c660-6419-4d53-b070-9169a29d8af8,ZZZ,Hungary,hu,102031195757056,Kertváros az otthonunk,Facebook
-253db379-47d8-4825-86fe-141c27eb6db1,Kosárérték - E-kereskedelmi magazin,2023-03-08T18:24:31.453Z,eddef357-13eb-4781-9a67-a54a75d028a6,ZZZ,Hungary,hu,427730700915028,Kosárérték - E-kereskedelmi magazin,Facebook
-772d25f2-3d29-4e60-a4e7-a85a705bf168,Henry Milne Angol Lovastörténelmi Villamúzeum Fotó&Filmstúdió,2023-03-08T18:24:31.409Z,1922bff2-0db3-42cb-b125-5d15933992f2,ZZZ,Hungary,hu,101000401657475,Henry Milne Angol Lovastörténelmi Villamúzeum Fotó&Filmstúdió,Facebook
-c98f2cc0-8cc8-44e7-a4fb-6d4b042ae727,Dan David Prize,2023-03-05T10:51:38.576Z,31ce66cb-85cb-4a56-a8be-106289191749,ZZZ,Hungary,hu,74872201965,Dan David Prize,Facebook
-ff5a6429-184d-4533-8311-6facd7618c7a,Game brave HJGFD,2023-03-06T10:51:31.670Z,8b5f7036-7f7f-4171-abe8-3a17176f11e5,ZZZ,Hungary,hu,100395329108239,Game brave HJGFD,Facebook
-12f833a0-856f-4084-9d28-d82b1e0ec38d,DailyWolf,2023-03-02T10:51:30.734Z,6e0a0d23-c633-4308-9e05-2b37c7998908,ZZZ,Hungary,hu,104993792511414,DailyWolf,Facebook
-63d50823-2d25-47a5-a844-950af847031d,viktoria_vibella_ua,2023-02-19T10:51:46.912Z,46dc05ca-7ec8-4ac2-9f78-07b782bf8dfa,ZZZ,Hungary,hu,105446428960521,viktoria_vibella_ua,Facebook
+483b6668-86d9-40ab-bb71-f0fe03ea02a0,RSM Hungary,2023-03-18T10:51:21.271Z,262eacf6-00d6-4b9b-b8f2-dd175c07a0aa,ZZZ,Hungary,hu,112399615466812,RSM Hungary,Facebook
+cf39b7a8-4f1f-4dcc-bbdd-25a210283630,Study in Taiwan,2023-03-18T10:51:21.439Z,8d8e52dc-0b78-4c8b-83c7-3bbca4eadd27,ZZZ,Hungary,hu,187580231262973,Study in Taiwan,Facebook
+c8b604b5-421c-4155-b2d2-793d4a00602d,Glossza,2023-03-18T10:51:21.435Z,9d68df3c-4bba-4527-a019-99a2a3632da4,ZZZ,Hungary,hu,104158368317163,Glossza,Facebook
 424a1306-4188-4d88-9712-633bc22e369e,The Science Explorer,2023-02-19T10:51:46.920Z,24fb3caf-c482-40c6-8ca5-dcd3a1bce43e,ZZZ,Hungary,hu,167184886633926,The Science Explorer,Facebook
 4bbd464f-2a6a-4ca0-a95c-8a522a9094f7,Női egészség,2023-03-11T10:51:37.204Z,98bb076e-d236-4c96-82aa-4d6b30f3fbe9,ZZZ,Hungary,hu,104135915962669,Női egészség,Facebook
 e4a38324-4202-44e0-8590-512e2f3e73e0,Női egészség,2023-03-11T10:51:37.221Z,c4852e46-accc-4c26-9340-8b3b25f14abc,ZZZ,Hungary,hu,107649408940355,Női egészség,Facebook
@@ -1848,6 +1795,59 @@ cbb4c8f5-e214-40ea-934f-3eaa4008cd12,Földi Judit,2023-09-22T05:05:21.917Z,8e02e
 5d08ac4f-7548-4c0d-8a89-a87b062d84cd,DK Szeghalom,2023-11-11T05:05:10.123Z,1c510201-41ad-4ee3-8df3-1ff9a5198482,DK,Hungary,hu,1689889764640476,DK Szeghalom,Facebook
 2bff935f-0877-49a1-a551-116634286973,Hegedűs Andrea,2023-12-01T05:05:34.966Z,91fc7045-c4f7-4fee-9ce8-409bf145583e,DK,Hungary,hu,103944491558149,Hegedűs Andrea,Facebook
 3647fd1d-a752-49a0-91d7-80dd9e3169fe,Demokratikus Koalíció Csepel,2023-09-22T04:09:04.600Z,79c791db-cd7f-4cc9-90f6-ab35bc94d1dd,DK,Hungary,hu,370581092991793,Demokratikus Koalíció Csepel,Facebook
+9a7ef2b3-0123-412b-98ef-56bc42d95bc9,Bolognabookplus,2023-02-09T06:25:58.249Z,246f80d5-0ab6-4035-aa1f-d81373e4aeec,ZZZ,Hungary,hu,100540378928657,Bolognabookplus,Facebook
+44e7752a-aec1-41db-8f35-137ff92c5cab,Proofminder,2023-02-09T06:25:58.253Z,8b8592da-c79a-4994-8d88-7cb548e05cee,ZZZ,Hungary,hu,103329398104414,Proofminder,Facebook
+3a879c3a-2b3b-43b4-a057-ad970849cc49,National Geographic Magazin Magyarország,2023-02-09T06:25:58.230Z,c98382e6-3279-42c4-9ee2-a54e292eee28,ZZZ,Hungary,hu,204564332928305,National Geographic Magazin Magyarország,Facebook
+bef336b2-c11b-4ce5-92aa-49940f68751d,Greg Mayor,2023-02-11T10:51:17.008Z,0bbbe79a-8b97-4430-b59f-ea4f8b37956a,ZZZ,Hungary,hu,112738328386129,Greg Mayor,Facebook
+239b0b99-8379-456f-9ee4-154ea86589eb,EU Maritime & Fish,2023-02-11T10:51:17.128Z,48824b23-e0f1-4f16-8ea2-c6df0b054b38,ZZZ,Hungary,hu,387573881345007,EU Maritime & Fish,Facebook
+d1b4fb6a-5793-48ab-8da6-54c12aab7f99,Мария Шапошник,2023-03-25T10:51:13.286Z,fea7f0ba-eecd-420f-bb0c-f0a79e88bb42,ZZZ,Hungary,hu,1010393349168402,Мария Шапошник,Facebook
+14295bf5-372a-44af-8ed2-17e0ab4707fd,Óvó néni Nyugaton,2023-03-25T10:51:13.310Z,57ecb6af-11b2-4d86-ad3c-0b1625ad54a7,ZZZ,Hungary,hu,103624482007671,Óvó néni Nyugaton,Facebook
+4d7f381c-dbbd-44bb-be2f-8af685e5ab4b,Windsor krónikák,2023-03-26T10:51:15.723Z,96ecb657-8304-47cf-be1f-5257ab0d42b0,ZZZ,Hungary,hu,867890780224815,Windsor krónikák,Facebook
+080517f9-8b32-433d-84f2-0a3e40f413d9,Loctite Pillanatragasztók,2023-03-26T10:51:15.763Z,5d4625e1-b419-4f99-b80e-8add7a71f850,ZZZ,Hungary,hu,106044854515836,Loctite Pillanatragasztók,Facebook
+27c10a41-ef84-4e4b-9b76-6400fa31ede4,Marketing Generous,2023-03-26T10:51:15.763Z,e4c3ee38-1e54-4985-a86b-a79e1b4f7f2b,ZZZ,Hungary,hu,113629868312383,Marketing Generous,Facebook
+ed664d2b-4d49-4a9c-84c3-2b9afe6e8c94,A magyar a nyerő,2023-03-26T10:51:15.763Z,4b11c571-e8f8-474e-af6b-89259d08208a,ZZZ,Hungary,hu,173492029430371,A magyar a nyerő,Facebook
+563324f9-0b5f-4325-a912-95286402210c,Phantoms Of Future,2023-03-26T10:51:15.844Z,d093ac76-6514-4a20-b5fe-15e81fdd2130,ZZZ,Hungary,hu,100211565455424,Phantoms Of Future,Facebook
+44a79658-7d17-496f-9d92-07b873da56ee,GameDay News,2023-03-14T10:51:13.225Z,6d2baa7f-5b8a-4528-b91d-ef7cffc0e0b0,ZZZ,Hungary,hu,290980968206977,GameDay News,Facebook
+6701f763-b090-43ef-a2c3-2c5185ae623a,Tanyasi Csirke,2023-03-15T10:51:32.301Z,a593e6a1-d3f5-42a7-91ee-53f69128e557,ZZZ,Hungary,hu,101012008297812,Tanyasi Csirke,Facebook
+e938bb1b-c787-45e7-aea4-f26ac89afa7b,HENGE,2023-03-15T10:51:32.411Z,9a916be8-aa40-4e2e-a9f8-3fb8818e78c3,ZZZ,Hungary,hu,1491506997777940,HENGE,Facebook
+28304c36-826f-40b1-a98a-18b4c7c8730f,Sl,2023-03-15T10:51:32.432Z,ebe03493-dae8-4abd-96e2-abc2a355e3a3,ZZZ,Hungary,hu,114398131525316,Sl,Facebook
+ba10f0cf-67b1-46e1-b1f0-39697672529a,Cannabis Europa: London Event & Expo,2023-03-15T10:51:32.431Z,e523e9de-a3cb-4b1b-98c1-c0067be8745b,ZZZ,Hungary,hu,109433088398513,Cannabis Europa: London Event & Expo,Facebook
+ac9610d4-8b9f-4ad3-930e-0b15055d0fc7,Alikecloth,2023-03-15T10:51:32.449Z,db44b91f-a0a2-4bc4-ab85-18e0cf8a69a4,ZZZ,Hungary,hu,109750215301135,Alikecloth,Facebook
+66299ddd-c0f1-4634-9015-603bdd03386a,Sick Noise,2023-03-15T10:51:32.455Z,4733f1dc-b24f-4e38-937c-3b9d59c0a5ac,ZZZ,Hungary,hu,439440096133537,Sick Noise,Facebook
+5d5f71b7-4dc9-4d7c-af16-c850643b6431,Bunteto.com - Online Sportmagazin,2023-03-08T16:08:06.692Z,ac94700b-825b-43fd-a6d0-a4de35c7a77a,ZZZ,Hungary,hu,287924088574465,Bunteto.com - Online Sportmagazin,Facebook
+3ef2c308-7fad-4cf4-ac0a-ab6218814c5e,Money Sense,2023-02-26T10:51:37.845Z,818692b8-ba3c-4100-8469-82a8c1af7661,ZZZ,Hungary,hu,105646628242035,Money Sense,Facebook
+a5c30140-d6df-480c-86f4-aa6c3f2ecc17,Sotheby's,2023-02-26T10:51:37.863Z,f4b0ef16-eaa3-40d4-913a-234b08f710ae,ZZZ,Hungary,hu,101894826563370,Sotheby's,Facebook
+6daf7f5f-f053-4e15-95bf-5e69d44f01b3,LOUPE Színházi társulás,2023-02-28T10:51:36.814Z,2c9b1bf2-9e68-48ee-9113-88a81eaa82eb,ZZZ,Hungary,hu,106975778772305,LOUPE Színházi társulás,Facebook
+2497a7c5-ceaa-4129-a954-bf3946f7aa9b,A Vidék Minősége :: Alpokalja-Fertő Táj,2023-02-15T10:51:22.815Z,7901acac-89b7-4f6b-8622-4194ccc57a6d,ZZZ,Hungary,hu,108675744181288,A Vidék Minősége :: Alpokalja-Fertő Táj,Facebook
+0946de34-a739-48d9-9642-2c409a310dea,PORT.hu,2023-02-15T10:51:22.885Z,d2423871-2173-43bd-93b8-522de84a27ef,ZZZ,Hungary,hu,70699931601,PORT.hu,Facebook
+c8a9f516-e723-49ba-b3f3-edd8eb1eddf4,Nemzeti Fórum Békéssámson,2023-02-15T10:51:22.893Z,42b887bf-b252-40a6-9d52-4a309a5e2c06,ZZZ,Hungary,hu,109859077545698,Nemzeti Fórum Békéssámson,Facebook
+8d49e1cb-28b6-48b8-b981-b139d5faf9a0,Goethe-Institut,2023-02-15T10:51:23.078Z,dad82fda-90b1-4d41-bce9-d3e272da1214,ZZZ,Hungary,hu,47710652725,Goethe-Institut,Facebook
+3b502d2d-4404-468c-bfa8-a59d2449f89b,begreen.hu,2023-02-19T10:51:46.814Z,de0af069-f629-4d15-bf12-d822aeec7217,ZZZ,Hungary,hu,102304352536605,begreen.hu,Facebook
+3f49b6c2-2388-4e1c-a912-41bfd7d372f4,Totalcar.hu,2023-02-19T10:51:46.838Z,2cd452f3-f2c6-4a76-a198-46e8394b3476,ZZZ,Hungary,hu,117738001600393,Totalcar.hu,Facebook
+1fb31e86-fe40-41db-a456-ce55b77135a4,Hankook Tire Hungary,2023-03-12T10:51:27.104Z,14c0e25c-792e-4949-bebc-4056f0f74983,ZZZ,Hungary,hu,315888562182035,Hankook Tire Hungary,Facebook
+7f37feab-1450-4a98-86f2-10abf8910414,blnce,2023-03-12T10:51:27.210Z,3156fcad-4547-40f4-9226-5c6276fd2451,ZZZ,Hungary,hu,157211771332192,blnce,Facebook
+6a2d3b95-e85a-4d75-acf7-682a870dd965,KAPTÁR,2023-03-12T10:51:27.504Z,6311080e-c489-452a-bf6c-7b0699340d88,ZZZ,Hungary,hu,415511021794234,KAPTÁR,Facebook
+8117c0cc-7bfe-4fe5-b6af-bbd9ef8de764,MFB - Magyar Fejlesztési Bank,2023-03-12T10:51:27.589Z,5cd3b0e4-74b6-4a04-8637-a12f4fda28cb,ZZZ,Hungary,hu,219432394845493,MFB - Magyar Fejlesztési Bank,Facebook
+15cc344b-4173-42f1-96be-f373db63c021,MVM Csoport,2023-03-12T10:51:27.623Z,ed13f187-e907-4e2e-b210-ef7bd1a0b41c,ZZZ,Hungary,hu,127163787335513,MVM Csoport,Facebook
+fb6797b8-f84d-499d-a52b-5d5ec5b77390,La Matriarcha,2023-03-12T10:51:27.705Z,b0fc20d2-fe4b-49a1-a75d-7221951b94d7,ZZZ,Hungary,hu,103207135920750,La Matriarcha,Facebook
+4908d968-70c3-426a-9066-cc14e6084503,Ragaszkodj hozzá,2023-03-12T10:51:27.703Z,66036f8d-c9a8-4763-9ea8-8e2c413d73b0,ZZZ,Hungary,hu,205024359857102,Ragaszkodj hozzá,Facebook
+e4503c2d-1fa8-46bc-9068-703d66bf2949,AccorInvest Hotels Hungary,2023-03-12T10:51:27.767Z,44cdd26e-af07-48f0-bf26-6a4d868b1fc3,ZZZ,Hungary,hu,107091838808265,AccorInvest Hotels Hungary,Facebook
+13ef0e7a-0b73-49a7-a72f-22d7df4b4c1c,Pirin Hill Hungary,2023-03-12T10:51:27.871Z,dce751a7-8b30-4370-ba26-36471ce2c3d2,ZZZ,Hungary,hu,101253392728962,Pirin Hill Hungary,Facebook
+4672d122-9765-434b-be38-e8a16941db88,SHOPMARK,2023-03-12T10:51:27.906Z,cdc18b07-f537-4cf2-9d26-5b87494dfe9d,ZZZ,Hungary,hu,180032499170772,SHOPMARK,Facebook
+ea2fd26f-4722-43cd-8065-c5a163668081,Interfood,2023-03-12T10:51:27.960Z,79cb9e05-0eeb-4a1a-a805-cebfa497e303,ZZZ,Hungary,hu,129492007099193,Interfood,Facebook
+4e8e9a49-1d7a-4bd2-9b1f-a828e52b589f,DreamJo.bs,2023-03-12T10:51:28.007Z,4f257d15-1b50-47bc-a4fe-3ddc4ecfe5da,ZZZ,Hungary,hu,1578425772456135,DreamJo.bs,Facebook
+8395a091-4627-41c4-8a80-a868e4121d33,HRTV,2023-03-12T10:51:28.064Z,cda58d5b-ecd0-4632-bc7d-a568455a9e03,ZZZ,Hungary,hu,107538238058641,HRTV,Facebook
+3283d98f-281b-4d5c-9ff7-ceb887a73ceb,Szaktudás Kiadó Ház,2023-03-12T10:51:28.102Z,4cfedbaa-e7a6-4341-9fff-058085ae7651,ZZZ,Hungary,hu,101882889975936,Szaktudás Kiadó Ház,Facebook
+c355bc1d-d862-403d-98cb-f3a573de04f6,E-városom,2023-03-12T10:51:28.140Z,e8c76879-f859-4504-ad8f-15aa36e279ad,ZZZ,Hungary,hu,104064807632238,E-városom,Facebook
+414fa10b-5f73-4ce4-9a08-a8c8e4c68845,Szimpatika gyógyszertár,2023-03-12T10:51:28.148Z,9467c121-43f6-4b60-a641-b875cff6ce56,ZZZ,Hungary,hu,123824547650194,Szimpatika gyógyszertár,Facebook
+181ad010-bc5d-45c9-8782-0ec942373e21,Bodybox Budaörs,2023-03-12T10:51:28.148Z,bf57282b-b8a9-4475-8aac-d170dcfd099f,ZZZ,Hungary,hu,101135435747820,Bodybox Budaörs,Facebook
+5c714b79-a913-4e43-b83c-e9cbfc79d58d,Kertváros az otthonunk,2023-03-08T18:13:57.074Z,fdc1c660-6419-4d53-b070-9169a29d8af8,ZZZ,Hungary,hu,102031195757056,Kertváros az otthonunk,Facebook
+253db379-47d8-4825-86fe-141c27eb6db1,Kosárérték - E-kereskedelmi magazin,2023-03-08T18:24:31.453Z,eddef357-13eb-4781-9a67-a54a75d028a6,ZZZ,Hungary,hu,427730700915028,Kosárérték - E-kereskedelmi magazin,Facebook
+772d25f2-3d29-4e60-a4e7-a85a705bf168,Henry Milne Angol Lovastörténelmi Villamúzeum Fotó&Filmstúdió,2023-03-08T18:24:31.409Z,1922bff2-0db3-42cb-b125-5d15933992f2,ZZZ,Hungary,hu,101000401657475,Henry Milne Angol Lovastörténelmi Villamúzeum Fotó&Filmstúdió,Facebook
+c98f2cc0-8cc8-44e7-a4fb-6d4b042ae727,Dan David Prize,2023-03-05T10:51:38.576Z,31ce66cb-85cb-4a56-a8be-106289191749,ZZZ,Hungary,hu,74872201965,Dan David Prize,Facebook
+ff5a6429-184d-4533-8311-6facd7618c7a,Game brave HJGFD,2023-03-06T10:51:31.670Z,8b5f7036-7f7f-4171-abe8-3a17176f11e5,ZZZ,Hungary,hu,100395329108239,Game brave HJGFD,Facebook
+12f833a0-856f-4084-9d28-d82b1e0ec38d,DailyWolf,2023-03-02T10:51:30.734Z,6e0a0d23-c633-4308-9e05-2b37c7998908,ZZZ,Hungary,hu,104993792511414,DailyWolf,Facebook
+63d50823-2d25-47a5-a844-950af847031d,viktoria_vibella_ua,2023-02-19T10:51:46.912Z,46dc05ca-7ec8-4ac2-9f78-07b782bf8dfa,ZZZ,Hungary,hu,105446428960521,viktoria_vibella_ua,Facebook
 ca122349-4be4-4acc-8b53-561513c21aa4,DK Orosháza,2023-10-17T05:05:31.089Z,0c11cda1-0d4c-4d7d-8b42-81f989ebac92,DK,Hungary,hu,121666111031585,DK Orosháza,Facebook
 efab9512-61b8-4ec6-b77d-b64604c95072,Demokratikus Lendület - DEL,2023-03-08T16:28:42.892Z,058df80c-5b19-4270-9228-a9f02505779d,DK,Hungary,hu,111039861671286,Demokratikus Lendület - DEL,Facebook
 6ae8de37-ef94-43ee-bebc-dae8f9c69fbb,Kálmán Olga,2023-05-20T06:51:17.983Z,5dbfb898-f1be-4cda-82f2-a701f8189e33,DK,Hungary,hu,1878531865537365,Kálmán Olga,Facebook
@@ -1865,6 +1865,7 @@ bb98660e-49dd-44af-b11a-b6d95efe5747,DK III. kerület,2023-05-21T06:51:12.723Z,c
 2b143747-1fda-4870-ac06-779b020599dc,Dr. Fülöp Zoltán,2023-03-09T10:51:39.968Z,597ff517-48cb-41e2-900e-0b91e0264a5c,DK,Hungary,hu,114728026560770,Dr. Fülöp Zoltán,Facebook
 66cad989-8b46-4a94-ad1f-7ccee287284f,Miyazaki Jun,2023-03-11T10:51:37.339Z,2f6a5cca-cf9b-470e-a622-1c92ac71f235,DK,Hungary,hu,1785101661716698,Miyazaki Jun,Facebook
 9bfad25c-83f0-48da-9fb1-888f10f8f21b,DK Békéscsaba,2023-09-13T05:05:13.839Z,a490d4f1-8013-4230-a584-419aecf5e95d,DK,Hungary,hu,192856671238528,DK Békéscsaba,Facebook
+4d0a2611-a4d9-4a0d-ad30-4ac9cf36d992,LMP  II. kerület- Második kerület,2023-05-12T06:51:22.022Z,6742a72b-39ae-4815-80c9-240783284ece,LMP,Hungary,hu,589756871228977,LMP  II. kerület- Második kerület,Facebook
 258278c6-4abd-4a9f-9ea4-fe565c66a03a,WWF Hungary,2023-02-13T10:51:40.262Z,6342b965-64db-4431-99b1-fb36178977f8,ZZZ,Hungary,hu,211156277497,WWF Hungary,Facebook
 9dc34818-a986-4f07-8de6-d762aa4f8bdc,TV Sunday,2023-10-05T05:06:30.938Z,e6f9a3eb-d4de-44e4-80e7-1af7304f1ed7,ZZZ,Hungary,hu,104447041452950,TV Sunday,Facebook
 9f78599d-f04a-4fba-b710-93afcea642dd,NeBazz,2023-04-29T06:51:18.852Z,596d45ea-f2cf-426e-aa51-cba72a05f281,ZZZ,Hungary,hu,1702117250020853,NeBazz,Facebook
@@ -1997,7 +1998,6 @@ ce4a78a8-e831-408a-a945-75f0d57ad338,Id4,2023-05-01T06:51:11.433Z,615c1479-f216-
 85d93595-08ae-4d57-8a1d-bf6a0090d42a,Mudassar Jackson,2023-05-27T06:51:20.072Z,b75d716d-bccc-4eab-95ad-ffcc9b39fc17,ZZZ,Hungary,hu,130221623851701,Mudassar Jackson,Facebook
 a16cd693-8bec-41a2-92ef-83bedf2fc015,Diversey Hungary,2023-11-27T07:55:02.493Z,b15ffd87-2948-4c96-8225-8e343c686397,ZZZ,Hungary,hu,102619308013919,Diversey Hungary,Facebook
 03cec98e-df32-471f-b13c-86cf52c0e958,TD SYNNEX,2024-01-08T05:05:24.021Z,bbab572b-400b-43fe-a6fd-c4fb4313283e,ZZZ,Hungary,hu,107469168329603,TD SYNNEX,Facebook
-4d0a2611-a4d9-4a0d-ad30-4ac9cf36d992,LMP  II. kerület- Második kerület,2023-05-12T06:51:22.022Z,6742a72b-39ae-4815-80c9-240783284ece,LMP,Hungary,hu,589756871228977,LMP  II. kerület- Második kerület,Facebook
 48dba52d-66f4-4b85-975a-9f3c8e323f33,LMP Hajdú-Bihar megye,2023-05-14T06:51:15.045Z,ce434ab8-ee4f-43ba-9a55-8d1a3b84f0e6,LMP,Hungary,hu,549026298448199,LMP Hajdú-Bihar megye,Facebook
 bacc38bc-7c60-4800-b891-0a9880a97970,We Have a Dream,2023-04-27T06:51:21.248Z,52af0ac8-cb40-4b2d-bf49-2f74043e2cd2,ZZZ,Hungary,hu,543340359536832,We Have a Dream,Facebook
 4d893977-f01c-4af8-bcd0-6154f9bb9522,Héber és Izraeli Kulturális Központ / Hebrew and Israeli Cultural Center,2023-06-13T06:51:29.613Z,1e1bb1b0-d290-4759-9fb0-272f836dede7,ZZZ,Hungary,hu,294252074774,Héber és Izraeli Kulturális Központ / Hebrew and Israeli Cultural Center,Facebook
@@ -2009,276 +2009,268 @@ c86bc823-46d9-4fc1-8319-efc1e006e788,Crystelle,2023-04-22T06:01:48.725Z,6bbc9482
 c1dd183c-80bc-4d7f-b80e-99c05670df3c,Enigmatic Euphony,2023-10-04T05:05:18.864Z,fb17e470-91c6-44d2-9030-8e2b498bb57a,ZZZ,Hungary,hu,100385355974665,Enigmatic Euphony,Facebook
 ffde9414-f98a-41b7-aa71-d521bbd3c82e,kessprystawek,2023-11-15T05:05:21.407Z,d1bfd7c0-3192-4949-b83c-45e445153fd3,ZZZ,Hungary,hu,108452065417169,kessprystawek,Facebook
 8c55edf8-d73a-444a-befc-dedd565259d0,Auchan,2023-07-17T06:30:36.700Z,e75a7932-c592-4dc2-a946-5f6094d1142f,ZZZ,Hungary,hu,347002424811,Auchan,Facebook
-c298fa34-3199-48f5-b649-bd93f50be771,Hearty Violet,2023-05-04T06:51:19.134Z,cea343d4-0d68-410a-b566-e482e513789e,ZZZ,Hungary,hu,112354478508109,Hearty Violet,Facebook
-d060b838-5ca4-47d3-9fdd-d10ca3ebe1bf,Hansaplast Magyarország,2023-10-31T05:28:13.724Z,704dd21f-3297-41ed-83c4-5c44f10ae01f,ZZZ,Hungary,hu,1803647716569646,Hansaplast Magyarország,Facebook
-04856003-5d9c-4cff-afba-c4a14de6675a,Wilko-usa shop,2023-11-03T05:05:29.986Z,a4c6fe10-8b80-4e3b-9d2c-5153502e637c,ZZZ,Hungary,hu,100913645179430,Wilko-usa shop,Facebook
-258b6875-cb6a-41cc-b427-6cc8a3704327,Visszaélés-bejelentés,2023-06-07T06:51:12.931Z,0e657607-b764-441f-8c1b-4dbbf9bddff4,ZZZ,Hungary,hu,101094839393148,Visszaélés-bejelentés,Facebook
-41c305a0-61b8-46fa-9b59-0dda66cb454b,VideoWorkers,2023-12-13T05:05:40.501Z,9bb2ad23-4019-4714-ade7-26a8640495df,ZZZ,Hungary,hu,116200351478800,VideoWorkers,Facebook
-ca2f3667-8d6e-487c-b5b4-41c6c8c6bf79,thearchiveast,2023-11-09T05:05:19.362Z,a1f9ac3e-0e97-4e97-bc0d-d6196f9fbc85,ZZZ,Hungary,hu,116875388053263,thearchiveast,Facebook
-98136e36-35c0-4cf7-9175-dd84a075a9dc,Terra Vita - Charitable Ukrainian Found/Український Благодійний Фонд ГО,2024-01-02T05:05:12.663Z,e8b73b55-2052-4df6-98ba-a2cd0a04ddba,ZZZ,Hungary,hu,104154842555246,Terra Vita - Charitable Ukrainian Found/Український Благодійний Фонд ГО,Facebook
-532c8170-0b2f-4b61-957c-a4edd6ee6c52,Telekom Spots,2023-05-01T06:51:11.196Z,77c3b57b-e4f2-4233-b9ba-2785b7f538a4,ZZZ,Hungary,hu,109142852088689,Telekom Spots,Facebook
-842a600f-860b-4480-acb8-4951c8914e51,TechOffice,2023-11-03T05:05:29.920Z,388837cc-4e84-4ab2-822e-496af5b13290,ZZZ,Hungary,hu,460898974286771,TechOffice,Facebook
-e351b65e-be15-42a1-9269-a90fdfadbda8,Target Center Kecskemét,2023-10-27T05:06:27.472Z,8546bcdd-f651-4bd9-b1fd-4f46773fcb11,ZZZ,Hungary,hu,458736324522250,Target Center Kecskemét,Facebook
-97b55e11-c833-454a-8806-cac62104815f,Sparked.hu,2023-09-27T05:05:43.854Z,a155c1fe-e0eb-4aad-8ef6-fc723b574d44,ZZZ,Hungary,hu,101029029017826,Sparked.hu,Facebook
 220e5965-0130-426d-9210-536187f68ac3,LMP Csongrád megye,2023-04-28T06:51:08.959Z,6a9f2ef1-bd6e-492f-8f6e-866b4ded3ea7,LMP,Hungary,hu,228214933860343,LMP Csongrád megye,Facebook
+c298fa34-3199-48f5-b649-bd93f50be771,Hearty Violet,2023-05-04T06:51:19.134Z,cea343d4-0d68-410a-b566-e482e513789e,ZZZ,Hungary,hu,112354478508109,Hearty Violet,Facebook
 dbb96d0c-728c-4217-9226-b5b3e890488e,UNICEF Magyarország,2023-02-07T15:06:09.706Z,b52a7509-ed6d-4b53-82bd-b046145975d0,ZZZ,Hungary,hu,289633770813,UNICEF Magyarország,Facebook
 bd1164cb-ba99-4979-bcf5-1d185242c530,United Way Magyarország,2023-05-20T06:51:18.340Z,4cfda057-0b3a-4fb5-84e6-33792db2d49b,ZZZ,Hungary,hu,120800934626447,United Way Magyarország,Facebook
+d060b838-5ca4-47d3-9fdd-d10ca3ebe1bf,Hansaplast Magyarország,2023-10-31T05:28:13.724Z,704dd21f-3297-41ed-83c4-5c44f10ae01f,ZZZ,Hungary,hu,1803647716569646,Hansaplast Magyarország,Facebook
 679e9d78-3c13-40b3-a612-2034b426c629,Kassák Múzeum,2023-10-20T05:05:22.984Z,18951de9-e638-490a-9147-e07dd8d324e4,ZZZ,Hungary,hu,215440291801383,Kassák Múzeum,Facebook
+04856003-5d9c-4cff-afba-c4a14de6675a,Wilko-usa shop,2023-11-03T05:05:29.986Z,a4c6fe10-8b80-4e3b-9d2c-5153502e637c,ZZZ,Hungary,hu,100913645179430,Wilko-usa shop,Facebook
 202eb3d2-493b-4548-9eb1-0281d0f60926,Ökoroom.hu - online környezetvédelmi és környezetkultúra magazin,2024-01-01T05:05:12.816Z,01457dcb-430d-4492-b94b-c87b7d926f80,ZZZ,Hungary,hu,336319463736813,Ökoroom.hu - online környezetvédelmi és környezetkultúra magazin,Facebook
+258b6875-cb6a-41cc-b427-6cc8a3704327,Visszaélés-bejelentés,2023-06-07T06:51:12.931Z,0e657607-b764-441f-8c1b-4dbbf9bddff4,ZZZ,Hungary,hu,101094839393148,Visszaélés-bejelentés,Facebook
+41c305a0-61b8-46fa-9b59-0dda66cb454b,VideoWorkers,2023-12-13T05:05:40.501Z,9bb2ad23-4019-4714-ade7-26a8640495df,ZZZ,Hungary,hu,116200351478800,VideoWorkers,Facebook
 bd59744f-4623-4e1b-aa67-8859a1378cea,Reflektoronline,2023-12-04T05:05:32.414Z,9b6c82e1-fef2-47f5-a350-7a4452321db0,ZZZ,Hungary,hu,591648264246853,Reflektoronline,Facebook
 ff0c090e-1f9a-4bc4-817f-76b8149bfa56,IN SITU - European Platform for Artistic Creation in Public Space,2023-07-05T06:05:42.382Z,87721025-5c17-443e-bcfd-67c1742cd932,ZZZ,Hungary,hu,135628079908793,IN SITU - European Platform for Artistic Creation in Public Space,Facebook
+ca2f3667-8d6e-487c-b5b4-41c6c8c6bf79,thearchiveast,2023-11-09T05:05:19.362Z,a1f9ac3e-0e97-4e97-bc0d-d6196f9fbc85,ZZZ,Hungary,hu,116875388053263,thearchiveast,Facebook
 05f6a553-5866-4155-933e-1b31a88f18d1,Curver Webshop,2023-11-27T07:55:02.507Z,d45de81d-dca9-49f6-a95b-bd94a6da6572,ZZZ,Hungary,hu,675542485922841,Curver Webshop,Facebook
 c5d515db-abc4-4ee6-81ea-f7ab9456770b,standbyme_project,2023-12-15T05:05:42.535Z,a6d4933c-7951-4377-9152-26ee3d01b309,ZZZ,Hungary,hu,101460199685894,standbyme_project,Facebook
+98136e36-35c0-4cf7-9175-dd84a075a9dc,Terra Vita - Charitable Ukrainian Found/Український Благодійний Фонд ГО,2024-01-02T05:05:12.663Z,e8b73b55-2052-4df6-98ba-a2cd0a04ddba,ZZZ,Hungary,hu,104154842555246,Terra Vita - Charitable Ukrainian Found/Український Благодійний Фонд ГО,Facebook
+532c8170-0b2f-4b61-957c-a4edd6ee6c52,Telekom Spots,2023-05-01T06:51:11.196Z,77c3b57b-e4f2-4233-b9ba-2785b7f538a4,ZZZ,Hungary,hu,109142852088689,Telekom Spots,Facebook
 473e87aa-9e40-464d-96f9-14a1684f1373,GirlPaths Magazine,2024-01-09T05:05:29.498Z,3e66fa5d-8990-4017-b354-69009ec8c145,ZZZ,Hungary,hu,164759106719774,GirlPaths Magazine,Facebook
 bb8cd520-3caf-46a4-aefb-b69d4fa4757e,Homeinfo.hu,2023-12-19T05:05:11.357Z,e28289f0-756a-416d-869d-a84e06378808,ZZZ,Hungary,hu,125961074084275,Homeinfo.hu,Facebook
+842a600f-860b-4480-acb8-4951c8914e51,TechOffice,2023-11-03T05:05:29.920Z,388837cc-4e84-4ab2-822e-496af5b13290,ZZZ,Hungary,hu,460898974286771,TechOffice,Facebook
 2cf77bdf-2b1a-4a2d-a99d-5426928c67bd,Id1,2023-05-01T06:51:11.356Z,9af22d5f-21fe-4425-a330-bb931a723eb9,ZZZ,Hungary,hu,108918508856241,Id1,Facebook
+e351b65e-be15-42a1-9269-a90fdfadbda8,Target Center Kecskemét,2023-10-27T05:06:27.472Z,8546bcdd-f651-4bd9-b1fd-4f46773fcb11,ZZZ,Hungary,hu,458736324522250,Target Center Kecskemét,Facebook
 38f5383f-fd8f-4a64-aa5a-3b843855703f,Verity Vivian,2023-11-26T05:05:38.900Z,25123a9b-c153-4a0d-8546-40f48be39dcf,ZZZ,Hungary,hu,108900137303881,Verity Vivian,Facebook
 06440cc9-6df2-41b8-82f7-5d2c442f2294,Юрий Пузыревский НЛП тренер,2023-09-11T05:05:31.712Z,9f7c26f8-c8f0-4a40-becc-379113571b91,ZZZ,Hungary,hu,1854252368143793,Юрий Пузыревский НЛП тренер,Facebook
+97b55e11-c833-454a-8806-cac62104815f,Sparked.hu,2023-09-27T05:05:43.854Z,a155c1fe-e0eb-4aad-8ef6-fc723b574d44,ZZZ,Hungary,hu,101029029017826,Sparked.hu,Facebook
 43b039d2-decc-437e-9fdd-8dc09e031cbc,Срочные Новости,2024-01-19T05:05:27.642Z,30bdebba-9428-4eba-b396-2865be1ab930,ZZZ,Hungary,hu,112628551789706,Срочные Новости,Facebook
 208617c7-9634-4838-8c77-33631307eb17,Срочные новости,2024-02-23T03:05:42.252Z,8c9274e2-7163-4f02-9efe-db0c770b3851,ZZZ,Hungary,hu,104053625396045,Срочные новости,Facebook
+2e215dbc-a0ef-4db7-810e-7149d64bfad6,LMP Belváros,2023-04-17T08:11:30.480Z,60c24e8b-9c38-4ce2-a049-77b7072d4bb0,LMP,Hungary,hu,140360522682932,LMP Belváros,Facebook
 da8d83e2-2d75-490f-874f-94c1ffe17f89,Надвечір'я,2023-11-09T05:05:19.348Z,83790d0e-cc73-4968-a737-ce3d9e451419,ZZZ,Hungary,hu,130499776801876,Надвечір'я,Facebook
 54d00dd5-9c8b-49f8-974c-8c562015957e,Zyntern.com Állásportál,2024-01-23T05:05:18.257Z,9ce0e23c-ce03-4221-bd2b-23b34978c244,ZZZ,Hungary,hu,1155772651185254,Zyntern.com Állásportál,Facebook
+3f6b36fc-5b0d-48ff-a70c-53f269ec99df,Indahouse Hungary,2023-02-26T10:51:37.820Z,365b14f6-6cb2-4c40-a7b1-bcfbc54e1411,ZZZ,Hungary,hu,348148758663062,Indahouse Hungary,Facebook
 69ad808e-f118-4c41-a550-08ff31fecacb,"Víz, Gáz, Fűtéstechnika épületgépészeti szaklap",2023-12-19T05:05:11.984Z,c6909e15-e0b3-4d96-a871-f94b8cd707da,ZZZ,Hungary,hu,116899161700933,"Víz, Gáz, Fűtéstechnika épületgépészeti szaklap",Facebook
 8dfa376b-ec5a-4409-99cd-d546062ccff5,Veszprém-Balaton 2023 Európa Kulturális Fővárosa,2023-10-20T05:05:22.479Z,1e5c76b3-52a6-4b80-a868-a131707ebd46,ZZZ,Hungary,hu,1850351491881799,Veszprém-Balaton 2023 Európa Kulturális Fővárosa,Facebook
+e7ac19f8-e8cc-4974-b611-6f817a328800,Trianon Múzeum Várpalota,2023-08-04T05:06:03.688Z,1e51d7da-5e22-43a0-aba1-f9e7b51d5365,ZZZ,Hungary,hu,222742844506641,Trianon Múzeum Várpalota,Facebook
 a215e37d-26e4-4985-a650-643cc7d6f58f,This is Beirut,2023-05-30T06:51:23.142Z,6b23711f-36a5-42c8-af85-8981a343c3b9,ZZZ,Hungary,hu,117345834653901,This is Beirut,Facebook
 b9edcaa0-b3b8-4012-93da-0dce2769f146,Societas,2023-06-12T06:51:13.503Z,40b9e0b8-5337-41a7-971d-12ae1e5c1767,ZZZ,Hungary,hu,223728505214,Societas,Facebook
-2e215dbc-a0ef-4db7-810e-7149d64bfad6,LMP Belváros,2023-04-17T08:11:30.480Z,60c24e8b-9c38-4ce2-a049-77b7072d4bb0,LMP,Hungary,hu,140360522682932,LMP Belváros,Facebook
-3f6b36fc-5b0d-48ff-a70c-53f269ec99df,Indahouse Hungary,2023-02-26T10:51:37.820Z,365b14f6-6cb2-4c40-a7b1-bcfbc54e1411,ZZZ,Hungary,hu,348148758663062,Indahouse Hungary,Facebook
-e7ac19f8-e8cc-4974-b611-6f817a328800,Trianon Múzeum Várpalota,2023-08-04T05:06:03.688Z,1e51d7da-5e22-43a0-aba1-f9e7b51d5365,ZZZ,Hungary,hu,222742844506641,Trianon Múzeum Várpalota,Facebook
 250b2761-720e-420d-96cc-bf48c0c86f43,A B C News,2023-07-03T06:14:14.492Z,ecad2b12-366b-414b-8be5-95c0c996813a,ZZZ,Hungary,hu,113690455097854,A B C News,Facebook
 2950802a-2518-49cc-aa68-59b3d8c03897,Definite Unusual,2023-05-04T06:51:19.099Z,72a08f36-4bc0-4b65-8d9f-1264a9d93f2d,ZZZ,Hungary,hu,111897381887943,Definite Unusual,Facebook
+b253ffc8-e4c4-453c-9c29-e2955c0fe144,LMP XII. kerület,2023-04-28T06:51:08.718Z,692a58be-5373-409d-9cfe-e0d163444761,LMP,Hungary,hu,1152868744771261,LMP XII. kerület,Facebook
 8376158b-98b6-4cc4-a955-89f5fa7c46aa,Biogen,2023-11-02T05:06:14.648Z,88b6bfa4-d52b-4e36-9630-4c498ce6b29b,ZZZ,Hungary,hu,333728930132722,Biogen,Facebook
+9e23d423-f93c-46ce-8dcb-8ae74801a823,42 don't panic,2023-03-08T14:39:22.696Z,24a96008-97b8-487f-8f6e-e8623a209aeb,ZZZ,Hungary,hu,114276653701462,42 don't panic,Facebook
 627ab79a-c202-408f-8fd4-b8a9d044421b,Jasminafinalaw,2023-10-02T05:05:03.420Z,a6c2198a-7414-49e9-9e37-dca368f6b516,ZZZ,Hungary,hu,123830947485854,Jasminafinalaw,Facebook
+21abcf99-50a8-4aab-98b5-485f5c44380a,2011 Egyesület,2023-03-19T10:51:21.813Z,482e11fa-3571-4bec-8088-76d09345d32c,ZZZ,Hungary,hu,696999284049136,2011 Egyesület,Facebook
 ed5e8e04-7050-4859-a1e6-01fa1bc7cbdc,Ricardo Miranda,2023-07-17T06:30:37.498Z,f2302d3c-581b-4af5-91a1-cb8a8a5ee208,ZZZ,Hungary,hu,1306086469482572,Ricardo Miranda,Facebook
+feb9acd3-4863-4ca4-993c-2a096a06c669,Laczkó Dezső Múzeum,2023-11-15T05:05:21.182Z,7e537452-29cf-4a1e-aea4-4cfe00655b89,ZZZ,Hungary,hu,148018185237166,Laczkó Dezső Múzeum,Facebook
 5b468a65-b803-4812-94ab-1ab70f942f7e,ArchDaily,2023-11-26T05:05:39.669Z,cd426854-3865-4190-a3f6-af4cc3d95660,ZZZ,Hungary,hu,210740790602,ArchDaily,Facebook
 4766ef9e-965b-4301-9b6d-8c769b44b412,Snack This,2023-11-23T05:05:12.961Z,b8e1fef2-2310-41f7-b775-9f0b64f1de8e,ZZZ,Hungary,hu,117965334657887,Snack This,Facebook
-73dfd675-c12b-48cf-8e9c-59113739942c,Water Witch Workboats,2023-06-03T06:51:25.686Z,2d4bcee1-0c30-41a0-8733-c997ec9f732f,ZZZ,Hungary,hu,474756162615729,Water Witch Workboats,Facebook
-2e254d48-7638-4c6f-b0e1-f56498095093,vogyunk,2024-02-23T03:05:42.197Z,d8e2d581-4d1a-4717-90bd-72acf4fc5617,ZZZ,Hungary,hu,109400965487420,vogyunk,Facebook
-271ad939-f7b4-4ab3-9ed4-133e30d634fb,Telekom HU,2023-08-05T05:06:16.489Z,d1420fc8-cab2-4436-9d8c-c9bb1ef720f4,ZZZ,Hungary,hu,189246802995,Telekom HU,Facebook
-6c2d15a8-8ed5-4388-bbc2-f04c82e8a6ae,Tégy az abortusz ellen,2023-02-07T15:06:10.169Z,b4d82f9a-61af-4b43-a813-8b08b3e52925,ZZZ,Hungary,hu,200615179974476,Tégy az abortusz ellen,Facebook
-63281808-f507-4d49-89c1-ec9535de7c29,TAY,2023-04-28T06:51:09.096Z,b5525870-88f6-414f-9dd6-3050bc63655b,ZZZ,Hungary,hu,1422513341405155,TAY,Facebook
-4ffc635d-aab1-4b3a-8d1a-f8a19f992da5,Sociabble,2023-12-16T05:05:36.070Z,5407a63f-985d-4894-a6ac-9462e9d50f08,ZZZ,Hungary,hu,1382195745391679,Sociabble,Facebook
-96666978-cf37-4d58-9219-de2970fc9def,Shopnova,2023-06-15T06:51:25.786Z,89da993d-199a-4815-bbbd-129bb89bf0f3,ZZZ,Hungary,hu,110261284829917,Shopnova,Facebook
-1e75312b-cef8-4338-9d1a-dd4529809a1b,Certus Software Hungary,2023-12-05T05:05:31.626Z,9902a348-f0f1-4ffc-b3d5-cd7c1c13fae8,ZZZ,Hungary,hu,100328702814002,Certus Software Hungary,Facebook
-028a6239-ee33-48ef-8c80-1220e1eb60ea,Rosebud 2,2023-08-28T05:05:14.310Z,2dc25af4-ac28-4a72-98f1-76cc9648c215,ZZZ,Hungary,hu,115012051692352,Rosebud 2,Facebook
-5b3cb94e-1f53-4ca7-bc13-d19b0353ce02,Realvesting,2023-11-08T05:05:23.026Z,0e0843a6-d748-463f-9a3d-d93c76d42633,ZZZ,Hungary,hu,114140724904111,Realvesting,Facebook
-233ec2da-3e13-46ef-b4a2-b00c7f2379f1,queenwithacrookedcrown,2024-01-21T05:05:34.149Z,4afa6f61-eba0-4a8c-a717-cba23c0aa9df,ZZZ,Hungary,hu,103242928864118,queenwithacrookedcrown,Facebook
-24db349a-0c38-4159-b111-18dba5ba0d5b,Prove,2023-04-17T08:11:30.770Z,4c091bfa-dfda-4eeb-97ca-6def3705294b,ZZZ,Hungary,hu,681585438877010,Prove,Facebook
-49e66397-2b1e-4eb6-b7a2-be2e30b2b60a,Pizza King Express,2023-11-01T05:05:27.129Z,972fd42f-a775-4d50-b0be-f11d0ffa7725,ZZZ,Hungary,hu,112699615508623,Pizza King Express,Facebook
-8deafccf-0527-426e-ad66-c53da9fe5cb2,CreativeSolar,2023-02-17T10:51:22.256Z,3e42753f-2c61-4eed-8c35-d7b6ad92ed8a,ZZZ,Hungary,hu,102384608623743,CreativeSolar,Facebook
-aeb70da1-9c15-47cc-96d4-7f8a5abc8077,Oldtimer Show Budapest,2023-09-15T05:05:10.176Z,268d58c9-0ece-4cd4-bf8f-5193573173fd,ZZZ,Hungary,hu,115213405244243,Oldtimer Show Budapest,Facebook
-b253ffc8-e4c4-453c-9c29-e2955c0fe144,LMP XII. kerület,2023-04-28T06:51:08.718Z,692a58be-5373-409d-9cfe-e0d163444761,LMP,Hungary,hu,1152868744771261,LMP XII. kerület,Facebook
-9e23d423-f93c-46ce-8dcb-8ae74801a823,42 don't panic,2023-03-08T14:39:22.696Z,24a96008-97b8-487f-8f6e-e8623a209aeb,ZZZ,Hungary,hu,114276653701462,42 don't panic,Facebook
-21abcf99-50a8-4aab-98b5-485f5c44380a,2011 Egyesület,2023-03-19T10:51:21.813Z,482e11fa-3571-4bec-8088-76d09345d32c,ZZZ,Hungary,hu,696999284049136,2011 Egyesület,Facebook
-feb9acd3-4863-4ca4-993c-2a096a06c669,Laczkó Dezső Múzeum,2023-11-15T05:05:21.182Z,7e537452-29cf-4a1e-aea4-4cfe00655b89,ZZZ,Hungary,hu,148018185237166,Laczkó Dezső Múzeum,Facebook
 0082da0f-b4f7-4b6c-b672-06ad4d8aa37a,Marketing Commando,2023-11-21T06:24:57.115Z,b54c9d6a-52d5-4d4d-a5be-ca74e7d6bb61,ZZZ,Hungary,hu,175348361940,Marketing Commando,Facebook
+73dfd675-c12b-48cf-8e9c-59113739942c,Water Witch Workboats,2023-06-03T06:51:25.686Z,2d4bcee1-0c30-41a0-8733-c997ec9f732f,ZZZ,Hungary,hu,474756162615729,Water Witch Workboats,Facebook
 90c086a2-aa35-46bd-9f23-29b990ada57a,Insightful Instants,2023-08-17T05:05:07.631Z,2d068068-8f69-4cfc-9f20-32639647a6c4,ZZZ,Hungary,hu,100548063148382,Insightful Instants,Facebook
 3c34c2fc-2b90-4b20-9ca3-62b37cc28a3d,Bosch Rexroth,2024-02-19T03:05:22.261Z,15eaefb0-eb00-4c0f-9a5a-f92b4006eac8,ZZZ,Hungary,hu,1525959147709741,Bosch Rexroth,Facebook
 33e447db-bc3d-47b3-98c8-41c55158daf6,Gerzsenyi-Raczkó Tímea - riporter,2023-05-01T06:51:11.448Z,ae22677d-625d-4116-a4d2-8bd207a85714,ZZZ,Hungary,hu,103838035966872,Gerzsenyi-Raczkó Tímea - riporter,Facebook
+2e254d48-7638-4c6f-b0e1-f56498095093,vogyunk,2024-02-23T03:05:42.197Z,d8e2d581-4d1a-4717-90bd-72acf4fc5617,ZZZ,Hungary,hu,109400965487420,vogyunk,Facebook
 cc8a3312-0f87-46ff-8d9a-64db8b159d41,simeon.netchev,2024-01-07T05:05:11.247Z,8b316572-4dcc-4416-84ab-4e39cb75aa2b,ZZZ,Hungary,hu,112074941706509,simeon.netchev,Facebook
+271ad939-f7b4-4ab3-9ed4-133e30d634fb,Telekom HU,2023-08-05T05:06:16.489Z,d1420fc8-cab2-4436-9d8c-c9bb1ef720f4,ZZZ,Hungary,hu,189246802995,Telekom HU,Facebook
 33078732-cc1e-4a52-b0d2-33d6ff6b2c8a,Chartheck-,2023-12-17T05:05:26.300Z,08889323-e0c8-4160-9bb8-cadceefbee5e,ZZZ,Hungary,hu,102906362819138,Chartheck-,Facebook
+6c2d15a8-8ed5-4388-bbc2-f04c82e8a6ae,Tégy az abortusz ellen,2023-02-07T15:06:10.169Z,b4d82f9a-61af-4b43-a813-8b08b3e52925,ZZZ,Hungary,hu,200615179974476,Tégy az abortusz ellen,Facebook
 ab430908-e7c9-477f-9a9b-460b4204081e,Soul Stage Lakásszínház és Stúdió,2023-11-13T05:06:15.197Z,730dc548-ec5c-4685-9018-b3f6c7af2047,ZZZ,Hungary,hu,103436765976625,Soul Stage Lakásszínház és Stúdió,Facebook
+63281808-f507-4d49-89c1-ec9535de7c29,TAY,2023-04-28T06:51:09.096Z,b5525870-88f6-414f-9dd6-3050bc63655b,ZZZ,Hungary,hu,1422513341405155,TAY,Facebook
 047bf03a-ea58-4190-bc41-b38008b75d5e,Auróra,2023-12-05T05:05:31.506Z,5a040c25-755e-4679-afab-66c6add14f52,ZZZ,Hungary,hu,1507363742829338,Auróra,Facebook
+4ffc635d-aab1-4b3a-8d1a-f8a19f992da5,Sociabble,2023-12-16T05:05:36.070Z,5407a63f-985d-4894-a6ac-9462e9d50f08,ZZZ,Hungary,hu,1382195745391679,Sociabble,Facebook
 e630a351-e10e-4374-9311-14ed56627648,Ty Ibarra,2023-04-21T06:51:30.703Z,3d68b3b6-8adc-4741-8bfc-b694b1fc30f8,ZZZ,Hungary,hu,101421609364851,Ty Ibarra,Facebook
 e7b61925-6306-4897-90c9-bfa77388a158,Cziffra György Fesztivál,2023-11-02T05:06:14.476Z,f3076841-c561-4dc8-b061-35bca75df1c8,ZZZ,Hungary,hu,1531370370517329,Cziffra György Fesztivál,Facebook
+96666978-cf37-4d58-9219-de2970fc9def,Shopnova,2023-06-15T06:51:25.786Z,89da993d-199a-4815-bbbd-129bb89bf0f3,ZZZ,Hungary,hu,110261284829917,Shopnova,Facebook
 24e6ed6b-baef-4214-bd46-90e8b59538b8,Just One Ocean,2023-10-26T05:05:24.229Z,3c063a15-d7ec-413c-b913-e8eb0b24e0f0,ZZZ,Hungary,hu,1469694876589710,Just One Ocean,Facebook
+1e75312b-cef8-4338-9d1a-dd4529809a1b,Certus Software Hungary,2023-12-05T05:05:31.626Z,9902a348-f0f1-4ffc-b3d5-cd7c1c13fae8,ZZZ,Hungary,hu,100328702814002,Certus Software Hungary,Facebook
 2ef4765a-b84a-4c9b-9841-885b5526086e,Ecotrex Talajcsavar,2024-01-08T05:05:23.979Z,bc27da49-72e6-4bed-ac46-c9fdf48c827b,ZZZ,Hungary,hu,109026928362612,Ecotrex Talajcsavar,Facebook
+028a6239-ee33-48ef-8c80-1220e1eb60ea,Rosebud 2,2023-08-28T05:05:14.310Z,2dc25af4-ac28-4a72-98f1-76cc9648c215,ZZZ,Hungary,hu,115012051692352,Rosebud 2,Facebook
+5b3cb94e-1f53-4ca7-bc13-d19b0353ce02,Realvesting,2023-11-08T05:05:23.026Z,0e0843a6-d748-463f-9a3d-d93c76d42633,ZZZ,Hungary,hu,114140724904111,Realvesting,Facebook
 f0b7994c-e733-4ad4-ae2a-02ca4ca48c8c,omerfarukalpdogan,2023-07-03T06:14:15.175Z,f1998b49-e784-4643-a5a1-9a2eb95a8c1c,ZZZ,Hungary,hu,101760022372875,omerfarukalpdogan,Facebook
+233ec2da-3e13-46ef-b4a2-b00c7f2379f1,queenwithacrookedcrown,2024-01-21T05:05:34.149Z,4afa6f61-eba0-4a8c-a717-cba23c0aa9df,ZZZ,Hungary,hu,103242928864118,queenwithacrookedcrown,Facebook
 8ba684e2-4541-4b4b-9309-66e25d73062e,GARDENA,2023-04-30T06:51:00.252Z,84742a9e-7ed9-40d9-a847-e9e6ac785ac1,ZZZ,Hungary,hu,939259259440079,GARDENA,Facebook
 6379f46b-26a5-4517-9d05-37be75316ba3,Alejandro Cuello A.C.O,2023-10-21T05:06:04.568Z,57c0f37a-d251-408c-b398-4f5f430b17eb,ZZZ,Hungary,hu,1655459968034730,Alejandro Cuello A.C.O,Facebook
+24db349a-0c38-4159-b111-18dba5ba0d5b,Prove,2023-04-17T08:11:30.770Z,4c091bfa-dfda-4eeb-97ca-6def3705294b,ZZZ,Hungary,hu,681585438877010,Prove,Facebook
 8bdf38a4-b6a5-4163-92ea-2ac543f8aaf1,Dramabox-movies and drama 4,2024-01-07T05:05:11.239Z,775a301c-3ac0-4343-9b66-449cea4e2169,ZZZ,Hungary,hu,115049621695058,Dramabox-movies and drama 4,Facebook
+49e66397-2b1e-4eb6-b7a2-be2e30b2b60a,Pizza King Express,2023-11-01T05:05:27.129Z,972fd42f-a775-4d50-b0be-f11d0ffa7725,ZZZ,Hungary,hu,112699615508623,Pizza King Express,Facebook
 a40b6a20-d8b0-43fd-a8d5-4a92ccecb57f,Східноукраїнський національний університет імені Володимира Даля,2023-04-20T06:51:22.239Z,b45e7e06-9e60-4117-a160-5d50b27c148c,ZZZ,Hungary,hu,1609569505990338,Східноукраїнський національний університет імені Володимира Даля,Facebook
+8deafccf-0527-426e-ad66-c53da9fe5cb2,CreativeSolar,2023-02-17T10:51:22.256Z,3e42753f-2c61-4eed-8c35-d7b6ad92ed8a,ZZZ,Hungary,hu,102384608623743,CreativeSolar,Facebook
 7b52214e-a062-477d-97d8-3c4bc17c970f,Срочные Новости,2023-07-19T06:05:49.749Z,bf423453-3b29-476b-9067-0f193048869e,ZZZ,Hungary,hu,102265552947545,Срочные Новости,Facebook
+aeb70da1-9c15-47cc-96d4-7f8a5abc8077,Oldtimer Show Budapest,2023-09-15T05:05:10.176Z,268d58c9-0ece-4cd4-bf8f-5193573173fd,ZZZ,Hungary,hu,115213405244243,Oldtimer Show Budapest,Facebook
 d3d7cd2a-fe1d-4cac-8b2f-d5abf0e39a19,Евразийский банк развития,2023-05-24T06:51:18.773Z,081f0e74-28f3-4015-ac61-5aa96281c062,ZZZ,Hungary,hu,121892191231546,Евразийский банк развития,Facebook
-4c27718f-ed6c-4d25-838d-ed259e557d50,Volvo Car Magyarország,2024-02-22T03:05:23.717Z,3ef31077-3cbe-4b42-a945-406062909561,ZZZ,Hungary,hu,277808022544,Volvo Car Magyarország,Facebook
 94f185f0-450d-4f8c-97e9-c891d6a5ad6e,LMP Érd és környéke,2023-04-23T06:50:59.909Z,8480af6c-6006-4f2b-9e82-8fc6e7f97211,LMP,Hungary,hu,372381983128618,LMP Érd és környéke,Facebook
+4c27718f-ed6c-4d25-838d-ed259e557d50,Volvo Car Magyarország,2024-02-22T03:05:23.717Z,3ef31077-3cbe-4b42-a945-406062909561,ZZZ,Hungary,hu,277808022544,Volvo Car Magyarország,Facebook
 66bcea7b-a4ee-4ab1-b880-6ac522dd374c,Vágner Ákos,2024-02-23T03:05:41.697Z,e7fab896-8d67-426f-9f9f-3b13194028f9,Fid,Hungary,hu,102175926317961,Vágner Ákos,Facebook
+19983bfe-e4ed-4413-87ba-bb3f481e6a52,Varga Zsolt Krisztián,2024-01-10T05:05:11.832Z,ca33bfa7-5e7b-4c5f-b25e-b9c83dbbf582,LMP,Hungary,hu,2161041513926441,Varga Zsolt Krisztián,Facebook
 4800daee-6576-4791-b261-f5897b0691ce,Jerusalem Online -  Israel Dead sea,2023-11-13T05:06:15.222Z,e198c58c-7007-4a1e-a6de-4f86fb00102c,ZZZ,Hungary,hu,102195828843539,Jerusalem Online -  Israel Dead sea,Facebook
+ead9169e-6aed-482f-9108-fb848563d197,Süveg Anna,2023-09-01T05:05:21.632Z,10d4e45e-f734-4ec1-992a-19eba1c611c4,LMP,Hungary,hu,110487821949252,Süveg Anna,Facebook
+4bb840b8-1f45-4838-9a79-4e49e758bcfa,Awaken.people,2023-11-20T05:05:43.054Z,2b89a251-8c1e-4194-8054-1308809755a5,ZZZ,Hungary,hu,110362211995049,Awaken.people,Facebook
 0d001f95-51be-4807-8de3-e31d4b3698f5,Sindjus,2023-05-30T06:51:23.067Z,a21af9ff-eb20-437b-ac91-20c37dcaf481,ZZZ,Hungary,hu,101981918812659,Sindjus,Facebook
+8506b26f-958a-4f30-a09e-c7ec8d4e9891,Rahavard365,2023-09-14T05:05:14.446Z,e6dd64da-41a4-4744-bc61-c5deb68b1438,ZZZ,Hungary,hu,103807962242304,Rahavard365,Facebook
+025aacd6-093e-4335-960d-1dc88704e002,Wording Reading,2023-08-28T05:05:14.320Z,c9f98034-8191-472b-b444-4316bc9bd678,ZZZ,Hungary,hu,103377568914127,Wording Reading,Facebook
 8bad9308-01bc-4ab9-9b85-1507447c7349,Magyar Netflex,2023-11-17T05:05:24.126Z,ab715577-0442-46db-8fc3-64e51f3be744,ZZZ,Hungary,hu,644950195696869,Magyar Netflex,Facebook
+2780a297-beb2-4a39-a0a1-4aa76a637623,Alternatív Közösségek Egyesülete,2023-05-18T06:51:26.177Z,1f23eca1-1800-448f-a306-f0d2103bacc7,ZZZ,Hungary,hu,113723675953866,Alternatív Közösségek Egyesülete,Facebook
 2f0384b2-a854-48fa-8d82-ea752dcda48e,BookStyle Magazin,2023-04-24T06:51:23.611Z,b0732fcb-ceab-4acc-8d9c-e7bb7c6287f3,ZZZ,Hungary,hu,107203964187938,BookStyle Magazin,Facebook
+c5e9d68e-a5d5-40b0-befd-1b32fbfde1b2,Chelsea Elpelson Adventures - Art Illustrations,2023-11-15T05:05:21.407Z,76a6d58a-d6a2-4e87-87e3-188d3ed928d1,ZZZ,Hungary,hu,104154886009870,Chelsea Elpelson Adventures - Art Illustrations,Facebook
 82981aa1-8422-4758-81bf-6aa05b203c78,AirHelp,2023-05-13T06:51:20.438Z,c7794eb4-544c-488c-90ff-1922f2b12069,ZZZ,Hungary,hu,136088969880141,AirHelp,Facebook
+9507500c-d3e2-4900-a33a-a8464d762160,LevelTen Energy,2024-01-01T05:05:12.867Z,0c41267b-1cdc-48c1-b2c1-d899e1eb4142,ZZZ,Hungary,hu,350401385419488,LevelTen Energy,Facebook
+19975ef3-a9ff-4f11-a2c2-ed3cdf87e9f3,"Austrian Center for Intelligence, Propaganda and Security Studies",2023-06-04T06:51:16.518Z,04542303-d565-484d-ac8d-8e1dd24664b3,ZZZ,Hungary,hu,387049611384343,"Austrian Center for Intelligence, Propaganda and Security Studies",Facebook
 a332f777-6c30-4ee5-8f0f-55b0e3f7b54c,Актуальные Новости,2023-12-09T05:05:30.550Z,1b215a7c-2d88-49ef-820d-033c25c3171c,ZZZ,Hungary,hu,110138231371988,Актуальные Новости,Facebook
+b0a63d6f-6b52-4c03-b807-95a55e5aa5c1,RobotDreams Hungary,2024-01-06T05:05:28.215Z,384defe6-1e96-49e9-96d5-0522f74fc0c5,ZZZ,Hungary,hu,113453068264016,RobotDreams Hungary,Facebook
 71702708-d41e-4551-8d40-3335ef0ff42f,J.S. Active Logistics Kft,2023-11-26T05:05:39.493Z,4cdb46ae-4d36-4bf9-b08d-d65aad43f6a0,ZZZ,Hungary,hu,1409636209364267,J.S. Active Logistics Kft,Facebook
+b3414eb7-7030-4662-8800-73e4d2786917,Id3,2023-05-01T06:51:11.503Z,bf31ea8d-4012-4c28-b19b-451e4a2d94e5,ZZZ,Hungary,hu,115383654868272,Id3,Facebook
 a803225c-48d8-440f-af06-99006b69a7d5,The Zebra Stripes,2023-07-08T06:05:48.838Z,783c4631-1ab3-4cf6-a455-41fe1a1692e9,ZZZ,Hungary,hu,106078358680021,The Zebra Stripes,Facebook
 e9759ac7-7417-4a80-a6dc-2726705256e9,Question Quest,2023-10-08T05:05:47.889Z,722cf8f2-d2ad-47af-896e-bad7e5a2dd76,ZZZ,Hungary,hu,116270664891467,Question Quest,Facebook
 a5a47408-c415-4df7-8356-510745ec2550,New platform 2023,2023-10-21T05:06:04.594Z,1df56e68-4a9b-480d-ba18-556c4a20c479,ZZZ,Hungary,hu,162617664088212,New platform 2023,Facebook
 0e02a060-99d8-4e63-a17a-f61a9c339334,Срочные Новости,2023-11-27T05:05:40.511Z,28217c4c-5611-40e8-a912-cb9c605b0bd0,ZZZ,Hungary,hu,168712466322357,Срочные Новости,Facebook
-214805f2-5a27-4d85-91ba-aadd64772139,Вечерние Новости,2023-11-27T07:55:02.351Z,db5eb3a6-4adf-43d8-b26f-4d54ed0436c8,ZZZ,Hungary,hu,102309449458354,Вечерние Новости,Facebook
-a2038bc9-d902-400b-91cc-712709ae5338,Vivozebra.hu,2023-06-08T06:51:27.118Z,5a20994d-154d-4754-a1b2-80adbab1e4c4,ZZZ,Hungary,hu,111624900551413,Vivozebra.hu,Facebook
-e645df73-f6d7-417a-98b2-646adb405df6,V. gr. Molnár-Gazsó János,2023-02-24T10:51:33.952Z,0e4989ce-bdf2-4c3e-9820-56a46fdc6473,ZZZ,Hungary,hu,110435704162069,V. gr. Molnár-Gazsó János,Facebook
-55a98b68-0233-4913-9728-86672f06ff82,Telekom Electronic Beats,2023-04-29T06:51:18.513Z,a5d72eb0-4789-49f0-9bb9-3cbbe4a8c908,ZZZ,Hungary,hu,1028583800572687,Telekom Electronic Beats,Facebook
-4d00b7d8-741b-4d0e-8ad1-4916123abfc7,TEDxDanubia Countdown,2023-05-12T06:51:21.406Z,f76463f2-c9bf-43db-b9c0-da38f9ee3069,ZZZ,Hungary,hu,102851528200356,TEDxDanubia Countdown,Facebook
-c3e0b16b-fe8f-46ec-8e9f-278ba9fa3fe1,Tea Kiadó,2023-11-05T05:05:16.779Z,0dcc4145-c9ab-460a-b0f5-a9631114357b,ZZZ,Hungary,hu,238573279627262,Tea Kiadó,Facebook
-e2be38b1-8200-4bf7-a00d-b45da768dd30,Sinum Theatre Laboratory Association,2023-04-24T06:51:23.613Z,dc2361ac-ced2-4ad3-a44c-cb18a767197f,ZZZ,Hungary,hu,103991970991041,Sinum Theatre Laboratory Association,Facebook
-19983bfe-e4ed-4413-87ba-bb3f481e6a52,Varga Zsolt Krisztián,2024-01-10T05:05:11.832Z,ca33bfa7-5e7b-4c5f-b25e-b9c83dbbf582,LMP,Hungary,hu,2161041513926441,Varga Zsolt Krisztián,Facebook
-ead9169e-6aed-482f-9108-fb848563d197,Süveg Anna,2023-09-01T05:05:21.632Z,10d4e45e-f734-4ec1-992a-19eba1c611c4,LMP,Hungary,hu,110487821949252,Süveg Anna,Facebook
-4bb840b8-1f45-4838-9a79-4e49e758bcfa,Awaken.people,2023-11-20T05:05:43.054Z,2b89a251-8c1e-4194-8054-1308809755a5,ZZZ,Hungary,hu,110362211995049,Awaken.people,Facebook
-8506b26f-958a-4f30-a09e-c7ec8d4e9891,Rahavard365,2023-09-14T05:05:14.446Z,e6dd64da-41a4-4744-bc61-c5deb68b1438,ZZZ,Hungary,hu,103807962242304,Rahavard365,Facebook
-025aacd6-093e-4335-960d-1dc88704e002,Wording Reading,2023-08-28T05:05:14.320Z,c9f98034-8191-472b-b444-4316bc9bd678,ZZZ,Hungary,hu,103377568914127,Wording Reading,Facebook
-2780a297-beb2-4a39-a0a1-4aa76a637623,Alternatív Közösségek Egyesülete,2023-05-18T06:51:26.177Z,1f23eca1-1800-448f-a306-f0d2103bacc7,ZZZ,Hungary,hu,113723675953866,Alternatív Közösségek Egyesülete,Facebook
-c5e9d68e-a5d5-40b0-befd-1b32fbfde1b2,Chelsea Elpelson Adventures - Art Illustrations,2023-11-15T05:05:21.407Z,76a6d58a-d6a2-4e87-87e3-188d3ed928d1,ZZZ,Hungary,hu,104154886009870,Chelsea Elpelson Adventures - Art Illustrations,Facebook
-9507500c-d3e2-4900-a33a-a8464d762160,LevelTen Energy,2024-01-01T05:05:12.867Z,0c41267b-1cdc-48c1-b2c1-d899e1eb4142,ZZZ,Hungary,hu,350401385419488,LevelTen Energy,Facebook
-19975ef3-a9ff-4f11-a2c2-ed3cdf87e9f3,"Austrian Center for Intelligence, Propaganda and Security Studies",2023-06-04T06:51:16.518Z,04542303-d565-484d-ac8d-8e1dd24664b3,ZZZ,Hungary,hu,387049611384343,"Austrian Center for Intelligence, Propaganda and Security Studies",Facebook
-b0a63d6f-6b52-4c03-b807-95a55e5aa5c1,RobotDreams Hungary,2024-01-06T05:05:28.215Z,384defe6-1e96-49e9-96d5-0522f74fc0c5,ZZZ,Hungary,hu,113453068264016,RobotDreams Hungary,Facebook
-b3414eb7-7030-4662-8800-73e4d2786917,Id3,2023-05-01T06:51:11.503Z,bf31ea8d-4012-4c28-b19b-451e4a2d94e5,ZZZ,Hungary,hu,115383654868272,Id3,Facebook
 875804bb-f0f4-4ddd-aeef-19689d20f0b4,Crushing Blind,2023-05-01T06:51:11.334Z,3310849b-7336-46ee-94e6-0cceb9c8cf3b,ZZZ,Hungary,hu,100464856376904,Crushing Blind,Facebook
+214805f2-5a27-4d85-91ba-aadd64772139,Вечерние Новости,2023-11-27T07:55:02.351Z,db5eb3a6-4adf-43d8-b26f-4d54ed0436c8,ZZZ,Hungary,hu,102309449458354,Вечерние Новости,Facebook
 bb6bff37-2fef-49c7-9c92-303a68c76be4,Újpesti szemle,2023-06-23T05:15:12.155Z,3f49f8a7-07da-477e-b2c4-a5ba9cf77446,ZZZ,Hungary,hu,106732062235893,Újpesti szemle,Facebook
+a2038bc9-d902-400b-91cc-712709ae5338,Vivozebra.hu,2023-06-08T06:51:27.118Z,5a20994d-154d-4754-a1b2-80adbab1e4c4,ZZZ,Hungary,hu,111624900551413,Vivozebra.hu,Facebook
 04fb5d2b-083e-46f7-9fae-89ea3cbf4819,Authentic Beauty Concept HU,2023-06-16T09:31:38.107Z,916089f2-46b2-4a4f-b6df-7026b8480aaf,ZZZ,Hungary,hu,565615037256375,Authentic Beauty Concept HU,Facebook
 b17b07aa-f934-47bf-99f9-d647d7c6a495,Petőfi Rádió,2023-12-08T05:05:32.489Z,d9929c48-60ca-40e9-b4bc-8e8437782168,ZZZ,Hungary,hu,54497990107,Petőfi Rádió,Facebook
+e645df73-f6d7-417a-98b2-646adb405df6,V. gr. Molnár-Gazsó János,2023-02-24T10:51:33.952Z,0e4989ce-bdf2-4c3e-9820-56a46fdc6473,ZZZ,Hungary,hu,110435704162069,V. gr. Molnár-Gazsó János,Facebook
 eca7f90a-25cf-4571-a260-46ade2c4810c,Ep-001,2023-08-11T05:07:36.840Z,012a3a43-1374-4912-a64f-6f11d142583b,ZZZ,Hungary,hu,113255161737243,Ep-001,Facebook
+55a98b68-0233-4913-9728-86672f06ff82,Telekom Electronic Beats,2023-04-29T06:51:18.513Z,a5d72eb0-4789-49f0-9bb9-3cbbe4a8c908,ZZZ,Hungary,hu,1028583800572687,Telekom Electronic Beats,Facebook
 5bfe8b72-7201-4864-a9ca-52826c3764bb,Zoning Nordic,2024-01-20T05:05:22.846Z,6255c9f7-be85-4d47-98f6-acdd56b7c20a,ZZZ,Hungary,hu,101158609560428,Zoning Nordic,Facebook
+4d00b7d8-741b-4d0e-8ad1-4916123abfc7,TEDxDanubia Countdown,2023-05-12T06:51:21.406Z,f76463f2-c9bf-43db-b9c0-da38f9ee3069,ZZZ,Hungary,hu,102851528200356,TEDxDanubia Countdown,Facebook
 8638e0c9-dd9d-406e-a185-9a4504033383,Youth clicks,2023-04-24T06:51:23.689Z,235f93f2-b03f-46c4-92a6-5cd11970ade1,ZZZ,Hungary,hu,102207552798601,Youth clicks,Facebook
+c3e0b16b-fe8f-46ec-8e9f-278ba9fa3fe1,Tea Kiadó,2023-11-05T05:05:16.779Z,0dcc4145-c9ab-460a-b0f5-a9631114357b,ZZZ,Hungary,hu,238573279627262,Tea Kiadó,Facebook
 5933f79e-01e1-4627-90f4-902f7e240676,LMP Veszprém megye,2023-11-03T05:05:29.453Z,914e73af-1e0c-4932-9bc0-a5882a7365eb,LMP,Hungary,hu,116931288383136,LMP Veszprém megye,Facebook
+e2be38b1-8200-4bf7-a00d-b45da768dd30,Sinum Theatre Laboratory Association,2023-04-24T06:51:23.613Z,dc2361ac-ced2-4ad3-a44c-cb18a767197f,ZZZ,Hungary,hu,103991970991041,Sinum Theatre Laboratory Association,Facebook
 27a6027a-2fb4-47f5-a9f8-ef760f0a0f87,LMP Szabolcs-Szatmár-Bereg megye,2023-07-31T12:48:28.200Z,049bde1a-e804-44c7-9f44-9f11e768389d,LMP,Hungary,hu,139632609385430,LMP Szabolcs-Szatmár-Bereg megye,Facebook
+0b1cd71d-d866-4ef6-8365-27e9471bfefb,LMP Kecskemét,2023-11-10T05:05:19.215Z,b6c04032-21ed-42ba-975f-20533e51bc63,LMP,Hungary,hu,104359546288183,LMP Kecskemét,Facebook
 9709f35f-0954-493c-b402-f45d5e719bbd,Hearty App,2023-11-13T05:06:15.238Z,df5adfbe-e9e1-44d5-9ce8-1d1efbd08f37,ZZZ,Hungary,hu,108346151296722,Hearty App,Facebook
 87f0f987-8567-4873-a88a-403f76e943db,Yost LLC,2023-10-04T05:05:19.020Z,59c274bc-b739-446c-a20f-dd22c6f21887,ZZZ,Hungary,hu,112058804931630,Yost LLC,Facebook
 8b139a71-a251-4cdb-9041-15894983c97c,Picibabashop.hu,2023-05-01T06:51:11.273Z,0e02730b-dfb5-4ae5-b0ae-c8802c88560c,ZZZ,Hungary,hu,110361145242533,Picibabashop.hu,Facebook
+f4df9e53-bdf9-4af9-9b57-eed7e7ae6a4d,LMP Jász-Nagykun-Szolnok megye,2023-10-16T05:05:25.871Z,68ba7484-19a9-4766-bb47-9b59f7cd18ae,LMP,Hungary,hu,229485880819302,LMP Jász-Nagykun-Szolnok megye,Facebook
 ac915539-f61c-475a-a478-889fc0562cba,Kreatív Emlékek,2024-01-23T05:05:18.340Z,da872882-0336-40df-92be-5e5d8afbf67b,ZZZ,Hungary,hu,100180365425909,Kreatív Emlékek,Facebook
 2fafce41-46e3-46c7-a7dc-7dcf89a54c9c,Cassyus-p tattoo,2023-06-26T05:06:37.320Z,7d73cf45-0a61-4ba2-806e-51898fdf7dfc,ZZZ,Hungary,hu,109699818757434,Cassyus-p tattoo,Facebook
-47c86b95-744b-433b-9f81-70c403f968e8,Lanky Experienced,2023-05-04T06:51:19.099Z,c785270f-4b01-4895-9889-b168514645ff,ZZZ,Hungary,hu,113782461697843,Lanky Experienced,Facebook
-0927b561-6422-4931-82cd-062d61995a2b,Tarikati,2023-12-11T05:05:15.192Z,761bbd64-4892-40a8-a06e-edf67803ff22,ZZZ,Hungary,hu,131138333408230,Tarikati,Facebook
-1934b4db-8c78-4e7d-b9a9-e3ed1d2d2202,Acer Magyarország,2023-12-13T05:05:39.816Z,9a8e1913-5cd2-40ea-9d8d-f9000ba890e8,ZZZ,Hungary,hu,144280805673043,Acer Magyarország,Facebook
-b46fda3f-c748-43e1-884c-14c5a85bfc29,annusistvan,2023-07-10T06:49:37.063Z,5b3ed003-2a0d-4585-b537-fdbb4e114c55,ZZZ,Hungary,hu,106433095041256,annusistvan,Facebook
-92f4cb01-6747-4519-bc51-0040ca05ae6f,Interurbán 2023,2023-04-16T15:03:40.078Z,e2272ede-7eff-4a00-bbb2-ce3923aed05f,ZZZ,Hungary,hu,108711752088072,Interurbán 2023,Facebook
-cb331b36-67bf-4338-950b-f85d49897daf,MillFood Kft.,2024-01-12T05:05:09.340Z,fe6ce0c6-6b15-4ab5-8d23-a3480ffd36fa,ZZZ,Hungary,hu,107534341140836,MillFood Kft.,Facebook
-0e486a3f-c2af-4329-8f7d-07854c2acfcb,greenlynatalia,2023-07-04T06:14:42.547Z,dd22fcc6-fa81-409e-acfc-8dce5fdb8791,ZZZ,Hungary,hu,100130132039878,greenlynatalia,Facebook
-0b90d585-bce7-4ac9-8372-ee9c048b95dd,Avenfier,2023-09-13T05:05:14.199Z,af002e6e-27bd-46d4-9f6f-4e9edaf2f2d0,ZZZ,Hungary,hu,115024995017193,Avenfier,Facebook
-966aa9b5-8cfd-43ec-b58f-e3984779a763,The world of read,2023-07-03T06:14:15.213Z,e0c25ee2-ee34-4d59-a961-f40d98c9f7ef,ZZZ,Hungary,hu,111188005041104,The world of read,Facebook
-00b0c949-22e4-4444-9c29-545aa5a05430,bien.hu,2023-05-07T06:51:09.137Z,1f66796a-9934-4446-9244-2c1d383ff438,ZZZ,Hungary,hu,353543569862,bien.hu,Facebook
-5777ca83-54b0-4ec9-b3ca-171740474c1d,TRILUX,2023-10-24T05:05:24.548Z,ffe462d4-b96d-4524-990b-8de799572c2e,ZZZ,Hungary,hu,230311733720964,TRILUX,Facebook
-4b821d46-6ff3-4443-a987-34c5ef10f4db,The Dancing Cucumber Center,2023-07-31T11:09:13.903Z,72bf4b1c-0c7c-472c-874a-6d7c65b34f06,ZZZ,Hungary,hu,103440071784916,The Dancing Cucumber Center,Facebook
-1ddead5b-80f9-4cd5-a24d-c6209c40565e,Vertigo Média,2024-01-10T05:05:11.462Z,f97e5c75-b0fa-413e-bcf1-b2a620d03b9a,ZZZ,Hungary,hu,467019096682551,Vertigo Média,Facebook
-d0c5fe4d-6473-4127-9de4-c4177b68831b,Новости,2023-12-01T05:05:35.372Z,76e70d1d-71ec-49e8-ba63-cefc1ae3763c,ZZZ,Hungary,hu,194678327051096,Новости,Facebook
-db2dfe71-71a0-4814-8d26-9ebb08379955,Z-Solar,2023-05-30T06:51:23.003Z,ff8e5390-7326-4375-9339-e82ccd4ddf70,ZZZ,Hungary,hu,102967904903277,Z-Solar,Facebook
-afcbb6cc-cebf-4123-b8fb-0ed5a0f69775,Vital.hu,2023-02-14T10:51:30.266Z,fcd1481e-71c2-4c76-b9ae-4d6c2f8594bf,ZZZ,Hungary,hu,590602747635842,Vital.hu,Facebook
-0b1cd71d-d866-4ef6-8365-27e9471bfefb,LMP Kecskemét,2023-11-10T05:05:19.215Z,b6c04032-21ed-42ba-975f-20533e51bc63,LMP,Hungary,hu,104359546288183,LMP Kecskemét,Facebook
-f4df9e53-bdf9-4af9-9b57-eed7e7ae6a4d,LMP Jász-Nagykun-Szolnok megye,2023-10-16T05:05:25.871Z,68ba7484-19a9-4766-bb47-9b59f7cd18ae,LMP,Hungary,hu,229485880819302,LMP Jász-Nagykun-Szolnok megye,Facebook
 6ffe7d07-6005-44a8-845f-90b277c5b624,Fonyód,2023-04-21T06:51:30.625Z,0dbd11fc-06b1-43ae-9d07-7a39bf4b20bb,ZZZ,Hungary,hu,361455191631,Fonyód,Facebook
 20c7a55b-6418-4659-a0eb-eb42adf7344c,Insights & Inspirations,2023-07-23T05:06:26.695Z,639b550b-fb98-4525-82b3-ed2cd4709ed8,ZZZ,Hungary,hu,107356735736126,Insights & Inspirations,Facebook
+47c86b95-744b-433b-9f81-70c403f968e8,Lanky Experienced,2023-05-04T06:51:19.099Z,c785270f-4b01-4895-9889-b168514645ff,ZZZ,Hungary,hu,113782461697843,Lanky Experienced,Facebook
 96a86b2e-62c3-4515-a25e-fb65e070563f,Arçelik Global,2023-12-19T05:05:12.100Z,1d4f1a96-98b0-4fae-b9e0-ba2f5c3204dc,ZZZ,Hungary,hu,234830303313313,Arçelik Global,Facebook
+0927b561-6422-4931-82cd-062d61995a2b,Tarikati,2023-12-11T05:05:15.192Z,761bbd64-4892-40a8-a06e-edf67803ff22,ZZZ,Hungary,hu,131138333408230,Tarikati,Facebook
 358a58b4-3853-464a-aacb-3c3f48a1cb5d,Ivan_susanin_crete,2023-06-08T06:51:27.215Z,6ad675ee-9aec-4d3e-9c06-a81386440de2,ZZZ,Hungary,hu,1150874178348187,Ivan_susanin_crete,Facebook
+1934b4db-8c78-4e7d-b9a9-e3ed1d2d2202,Acer Magyarország,2023-12-13T05:05:39.816Z,9a8e1913-5cd2-40ea-9d8d-f9000ba890e8,ZZZ,Hungary,hu,144280805673043,Acer Magyarország,Facebook
 3ab65a4b-d656-4b16-a440-f2a0c2b0ce5c,Közel Afrikához/Close to Africa,2023-11-18T05:05:29.193Z,62767d0a-cbaf-4b7b-9ae0-65715730d570,ZZZ,Hungary,hu,721293138241036,Közel Afrikához/Close to Africa,Facebook
+b46fda3f-c748-43e1-884c-14c5a85bfc29,annusistvan,2023-07-10T06:49:37.063Z,5b3ed003-2a0d-4585-b537-fdbb4e114c55,ZZZ,Hungary,hu,106433095041256,annusistvan,Facebook
 64ca070b-134e-4b65-94eb-32f6a4ff48dc,Public Investments Solutions,2024-01-20T05:05:22.821Z,b88a6530-d4f7-47f8-bf67-f32757e4b36d,ZZZ,Hungary,hu,112447448455907,Public Investments Solutions,Facebook
+92f4cb01-6747-4519-bc51-0040ca05ae6f,Interurbán 2023,2023-04-16T15:03:40.078Z,e2272ede-7eff-4a00-bbb2-ce3923aed05f,ZZZ,Hungary,hu,108711752088072,Interurbán 2023,Facebook
+cb331b36-67bf-4338-950b-f85d49897daf,MillFood Kft.,2024-01-12T05:05:09.340Z,fe6ce0c6-6b15-4ab5-8d23-a3480ffd36fa,ZZZ,Hungary,hu,107534341140836,MillFood Kft.,Facebook
 6bae8182-9b87-4ba7-9434-6a169ca57185,marmariemmanuel_teachings,2023-11-28T06:14:59.767Z,ddf25278-209e-4b89-aed9-0319c5b2d31b,ZZZ,Hungary,hu,162473460287997,marmariemmanuel_teachings,Facebook
+0e486a3f-c2af-4329-8f7d-07854c2acfcb,greenlynatalia,2023-07-04T06:14:42.547Z,dd22fcc6-fa81-409e-acfc-8dce5fdb8791,ZZZ,Hungary,hu,100130132039878,greenlynatalia,Facebook
 acb76153-b95b-48bc-a9a2-ddffb667d56c,Bling chling,2023-10-07T05:05:30.585Z,507aa0f4-020a-474b-a128-2a28403d8244,ZZZ,Hungary,hu,113095415224876,Bling chling,Facebook
+0b90d585-bce7-4ac9-8372-ee9c048b95dd,Avenfier,2023-09-13T05:05:14.199Z,af002e6e-27bd-46d4-9f6f-4e9edaf2f2d0,ZZZ,Hungary,hu,115024995017193,Avenfier,Facebook
+966aa9b5-8cfd-43ec-b58f-e3984779a763,The world of read,2023-07-03T06:14:15.213Z,e0c25ee2-ee34-4d59-a961-f40d98c9f7ef,ZZZ,Hungary,hu,111188005041104,The world of read,Facebook
 3453b994-efbc-472e-b4d0-af72e610b112,PARMA Recordings,2023-08-26T05:05:22.592Z,6c8af6cd-dfe3-47d4-9bb9-bdba1ce977e0,ZZZ,Hungary,hu,330511345659,PARMA Recordings,Facebook
+00b0c949-22e4-4444-9c29-545aa5a05430,bien.hu,2023-05-07T06:51:09.137Z,1f66796a-9934-4446-9244-2c1d383ff438,ZZZ,Hungary,hu,353543569862,bien.hu,Facebook
+5777ca83-54b0-4ec9-b3ca-171740474c1d,TRILUX,2023-10-24T05:05:24.548Z,ffe462d4-b96d-4524-990b-8de799572c2e,ZZZ,Hungary,hu,230311733720964,TRILUX,Facebook
 9a420f0d-363e-46a3-87a8-1048627a1c94,Atlantic Press Kiadó,2023-11-29T05:05:30.290Z,a0fd591c-acf0-4ef1-9dd7-3d55de6dc41f,ZZZ,Hungary,hu,140717695978046,Atlantic Press Kiadó,Facebook
+4b821d46-6ff3-4443-a987-34c5ef10f4db,The Dancing Cucumber Center,2023-07-31T11:09:13.903Z,72bf4b1c-0c7c-472c-874a-6d7c65b34f06,ZZZ,Hungary,hu,103440071784916,The Dancing Cucumber Center,Facebook
 1003e246-9cb7-4133-876a-4649e0990db3,yomisoyombo,2023-05-24T06:51:18.792Z,a6dd207a-7ef6-419b-9b0c-80c15afbbc71,ZZZ,Hungary,hu,367939743862411,yomisoyombo,Facebook
+1ddead5b-80f9-4cd5-a24d-c6209c40565e,Vertigo Média,2024-01-10T05:05:11.462Z,f97e5c75-b0fa-413e-bcf1-b2a620d03b9a,ZZZ,Hungary,hu,467019096682551,Vertigo Média,Facebook
 41512cac-25d8-419b-a612-eb1283ebfe7f,BALK Magazin,2023-10-31T05:34:43.452Z,c025ac8e-cbf3-4833-a5a1-f8c7fc472089,ZZZ,Hungary,hu,112423962211849,BALK Magazin,Facebook
+d0c5fe4d-6473-4127-9de4-c4177b68831b,Новости,2023-12-01T05:05:35.372Z,76e70d1d-71ec-49e8-ba63-cefc1ae3763c,ZZZ,Hungary,hu,194678327051096,Новости,Facebook
 11848869-4875-461e-9614-2214e532490c,Verzio International Human Rights Documentary Film Festival,2023-02-11T10:51:17.128Z,97bb43ba-5de0-44b9-bdf3-9a01a2a13568,ZZZ,Hungary,hu,269445193079351,Verzio International Human Rights Documentary Film Festival,Facebook
+db2dfe71-71a0-4814-8d26-9ebb08379955,Z-Solar,2023-05-30T06:51:23.003Z,ff8e5390-7326-4375-9339-e82ccd4ddf70,ZZZ,Hungary,hu,102967904903277,Z-Solar,Facebook
+afcbb6cc-cebf-4123-b8fb-0ed5a0f69775,Vital.hu,2023-02-14T10:51:30.266Z,fcd1481e-71c2-4c76-b9ae-4d6c2f8594bf,ZZZ,Hungary,hu,590602747635842,Vital.hu,Facebook
 9c4e3a2e-4063-4d91-b707-2fadbb939cb6,Новости,2023-11-13T05:06:15.154Z,6a6e0900-6722-4575-abd7-4847292d2891,ZZZ,Hungary,hu,110198522007662,Новости,Facebook
 cc9841cb-3b06-4392-98f1-a55e1ded26cf,VidToon,2023-11-03T05:05:29.970Z,c00fe5c1-f7ce-4752-a70e-7aff4ff9bd0c,ZZZ,Hungary,hu,101935744962053,VidToon,Facebook
-48dc7716-09ce-4c34-a4aa-8a465ca92e9c,Taiwan in Boston,2023-12-01T05:05:35.488Z,e0cf7adc-dff9-4a94-9b9a-b520fdafdc2b,ZZZ,Hungary,hu,335172573560010,Taiwan in Boston,Facebook
-b2b00379-af5b-4393-885e-176c728c8d26,Slenergy,2023-05-18T06:51:26.753Z,9d65e422-5867-44e7-8457-e00311550a25,ZZZ,Hungary,hu,109036555449915,Slenergy,Facebook
-09f22bc4-38d0-4397-ae43-61fb2c42c410,Shoperia,2023-12-05T05:05:31.610Z,2edd2c66-bc1b-4cd7-82a9-acc2ae1351e7,ZZZ,Hungary,hu,107121098797915,Shoperia,Facebook
-31709426-5159-4c39-975a-66aae003d627,Korrekt Klíma-és Hűtéstechnika,2023-09-15T05:05:10.872Z,0b02d45c-59fd-46f7-9e45-fee6ad0e7a4e,ZZZ,Hungary,hu,2002561093403212,Korrekt Klíma-és Hűtéstechnika,Facebook
-c726265d-9696-4574-96c9-9c8034f7521f,Schoeller-Bleckmann Oilfield Technology,2023-04-22T06:01:49.569Z,fb6af0ca-f787-4d86-ab0a-26179c1fa874,ZZZ,Hungary,hu,2177132825845883,Schoeller-Bleckmann Oilfield Technology,Facebook
-40d8c5e9-74a3-4b04-9dc7-308529090f99,refresherhu,2023-04-16T15:03:40.582Z,87e2eea2-2828-4ffb-9c5d-07691fba6f1d,ZZZ,Hungary,hu,110185098573425,refresherhu,Facebook
-0365dcc2-b8f6-4928-8786-30ae8fb3441b,REFRESHER Magyarország,2023-09-24T05:05:30.113Z,ac8ca956-3181-49c9-ad05-1732018bae2c,ZZZ,Hungary,hu,107510018788785,REFRESHER Magyarország,Facebook
-1dd5893f-e053-433f-9488-1fc074adf90b,Roaming Routes,2023-12-31T05:05:24.066Z,184c42a5-13a3-46f0-8d61-48ac36e9b70a,ZZZ,Hungary,hu,111576992030844,Roaming Routes,Facebook
-763691be-5134-411e-bd82-f226c2023954,Recessed.space,2023-05-15T06:51:27.230Z,f2c9ad28-d53d-46bd-b1a2-696fdeca5578,ZZZ,Hungary,hu,104656362112871,Recessed.space,Facebook
-9345f347-b16e-43e0-9900-2f18912e6c2c,Releaf PAPER & BAGS,2023-04-16T15:03:40.900Z,a7303f87-eda9-49d9-8297-b82112d73442,ZZZ,Hungary,hu,101315848087098,Releaf PAPER & BAGS,Facebook
-70d2b5e5-22e9-4ad6-982d-d849a989c4cf,Realista,2023-02-13T10:51:40.151Z,1cb8c2fc-4e1e-4991-9c10-673a5a075059,ZZZ,Hungary,hu,100467642324899,Realista,Facebook
-2bd63b2c-4270-475e-944b-2c805e68f340,redtopreport,2023-12-22T05:05:22.452Z,50c9ddf8-02ef-4229-aff3-797d4e964a7d,ZZZ,Hungary,hu,112957618350088,redtopreport,Facebook
-149f88eb-9757-4d4e-864d-fa91a514a3c6,Rapid Prototyping,2024-01-20T05:05:22.786Z,fa740203-a82e-4299-849a-4b828de3ab3d,ZZZ,Hungary,hu,112253623752580,Rapid Prototyping,Facebook
 1375db5b-c3d2-4e02-8016-c3c4025591cd,Fehér Attila,2023-11-02T05:06:14.589Z,ec570cd5-2260-4a84-9c27-32a3eeef0506,LMP,Hungary,hu,2280937925322660,Fehér Attila,Facebook
+48dc7716-09ce-4c34-a4aa-8a465ca92e9c,Taiwan in Boston,2023-12-01T05:05:35.488Z,e0cf7adc-dff9-4a94-9b9a-b520fdafdc2b,ZZZ,Hungary,hu,335172573560010,Taiwan in Boston,Facebook
 9ae0054d-32bc-4799-a9b4-9da5fc58e442,Pápai László,2023-07-31T12:48:28.199Z,85e8033a-83c0-4766-ba95-e907660c5a95,LMP,Hungary,hu,107985133878887,Pápai László,Facebook
+b2b00379-af5b-4393-885e-176c728c8d26,Slenergy,2023-05-18T06:51:26.753Z,9d65e422-5867-44e7-8457-e00311550a25,ZZZ,Hungary,hu,109036555449915,Slenergy,Facebook
 040b8f17-ad47-46cf-ae69-09ca49cf2839,Nemzeti Hauszmann Program,2023-09-16T05:05:21.940Z,728bde55-0a6c-43e2-abc4-f32eae07afd1,ZZZ,Hungary,hu,114208316602409,Nemzeti Hauszmann Program,Facebook
+09f22bc4-38d0-4397-ae43-61fb2c42c410,Shoperia,2023-12-05T05:05:31.610Z,2edd2c66-bc1b-4cd7-82a9-acc2ae1351e7,ZZZ,Hungary,hu,107121098797915,Shoperia,Facebook
 d9bceaab-8586-4bb4-994d-9abd9c994c58,SmartSizl,2023-05-13T06:51:20.577Z,7b1a8f48-f4df-465a-9416-2f1a56b2d375,ZZZ,Hungary,hu,122271394189456,SmartSizl,Facebook
+31709426-5159-4c39-975a-66aae003d627,Korrekt Klíma-és Hűtéstechnika,2023-09-15T05:05:10.872Z,0b02d45c-59fd-46f7-9e45-fee6ad0e7a4e,ZZZ,Hungary,hu,2002561093403212,Korrekt Klíma-és Hűtéstechnika,Facebook
 e5c4851d-c004-4b23-b515-9b6274946a82,Newest Crowdfunding Inventions,2023-06-04T06:51:16.499Z,c32210dd-f3a8-443a-984b-0c5fb47339d4,ZZZ,Hungary,hu,2272627156357949,Newest Crowdfunding Inventions,Facebook
+c726265d-9696-4574-96c9-9c8034f7521f,Schoeller-Bleckmann Oilfield Technology,2023-04-22T06:01:49.569Z,fb6af0ca-f787-4d86-ab0a-26179c1fa874,ZZZ,Hungary,hu,2177132825845883,Schoeller-Bleckmann Oilfield Technology,Facebook
 e3217326-c9b5-4f12-9982-d5bf49630d85,Agrofórum,2023-10-19T05:05:23.403Z,6ca37a6b-9a55-47d3-aa77-0622ccffa25b,ZZZ,Hungary,hu,1423121391282747,Agrofórum,Facebook
+40d8c5e9-74a3-4b04-9dc7-308529090f99,refresherhu,2023-04-16T15:03:40.582Z,87e2eea2-2828-4ffb-9c5d-07691fba6f1d,ZZZ,Hungary,hu,110185098573425,refresherhu,Facebook
 181f1cce-0b84-4c66-935d-62d4b45d70b2,The Plumbers,2024-02-19T03:05:22.257Z,9d2f94bb-381d-4731-a691-dafbac835b08,ZZZ,Hungary,hu,213307251857067,The Plumbers,Facebook
+0365dcc2-b8f6-4928-8786-30ae8fb3441b,REFRESHER Magyarország,2023-09-24T05:05:30.113Z,ac8ca956-3181-49c9-ad05-1732018bae2c,ZZZ,Hungary,hu,107510018788785,REFRESHER Magyarország,Facebook
 8c766ed9-ed92-442d-bf9d-2db89c5bde86,We Support Israel,2023-10-31T05:14:18.694Z,c6e48801-f74e-490b-b7b7-2b25557a024f,ZZZ,Hungary,hu,161124030408647,We Support Israel,Facebook
 b5f4aca3-0b33-40e8-b8b7-754dcab0a9f1,GreeneuFuture: EU Citizenship,2023-09-04T05:05:24.552Z,c61f2740-8763-4af8-b086-aea85691563f,ZZZ,Hungary,hu,103318122654765,GreeneuFuture: EU Citizenship,Facebook
+1dd5893f-e053-433f-9488-1fc074adf90b,Roaming Routes,2023-12-31T05:05:24.066Z,184c42a5-13a3-46f0-8d61-48ac36e9b70a,ZZZ,Hungary,hu,111576992030844,Roaming Routes,Facebook
 f3602979-b676-4a5e-ad38-335da341b00d,AszúTime,2023-12-28T05:05:25.553Z,6a6336a7-b599-4c0d-b47a-91abf89e92be,ZZZ,Hungary,hu,105730542092152,AszúTime,Facebook
+763691be-5134-411e-bd82-f226c2023954,Recessed.space,2023-05-15T06:51:27.230Z,f2c9ad28-d53d-46bd-b1a2-696fdeca5578,ZZZ,Hungary,hu,104656362112871,Recessed.space,Facebook
 5dc862ee-0967-42ae-b94d-6bb828de3f46,International Community,2023-07-20T06:05:49.828Z,06374f4a-a5ad-49df-a866-102f1ca76fd7,ZZZ,Hungary,hu,103053215276655,International Community,Facebook
+9345f347-b16e-43e0-9900-2f18912e6c2c,Releaf PAPER & BAGS,2023-04-16T15:03:40.900Z,a7303f87-eda9-49d9-8297-b82112d73442,ZZZ,Hungary,hu,101315848087098,Releaf PAPER & BAGS,Facebook
 d25f6f2d-ea3d-42b7-9431-882249b80dbb,Worldly History,2024-01-11T05:05:26.527Z,3bddfd29-ffa1-45a4-9884-e1104e986862,ZZZ,Hungary,hu,103193655800069,Worldly History,Facebook
 3f0138a2-497f-4be7-950e-e462fdac0296,Your Hacks Spot,2023-04-29T06:51:19.057Z,0a537a62-d0ab-49ea-b9a3-28c8e123e4c1,ZZZ,Hungary,hu,106701185163801,Your Hacks Spot,Facebook
+70d2b5e5-22e9-4ad6-982d-d849a989c4cf,Realista,2023-02-13T10:51:40.151Z,1cb8c2fc-4e1e-4991-9c10-673a5a075059,ZZZ,Hungary,hu,100467642324899,Realista,Facebook
 5295d8e4-0a49-4647-aa10-69e586b18576,Your store,2023-09-17T05:05:18.631Z,cdf4f201-3d96-4101-a109-4dc48f4bfce2,ZZZ,Hungary,hu,104966198818646,Your store,Facebook
+2bd63b2c-4270-475e-944b-2c805e68f340,redtopreport,2023-12-22T05:05:22.452Z,50c9ddf8-02ef-4229-aff3-797d4e964a7d,ZZZ,Hungary,hu,112957618350088,redtopreport,Facebook
 43d8b821-9af9-4b64-b9e7-4215131e2d21,Wen Creel,2023-04-21T06:51:30.672Z,014236ac-b6e3-4c75-b3d0-bf31e30b87d0,ZZZ,Hungary,hu,110947301729456,Wen Creel,Facebook
 9af884f6-d71a-4ed0-8b06-9e5d6648d0bc,جزيرة الحياة,2023-10-24T05:05:23.799Z,cfae3c1f-1432-45cb-844f-ea97bbd34c28,ZZZ,Hungary,hu,102718099402008,جزيرة الحياة,Facebook
+149f88eb-9757-4d4e-864d-fa91a514a3c6,Rapid Prototyping,2024-01-20T05:05:22.786Z,fa740203-a82e-4299-849a-4b828de3ab3d,ZZZ,Hungary,hu,112253623752580,Rapid Prototyping,Facebook
 067ddb15-0be4-47a0-8db5-0e3e4ee57aca,ZV Zöld Völgy Nonprofit Kft.,2023-04-23T06:50:59.789Z,a3c19dff-c4f3-47bf-96f0-e5adcf00f172,ZZZ,Hungary,hu,560577550745295,ZV Zöld Völgy Nonprofit Kft.,Facebook
+9c2e88f3-6944-4c8c-8bb2-30ba2b1528f0,LMP Heves megye,2023-11-02T05:06:14.413Z,c3031c93-99ba-4c8f-992d-0d7cf606d3ca,LMP,Hungary,hu,115335071978897,LMP Heves megye,Facebook
 63e42270-0f3e-4757-85a7-53241f471c2e,TomorrowBuilding,2023-04-24T06:51:23.709Z,fa3f4cc4-ca44-463d-9a64-032949660e4a,ZZZ,Hungary,hu,124340177284061,TomorrowBuilding,Facebook
 91e68a83-abe3-49d9-a87f-fea13ea48ba7,TNM,2023-11-18T05:05:29.326Z,40f752a7-f40c-4607-9d4b-1a855e66593f,ZZZ,Hungary,hu,217573921592420,TNM,Facebook
+5f282ec7-ff6e-42ca-aa06-bd489bac69f1,Jenei Ferenc,2023-06-10T06:51:17.337Z,2ad38339-6629-4018-a5fe-3e895338598c,LMP,Hungary,hu,709769175730686,Jenei Ferenc,Facebook
 44492c0f-bfd6-4d00-8b23-17f3faaddc6e,TNE,2023-11-24T05:05:31.014Z,e85ecc30-14f9-4829-a1f4-151fd0ab1811,ZZZ,Hungary,hu,142353165619501,TNE,Facebook
+a050f804-508a-4dca-a701-b3ac249fb3a8,Quiz Whiz,2023-12-16T05:05:36.088Z,c09875e2-2eb3-40b6-b4a5-0f8dd6b6e26e,ZZZ,Hungary,hu,113887968465685,Quiz Whiz,Facebook
 8706e564-69cb-4146-9e79-8ff159a43e35,tiszatajonline.hu,2023-02-07T15:06:10.109Z,a141eccc-db1d-4efe-9800-bbfdc172dce1,ZZZ,Hungary,hu,247563431962015,tiszatajonline.hu,Facebook
+f1c524d3-c9e5-4411-98d7-04002c82b2f4,وزارة الخارجية والمغتربين الفلسطينية State of Palestine - MFA,2023-11-19T05:05:12.994Z,d63b8501-2f9e-484f-9578-260642bca8ee,ZZZ,Hungary,hu,390975464278928,وزارة الخارجية والمغتربين الفلسطينية State of Palestine - MFA,Facebook
 a57a6582-5ad5-4884-8378-80723a8cb047,ThinkSurvey,2023-05-02T06:51:20.316Z,c84b1768-015f-4c15-b9d1-bb5320a0fe66,ZZZ,Hungary,hu,105086025574808,ThinkSurvey,Facebook
 23699b00-7dbb-42aa-9cb3-9b564db8e03d,The Learning Lounge,2023-07-01T05:06:15.259Z,76fd4d13-e924-4179-bf6e-9e87229275ad,ZZZ,Hungary,hu,103770029438586,The Learning Lounge,Facebook
+36a0578d-e349-422b-8c80-2a4ffddf890a,Giovannagilalves,2023-06-07T06:51:13.131Z,3eb31b6e-d786-4f67-8319-c19f49b68ad6,ZZZ,Hungary,hu,345390190120001,Giovannagilalves,Facebook
 00265daa-43aa-4095-9200-0134c38eefaf,The Travel Protagonist,2023-06-24T06:45:49.592Z,23388566-8e76-485b-b0a8-cf474e4f4459,ZZZ,Hungary,hu,104045279013024,The Travel Protagonist,Facebook
 6bb3b7b0-6600-43b6-8954-c90f9bab83bf,The Fun Concierge,2023-11-29T05:05:30.647Z,b11ecd37-6dd5-485d-a5af-176b85c2c3b7,ZZZ,Hungary,hu,103705855597181,The Fun Concierge,Facebook
+a0f57939-b1b3-4a53-af3a-4da70ec8c9da,FrieslandCampina Careers,2023-05-12T06:51:22.166Z,123f9319-f77c-434b-abe5-d8da6ac93216,ZZZ,Hungary,hu,160368511216287,FrieslandCampina Careers,Facebook
 3c92a414-b97f-489d-be59-e4cb2664ff35,Swappis - Ruhaforgó,2023-06-20T05:10:05.642Z,18ed3643-3e2c-495e-8039-62d21526245d,ZZZ,Hungary,hu,213677668821415,Swappis - Ruhaforgó,Facebook
+4ea6ad71-3b3d-4205-b8cf-81fd895cb899,LISEC,2023-11-26T05:05:39.649Z,44d82f7e-b7e1-440d-b496-47e1c03d4a8a,ZZZ,Hungary,hu,1000236926784519,LISEC,Facebook
 a9343979-5382-4b42-9a65-9f62b304efee,Sunset Lux Zenekar,2023-04-29T06:51:19.009Z,b661a450-85fe-4c93-a0eb-0733e25595f5,ZZZ,Hungary,hu,132867803542760,Sunset Lux Zenekar,Facebook
 4e76f06b-a436-4dea-b5ff-0b4172c907ae,Startlap - Utazás tippek,2023-02-07T15:06:09.866Z,1ebaf378-6288-4273-863d-958f72f00616,ZZZ,Hungary,hu,109565208474856,Startlap - Utazás tippek,Facebook
-9f2f9bf7-0349-4e41-b7e9-4a537fdcc15b,sophie.greenwald,2023-11-17T05:05:24.058Z,0f6f1a3c-8d56-45b3-b9ac-1ee704eb4bd0,ZZZ,Hungary,hu,106584242024828,sophie.greenwald,Facebook
-422883ee-786e-4fd6-906e-fb5f2f207f1d,Sinopec,2023-11-26T05:05:39.649Z,4b053436-4e21-4212-b7dc-911cea41529f,ZZZ,Hungary,hu,1061420730573798,Sinopec,Facebook
-80d921db-dccc-43f8-b6c1-ab10489083d7,Sheba Tel HaShomer Global Division,2023-05-12T06:51:22.323Z,23bc3682-4741-467a-98b2-f01d340d183a,ZZZ,Hungary,hu,104405159011073,Sheba Tel HaShomer Global Division,Facebook
-9c2e88f3-6944-4c8c-8bb2-30ba2b1528f0,LMP Heves megye,2023-11-02T05:06:14.413Z,c3031c93-99ba-4c8f-992d-0d7cf606d3ca,LMP,Hungary,hu,115335071978897,LMP Heves megye,Facebook
-5f282ec7-ff6e-42ca-aa06-bd489bac69f1,Jenei Ferenc,2023-06-10T06:51:17.337Z,2ad38339-6629-4018-a5fe-3e895338598c,LMP,Hungary,hu,709769175730686,Jenei Ferenc,Facebook
-a050f804-508a-4dca-a701-b3ac249fb3a8,Quiz Whiz,2023-12-16T05:05:36.088Z,c09875e2-2eb3-40b6-b4a5-0f8dd6b6e26e,ZZZ,Hungary,hu,113887968465685,Quiz Whiz,Facebook
-f1c524d3-c9e5-4411-98d7-04002c82b2f4,وزارة الخارجية والمغتربين الفلسطينية State of Palestine - MFA,2023-11-19T05:05:12.994Z,d63b8501-2f9e-484f-9578-260642bca8ee,ZZZ,Hungary,hu,390975464278928,وزارة الخارجية والمغتربين الفلسطينية State of Palestine - MFA,Facebook
-36a0578d-e349-422b-8c80-2a4ffddf890a,Giovannagilalves,2023-06-07T06:51:13.131Z,3eb31b6e-d786-4f67-8319-c19f49b68ad6,ZZZ,Hungary,hu,345390190120001,Giovannagilalves,Facebook
-a0f57939-b1b3-4a53-af3a-4da70ec8c9da,FrieslandCampina Careers,2023-05-12T06:51:22.166Z,123f9319-f77c-434b-abe5-d8da6ac93216,ZZZ,Hungary,hu,160368511216287,FrieslandCampina Careers,Facebook
-4ea6ad71-3b3d-4205-b8cf-81fd895cb899,LISEC,2023-11-26T05:05:39.649Z,44d82f7e-b7e1-440d-b496-47e1c03d4a8a,ZZZ,Hungary,hu,1000236926784519,LISEC,Facebook
 d4c0c079-352a-4511-8cf4-18bf460cc9b0,miniBUD,2023-11-16T06:56:48.894Z,b7575b19-4365-4439-b679-839a8c2b41ad,ZZZ,Hungary,hu,1242281479181381,miniBUD,Facebook
+9f2f9bf7-0349-4e41-b7e9-4a537fdcc15b,sophie.greenwald,2023-11-17T05:05:24.058Z,0f6f1a3c-8d56-45b3-b9ac-1ee704eb4bd0,ZZZ,Hungary,hu,106584242024828,sophie.greenwald,Facebook
 0f1d010b-da09-4799-8a8c-eacc402e6ecf,"Keane Southard, Composer",2023-05-19T06:51:15.622Z,82c75c70-c8de-45d9-bff3-25b2fd30b349,ZZZ,Hungary,hu,8669021235,"Keane Southard, Composer",Facebook
+422883ee-786e-4fd6-906e-fb5f2f207f1d,Sinopec,2023-11-26T05:05:39.649Z,4b053436-4e21-4212-b7dc-911cea41529f,ZZZ,Hungary,hu,1061420730573798,Sinopec,Facebook
 4506a467-6c1a-45ba-ba93-ba4d4931fe65,Senador Deca,2023-11-26T05:05:38.874Z,8a6959e7-ba91-4fd7-923d-55363e7cd182,ZZZ,Hungary,hu,1094929010591881,Senador Deca,Facebook
+80d921db-dccc-43f8-b6c1-ab10489083d7,Sheba Tel HaShomer Global Division,2023-05-12T06:51:22.323Z,23bc3682-4741-467a-98b2-f01d340d183a,ZZZ,Hungary,hu,104405159011073,Sheba Tel HaShomer Global Division,Facebook
 a1b03730-25f2-477a-90d3-a8f393336c71,A Drop Coffee & Bar,2023-04-26T06:51:38.063Z,38ad4343-f2b1-430e-b4d7-3a6f8b58ad77,ZZZ,Hungary,hu,2115601552064268,A Drop Coffee & Bar,Facebook
 b565c4d0-da67-4d68-9363-9a54520c49f3,Steinn Energia,2023-11-26T05:05:39.578Z,5de976b1-a459-4a01-948e-d4ae8e2982a8,ZZZ,Hungary,hu,102073112096080,Steinn Energia,Facebook
+adafa080-0123-481d-9a61-ed8f029ed2be,LMP Terézváros,2023-10-29T05:05:43.649Z,4188f541-a158-46ff-99b2-3ea08a8f62dd,LMP,Hungary,hu,130803083601056,LMP Terézváros,Facebook
+c2fdb96a-cb6f-4256-a668-213f1c1276a3,LMP Bács-Kiskun megye,2023-09-04T05:05:24.311Z,11663994-9e49-4918-8bf1-10c4ab5b0231,LMP,Hungary,hu,366289480102377,LMP Bács-Kiskun megye,Facebook
 fe6180d1-c727-4054-9eff-af2b19341583,Little G Weevil,2023-11-17T05:05:24.191Z,1725780e-5f44-4527-a1ed-b07a493ebd1e,ZZZ,Hungary,hu,782748801739898,Little G Weevil,Facebook
+6172f5c4-fee8-4e2b-90cc-1161593c2157,Aqua Magazin,2023-05-12T06:51:22.163Z,47ff725e-cc1d-4c7d-8fc8-a4e495f915ea,ZZZ,Hungary,hu,1703090843255074,Aqua Magazin,Facebook
 f1afd300-c1b1-4795-8e56-1f110ab9ed28,Winri,2023-11-12T05:05:31.587Z,2f12dd4b-337a-491e-afd1-ba934fa8c6a9,ZZZ,Hungary,hu,154794477715691,Winri,Facebook
+206d228c-4187-4e8f-be59-2d90f3c98c4d,Magnolia Art Kertépítő Kft.,2023-11-15T05:05:21.346Z,2eab38e0-3a9a-4f5b-823d-b7043f4bad71,ZZZ,Hungary,hu,1803768663206994,Magnolia Art Kertépítő Kft.,Facebook
 b7bf3b8e-595a-480f-9e78-3e38f8b42e40,Judafest,2023-09-12T05:04:54.251Z,f3123d4b-63bd-4e26-9a4a-1888b3a506cc,ZZZ,Hungary,hu,175120248197,Judafest,Facebook
+e699296b-4de9-4cfb-b48c-61a88b7e3489,BlueSpot,2023-09-05T05:05:28.268Z,3177dfeb-ff59-41c6-98a6-2f5adc57f6c8,ZZZ,Hungary,hu,101343431680337,BlueSpot,Facebook
 27fa93d8-2cd0-4165-96ac-13f006f38743,Master Good,2023-06-06T06:51:16.070Z,70094ccd-b7d7-4f1e-bf1b-b481b9def164,ZZZ,Hungary,hu,126613395605283,Master Good,Facebook
+78aed2e1-b03b-4727-b436-163830277060,Lanarkshire Soffits,2023-09-09T05:05:24.200Z,f0181ef4-bbd2-4442-8322-683ebe12cfcc,ZZZ,Hungary,hu,112383578592701,Lanarkshire Soffits,Facebook
 bf337444-7ee4-4775-8b2e-85c1b3dd9540,Europe in your language,2023-06-30T05:06:05.196Z,02141ba0-02e7-4d1f-b1a2-7242667c3815,ZZZ,Hungary,hu,103344011910077,Europe in your language,Facebook
+60c2e58a-cb9e-4a49-855b-9c8069c408c0,Love Tees,2023-09-13T05:05:14.222Z,63faf201-2580-4988-a1bd-075acc673be0,ZZZ,Hungary,hu,101617839323648,Love Tees,Facebook
+c6af16ed-bcc5-49ee-a3e1-cb22f9af830c,Today news,2023-11-03T05:05:29.970Z,e1a618f6-8c87-48b9-9f13-b63f8408cc7c,ZZZ,Hungary,hu,112492021770969,Today news,Facebook
 007da328-42e5-45a2-9061-a5353a7745e3,Bazinga Trans Kft.,2023-11-20T05:05:43.021Z,5c22d171-8311-49fd-80b7-9b88fcd4b12b,ZZZ,Hungary,hu,363762334442916,Bazinga Trans Kft.,Facebook
+4916e74d-97b7-49d8-89c5-f4595a153879,Photos of unusual food,2023-07-26T05:07:17.554Z,b8420386-5b90-4c80-a01e-c05e0fb522f5,ZZZ,Hungary,hu,100342463082021,Photos of unusual food,Facebook
 377e411f-e4da-459f-b0f4-3039b00423d1,SORP - Платформа для бизнеса,2023-04-25T06:51:07.569Z,fee4661f-9f53-414b-bc92-130b5c212f41,ZZZ,Hungary,hu,421320345307555,SORP - Платформа для бизнеса,Facebook
+b5da474d-4372-4093-8ffa-89739ded38b3,Aktualności,2023-11-03T05:05:29.953Z,1fe01983-d537-4947-8f18-3ac91424da21,ZZZ,Hungary,hu,144149575449819,Aktualności,Facebook
 288d3534-7716-40a4-8e80-1590f92fa6de,_wunderkinder_,2023-10-27T05:06:27.738Z,9a97cbea-0c8b-4686-9559-c676d865706b,ZZZ,Hungary,hu,103475275142680,_wunderkinder_,Facebook
+a62b4dc3-c7dd-4255-9cde-bc6e53817f20,ITBUSINESS,2023-05-19T06:51:15.621Z,d924f6df-00b0-48d1-a034-4eb29ec8088a,ZZZ,Hungary,hu,176494072381376,ITBUSINESS,Facebook
 b9da9d8f-2335-47cb-8528-afad0ec399e0,WAVE Network,2023-11-24T05:05:30.940Z,54c61cbf-43f5-4080-a893-9b4edb37c4be,ZZZ,Hungary,hu,100277033374347,WAVE Network,Facebook
+d552072f-8cd0-4a12-9f4b-fbee2862a6d0,Wright Bruce,2023-07-08T06:05:48.839Z,59432973-45d8-4698-b534-5ee77390a13a,ZZZ,Hungary,hu,112859311787486,Wright Bruce,Facebook
+4af0c874-f509-4cea-aed9-4cbf24ed7b04,WHB Group,2023-06-10T06:51:17.564Z,5b93a7d2-4a11-456f-bee1-748d50db7c12,ZZZ,Hungary,hu,472253713316408,WHB Group,Facebook
 51014320-309c-484e-856f-e04125a937d5,Благодійний фонд A36,2023-06-07T06:51:13.112Z,b708728a-4d01-4d9d-b496-36faae0439be,ZZZ,Hungary,hu,101668682611759,Благодійний фонд A36,Facebook
 d21a00cf-8ca2-4ad9-9964-c322a4d08049,zsido.com,2023-02-27T10:51:31.558Z,49145bca-c7cf-4c09-ac77-beffd0c756de,ZZZ,Hungary,hu,227133307383315,zsido.com,Facebook
 46eab90a-232c-4620-b662-6b899a15f0e9,Tinfoil U-Turn,2023-06-02T06:51:24.335Z,cdbb884a-c456-4606-a1c7-2e8ec13487d0,ZZZ,Hungary,hu,111497354798409,Tinfoil U-Turn,Facebook
 acc1671c-6e36-4939-b611-eaecce447660,The Upright Project,2023-04-16T15:03:40.879Z,46185829-ac47-4a46-b8b1-2c3a5c739a21,ZZZ,Hungary,hu,441703342896364,The Upright Project,Facebook
 df0b080d-fd72-4c65-a278-aa3b0ef4d937,Sunwo Zrt.,2023-07-13T12:40:23.780Z,c0db04f1-ebfe-42ce-a294-83d1548cbffc,ZZZ,Hungary,hu,209361409156920,Sunwo Zrt.,Facebook
-d836d141-5e0d-48d3-a5c9-c1d8b26d4d38,Suni Kft.,2023-11-05T05:05:16.741Z,7d1323e3-b214-40e5-b5d2-ab50f43f8d17,ZZZ,Hungary,hu,969306906464537,Suni Kft.,Facebook
-185dc958-0bfa-4ca3-b04f-b4a1c9d7d275,Startlap - Vásárlás tippek,2023-02-07T15:06:09.835Z,94918db7-ec7c-49aa-8912-422ff24e5ea3,ZZZ,Hungary,hu,100452852734271,Startlap - Vásárlás tippek,Facebook
-54fa2674-bb1c-4e8d-a6d8-2170e5e88129,S PARK Kaposvár,2024-01-20T05:05:22.778Z,bdae6dba-80e4-4265-b706-16741be010b9,ZZZ,Hungary,hu,105795768150302,S PARK Kaposvár,Facebook
-f0911399-475e-4a51-9e34-cb37fa68ec18,Simbaly - Lifestyle,2023-04-19T06:51:21.536Z,00887f23-badd-4ea2-9188-7aff7456921c,ZZZ,Hungary,hu,106824494733100,Simbaly - Lifestyle,Facebook
-5531a93d-d80c-4623-8d1d-e7cb2cd7edeb,Scolar Kiadó,2023-11-17T05:05:23.925Z,568184ec-a023-4d8a-95a9-292f7dbf0b3b,ZZZ,Hungary,hu,108356412526927,Scolar Kiadó,Facebook
-66c65d45-d611-417f-ab1b-7c93c69aa126,SAS Software,2023-11-02T05:06:14.615Z,c548ca7b-c949-438e-9793-dd3dda8ec946,ZZZ,Hungary,hu,193453547355388,SAS Software,Facebook
-fad4f6ae-b95f-4a2b-8795-371a63d7c8b5,Salad Dressing,2024-01-08T05:05:24.027Z,9930d9d2-baf1-44da-93fc-56b321dcbcdf,ZZZ,Hungary,hu,217631615012394,Salad Dressing,Facebook
-4c62b111-2433-494d-a453-56d558303656,Safe qr,2024-01-16T05:05:25.563Z,ea49c0b8-b748-4eea-a35f-3f3576ebe9f8,ZZZ,Hungary,hu,123960650598209,Safe qr,Facebook
-9538bcea-ecd5-4fd1-863c-98a8ca4d4368,Rock City Tour,2023-12-06T05:05:27.686Z,d1ab31a2-ff99-4c92-a2e2-3a6c6fd495c4,ZZZ,Hungary,hu,108567228136232,Rock City Tour,Facebook
-adafa080-0123-481d-9a61-ed8f029ed2be,LMP Terézváros,2023-10-29T05:05:43.649Z,4188f541-a158-46ff-99b2-3ea08a8f62dd,LMP,Hungary,hu,130803083601056,LMP Terézváros,Facebook
-c2fdb96a-cb6f-4256-a668-213f1c1276a3,LMP Bács-Kiskun megye,2023-09-04T05:05:24.311Z,11663994-9e49-4918-8bf1-10c4ab5b0231,LMP,Hungary,hu,366289480102377,LMP Bács-Kiskun megye,Facebook
-6172f5c4-fee8-4e2b-90cc-1161593c2157,Aqua Magazin,2023-05-12T06:51:22.163Z,47ff725e-cc1d-4c7d-8fc8-a4e495f915ea,ZZZ,Hungary,hu,1703090843255074,Aqua Magazin,Facebook
-206d228c-4187-4e8f-be59-2d90f3c98c4d,Magnolia Art Kertépítő Kft.,2023-11-15T05:05:21.346Z,2eab38e0-3a9a-4f5b-823d-b7043f4bad71,ZZZ,Hungary,hu,1803768663206994,Magnolia Art Kertépítő Kft.,Facebook
-e699296b-4de9-4cfb-b48c-61a88b7e3489,BlueSpot,2023-09-05T05:05:28.268Z,3177dfeb-ff59-41c6-98a6-2f5adc57f6c8,ZZZ,Hungary,hu,101343431680337,BlueSpot,Facebook
-78aed2e1-b03b-4727-b436-163830277060,Lanarkshire Soffits,2023-09-09T05:05:24.200Z,f0181ef4-bbd2-4442-8322-683ebe12cfcc,ZZZ,Hungary,hu,112383578592701,Lanarkshire Soffits,Facebook
-60c2e58a-cb9e-4a49-855b-9c8069c408c0,Love Tees,2023-09-13T05:05:14.222Z,63faf201-2580-4988-a1bd-075acc673be0,ZZZ,Hungary,hu,101617839323648,Love Tees,Facebook
-c6af16ed-bcc5-49ee-a3e1-cb22f9af830c,Today news,2023-11-03T05:05:29.970Z,e1a618f6-8c87-48b9-9f13-b63f8408cc7c,ZZZ,Hungary,hu,112492021770969,Today news,Facebook
-4916e74d-97b7-49d8-89c5-f4595a153879,Photos of unusual food,2023-07-26T05:07:17.554Z,b8420386-5b90-4c80-a01e-c05e0fb522f5,ZZZ,Hungary,hu,100342463082021,Photos of unusual food,Facebook
-b5da474d-4372-4093-8ffa-89739ded38b3,Aktualności,2023-11-03T05:05:29.953Z,1fe01983-d537-4947-8f18-3ac91424da21,ZZZ,Hungary,hu,144149575449819,Aktualności,Facebook
-a62b4dc3-c7dd-4255-9cde-bc6e53817f20,ITBUSINESS,2023-05-19T06:51:15.621Z,d924f6df-00b0-48d1-a034-4eb29ec8088a,ZZZ,Hungary,hu,176494072381376,ITBUSINESS,Facebook
-d552072f-8cd0-4a12-9f4b-fbee2862a6d0,Wright Bruce,2023-07-08T06:05:48.839Z,59432973-45d8-4698-b534-5ee77390a13a,ZZZ,Hungary,hu,112859311787486,Wright Bruce,Facebook
-4af0c874-f509-4cea-aed9-4cbf24ed7b04,WHB Group,2023-06-10T06:51:17.564Z,5b93a7d2-4a11-456f-bee1-748d50db7c12,ZZZ,Hungary,hu,472253713316408,WHB Group,Facebook
 646ab0ee-7098-45e6-8d00-8c962130e27f,LMP Komárom-Esztergom megye,2023-10-24T05:05:24.062Z,23fe1907-68e2-48f1-82c4-cfc49b26289b,LMP,Hungary,hu,320394204677362,LMP Komárom-Esztergom megye,Facebook
+d836d141-5e0d-48d3-a5c9-c1d8b26d4d38,Suni Kft.,2023-11-05T05:05:16.741Z,7d1323e3-b214-40e5-b5d2-ab50f43f8d17,ZZZ,Hungary,hu,969306906464537,Suni Kft.,Facebook
 477ccb3e-710e-4de3-8e90-2e9e1dc2b4d3,LMP Szolnok,2023-09-09T05:05:23.741Z,d968e06f-deaf-485a-bcf3-dbed4b699721,LMP,Hungary,hu,551716414855244,LMP Szolnok,Facebook
+185dc958-0bfa-4ca3-b04f-b4a1c9d7d275,Startlap - Vásárlás tippek,2023-02-07T15:06:09.835Z,94918db7-ec7c-49aa-8912-422ff24e5ea3,ZZZ,Hungary,hu,100452852734271,Startlap - Vásárlás tippek,Facebook
 85150ee3-a33d-4eef-9e4f-4bdfbd2b901e,Remini - AI Photo Enhancer,2024-01-02T05:05:12.755Z,c4497361-48e0-4558-b98e-f3688e43c732,ZZZ,Hungary,hu,105387374172299,Remini - AI Photo Enhancer,Facebook
+54fa2674-bb1c-4e8d-a6d8-2170e5e88129,S PARK Kaposvár,2024-01-20T05:05:22.778Z,bdae6dba-80e4-4265-b706-16741be010b9,ZZZ,Hungary,hu,105795768150302,S PARK Kaposvár,Facebook
 77960cc7-b32e-4523-90cd-6b3a30e523ed,PénzesAncsa,2023-10-30T05:05:22.307Z,ecb18bc1-6bbe-4470-8c5b-f2c2c0030672,ZZZ,Hungary,hu,105203009290791,PénzesAncsa,Facebook
 80d18d54-7f44-40fa-bbad-3e95d815c4ed,vintheuniverse,2023-10-20T05:05:23.106Z,dba26bed-9ab4-48f5-9fb3-1ff303d8af83,ZZZ,Hungary,hu,108855532282177,vintheuniverse,Facebook
+f0911399-475e-4a51-9e34-cb37fa68ec18,Simbaly - Lifestyle,2023-04-19T06:51:21.536Z,00887f23-badd-4ea2-9188-7aff7456921c,ZZZ,Hungary,hu,106824494733100,Simbaly - Lifestyle,Facebook
 b9b06784-1137-42de-88d7-c6d1464fd70c,Last Friendly,2023-05-04T06:51:19.131Z,c93c668f-311f-4634-99cd-f6a3d03893c5,ZZZ,Hungary,hu,106408522445243,Last Friendly,Facebook
+5531a93d-d80c-4623-8d1d-e7cb2cd7edeb,Scolar Kiadó,2023-11-17T05:05:23.925Z,568184ec-a023-4d8a-95a9-292f7dbf0b3b,ZZZ,Hungary,hu,108356412526927,Scolar Kiadó,Facebook
 33caf39c-99a2-4332-9feb-557da22fb84a,The Future of Protein Production,2023-07-25T05:06:15.928Z,62e4bda0-b194-445c-be25-84d138484a57,ZZZ,Hungary,hu,102490802510744,The Future of Protein Production,Facebook
+66c65d45-d611-417f-ab1b-7c93c69aa126,SAS Software,2023-11-02T05:06:14.615Z,c548ca7b-c949-438e-9793-dd3dda8ec946,ZZZ,Hungary,hu,193453547355388,SAS Software,Facebook
 6ceea04e-99fe-4f21-9fc4-84d8494cfbe3,Id4,2023-05-01T06:51:11.428Z,fdb8677f-bd09-4974-af8f-14afb4ce10fc,ZZZ,Hungary,hu,115164768219510,Id4,Facebook
 2c1ac926-d55d-42c4-b45f-37880695b08c,wilddrootss.com,2023-12-13T05:05:40.451Z,04ba7856-68b6-41cc-866c-41da9797831a,ZZZ,Hungary,hu,109392282249312,wilddrootss.com,Facebook
+fad4f6ae-b95f-4a2b-8795-371a63d7c8b5,Salad Dressing,2024-01-08T05:05:24.027Z,9930d9d2-baf1-44da-93fc-56b321dcbcdf,ZZZ,Hungary,hu,217631615012394,Salad Dressing,Facebook
 c57834b8-92ae-4bfa-b23a-543d2f37a5ce,Pauline Nordin,2023-06-08T06:51:27.583Z,d8464f56-117e-4142-bee9-146606e81c70,ZZZ,Hungary,hu,270052016419167,Pauline Nordin,Facebook
-8b01af1d-d49d-4f3b-ba2e-ef61ca82d266,GaborArts,2024-01-16T05:05:25.477Z,1b07699c-1918-4b34-9c0c-b4b741e424db,ZZZ,Hungary,hu,269045039850538,GaborArts,Facebook
-97f48846-0916-40a9-89d8-af18f628652e,CoolMiskolc,2023-12-27T05:05:27.593Z,65fe94e2-1644-4e90-8d7f-b1f4f7c9a5f6,ZZZ,Hungary,hu,179315485258639,CoolMiskolc,Facebook
-add1c3bc-46b7-4eb8-9a1f-fcf91936967e,Tarr Kft,2023-07-12T14:58:16.051Z,dd6ea9d6-5f28-4ec8-898c-14ed796954b3,ZZZ,Hungary,hu,190927540924387,Tarr Kft,Facebook
-07160a24-91b5-4723-abf7-b6f980f0ad68,In Polish,2023-12-06T05:05:27.763Z,7870464f-feb4-4540-ac8e-3221104c37d6,ZZZ,Hungary,hu,190933417428669,In Polish,Facebook
-be501cb2-4706-40df-8739-3081c74d3d87,KITE Zrt.,2023-11-24T05:05:30.637Z,bec8c9c7-c407-40c2-8d69-7c2269289923,ZZZ,Hungary,hu,360560230636247,KITE Zrt.,Facebook
-32700daa-5997-4229-8b6b-cc9884cca4df,SPORTJUS Magyar Sportjogász Társaság,2023-05-09T06:51:17.420Z,ba07d2eb-1d38-4d60-9d57-881b5ac3f186,ZZZ,Hungary,hu,217193301756752,SPORTJUS Magyar Sportjogász Társaság,Facebook
-3dae4f6e-d437-4b69-9489-3dac25ec073e,Wingless Style,2023-03-08T14:39:22.717Z,38a29a41-c4fe-4d95-a30d-9ecc03744bfa,ZZZ,Hungary,hu,308388529535968,Wingless Style,Facebook
-d21a31d1-ec15-4bb3-9c76-bc80d51b839b,Новости,2023-12-01T05:05:35.338Z,5d07052a-f809-40cc-92d6-ee7beb08379a,ZZZ,Hungary,hu,177710078758581,Новости,Facebook
+4c62b111-2433-494d-a453-56d558303656,Safe qr,2024-01-16T05:05:25.563Z,ea49c0b8-b748-4eea-a35f-3f3576ebe9f8,ZZZ,Hungary,hu,123960650598209,Safe qr,Facebook
+9538bcea-ecd5-4fd1-863c-98a8ca4d4368,Rock City Tour,2023-12-06T05:05:27.686Z,d1ab31a2-ff99-4c92-a2e2-3a6c6fd495c4,ZZZ,Hungary,hu,108567228136232,Rock City Tour,Facebook
 760cc8bd-039f-458f-9c93-6a406d95a8c4,Tóth Áron,2023-10-17T05:05:30.911Z,e5fd339d-087f-4766-be32-aec5e7507bf2,LMP,Hungary,hu,323625058197042,Tóth Áron,Facebook
 921565d0-bfbf-43fa-9ca1-04e93c3a417b,Szabolcs Dorottya,2023-07-03T06:14:14.573Z,d3bd1e87-ced9-45e0-a855-3f170d8c7c8a,LMP,Hungary,hu,107457213927105,Szabolcs Dorottya,Facebook
 5ddb55ac-ba35-4b4a-b581-7fd349f8c1b9,Gamax Laboratory Solutions,2023-04-28T06:51:09.066Z,e2dfff05-3a9e-4a5e-b1ec-a94814f14e5f,ZZZ,Hungary,hu,177762839019525,Gamax Laboratory Solutions,Facebook
@@ -2556,5 +2548,13 @@ ffbff239-42b4-4b81-b370-8bdd51f537cb,EB Infotech,2024-02-25T03:05:41.725Z,640d00
 dfa2f8af-afb6-41db-b04d-c02f612d1fc1,Institute for Psychodynamic Coaching,2024-02-29T03:05:21.097Z,600b3432-13f0-4000-88f0-d8e3305adca4,ZZZ,Hungary,hu,102584404555412,Institute for Psychodynamic Coaching,Facebook
 f298bce2-968f-47c4-a241-521501f3149a,Perneczky László,2024-03-12T06:23:38.633Z,9c80085e-1b3e-4e4a-a9f0-af04cbf80095,LMP,Hungary,hu,265807060164221,Perneczky László,Facebook
 b1e3a7e7-7a3f-4e0c-9c77-2d61fcd5b817,Nemcsik Mátyás,2024-03-12T06:23:38.649Z,9b9acec7-5696-4916-88a6-9384d904fa4c,Fid,Hungary,hu,259960887195980,Nemcsik Mátyás,Facebook
-67d06ff8-a43c-4fbb-9549-2b7fc58504e1,Lenkai Nóra,2024-02-25T03:05:41.609Z,a75de772-e4b6-4495-be87-c123bdfb530a,Fid,Hungary,hu,260670460453757,Lenkai Nóra,Facebook
+8b01af1d-d49d-4f3b-ba2e-ef61ca82d266,GaborArts,2024-01-16T05:05:25.477Z,1b07699c-1918-4b34-9c0c-b4b741e424db,ZZZ,Hungary,hu,269045039850538,GaborArts,Facebook
+97f48846-0916-40a9-89d8-af18f628652e,CoolMiskolc,2023-12-27T05:05:27.593Z,65fe94e2-1644-4e90-8d7f-b1f4f7c9a5f6,ZZZ,Hungary,hu,179315485258639,CoolMiskolc,Facebook
+add1c3bc-46b7-4eb8-9a1f-fcf91936967e,Tarr Kft,2023-07-12T14:58:16.051Z,dd6ea9d6-5f28-4ec8-898c-14ed796954b3,ZZZ,Hungary,hu,190927540924387,Tarr Kft,Facebook
+07160a24-91b5-4723-abf7-b6f980f0ad68,In Polish,2023-12-06T05:05:27.763Z,7870464f-feb4-4540-ac8e-3221104c37d6,ZZZ,Hungary,hu,190933417428669,In Polish,Facebook
+be501cb2-4706-40df-8739-3081c74d3d87,KITE Zrt.,2023-11-24T05:05:30.637Z,bec8c9c7-c407-40c2-8d69-7c2269289923,ZZZ,Hungary,hu,360560230636247,KITE Zrt.,Facebook
+32700daa-5997-4229-8b6b-cc9884cca4df,SPORTJUS Magyar Sportjogász Társaság,2023-05-09T06:51:17.420Z,ba07d2eb-1d38-4d60-9d57-881b5ac3f186,ZZZ,Hungary,hu,217193301756752,SPORTJUS Magyar Sportjogász Társaság,Facebook
+3dae4f6e-d437-4b69-9489-3dac25ec073e,Wingless Style,2023-03-08T14:39:22.717Z,38a29a41-c4fe-4d95-a30d-9ecc03744bfa,ZZZ,Hungary,hu,308388529535968,Wingless Style,Facebook
+d21a31d1-ec15-4bb3-9c76-bc80d51b839b,Новости,2023-12-01T05:05:35.338Z,5d07052a-f809-40cc-92d6-ee7beb08379a,ZZZ,Hungary,hu,177710078758581,Новости,Facebook
 23722b3a-6409-4489-9d4e-c0f0d158893d,Dombi Rudolf,2024-02-25T03:05:41.651Z,f98c9764-1547-430a-ae71-72c8a69641ad,Fid,Hungary,hu,243437238842706,Dombi Rudolf,Facebook
+67d06ff8-a43c-4fbb-9549-2b7fc58504e1,Lenkai Nóra,2024-02-25T03:05:41.609Z,a75de772-e4b6-4495-be87-c123bdfb530a,Fid,Hungary,hu,260670460453757,Lenkai Nóra,Facebook
